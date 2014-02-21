@@ -3,10 +3,7 @@ title: Hello, World!
 layout: defaults
 ---
 
-# Hello World Again!!
-
-This is a huge header
-=====================
+# Gregory M. Kapfhammer
 
 Dr. Gregory M. Kapfhammer is an Associate Professor in the Department of Computer Science at Allegheny College. Dr.
 Kapfhammer earned his PhD from the Department of Computer Science at the University of Pittsburgh. Kapfhammer's PhD
