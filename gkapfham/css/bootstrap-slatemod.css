@@ -287,13 +287,15 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #ffffff;
+  color: #b8860b;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #ffffff;
-  text-decoration: underline;
+  color: #b8860b;
+  /* text-decoration: underline; */
+  border-bottom:3px solid;
+  border-bottom-color: #b8860b;
 }
 a:focus {
   outline: thin dotted;
