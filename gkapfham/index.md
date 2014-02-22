@@ -5,6 +5,8 @@ layout: defaults
 
 # Gregory M. Kapfhammer
 
+## Associate Professor of Computer Science
+
 Dr. Gregory M. Kapfhammer is an Associate Professor in the [Department of Computer Science](http://www.cs.allegheny.edu)
 at Allegheny College. Dr.  Kapfhammer earned his PhD from the Department of Computer Science at the University of
 Pittsburgh. Kapfhammer's PhD dissertation research was supervised by Dr. Mary Lou Soffa. Kapfhammer also earned a BSc in
