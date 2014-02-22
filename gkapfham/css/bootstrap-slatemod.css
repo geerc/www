@@ -293,7 +293,6 @@ a {
 a:hover,
 a:focus {
   color: #b8860b;
-  /* text-decoration: underline; */
   border-bottom:3px solid;
   border-bottom-color: #b8860b;
 }
@@ -364,10 +363,14 @@ h6,
 .h5,
 .h6 {
   font-family: 'Ubuntu', sans-serif;
-  font-weight: 800;
+  font-weight: 700;
   line-height: 1.1;
   color: inherit;
 }
+h1 {
+   color: #707880;  
+}
+
 h1 small,
 h2 small,
 h3 small,
@@ -444,7 +447,7 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 46px;
+  font-size: 54px;
 }
 h2,
 .h2 {
