@@ -1,5 +1,5 @@
 ---
-title: Hello, World!
+title: Gregory M. Kapfhammer 
 layout: defaults
 ---
 
