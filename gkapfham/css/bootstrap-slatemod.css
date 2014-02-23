@@ -13,6 +13,7 @@ html {
 }
 body {
     margin: 0;
+    margin-bottom: 60px;
 }
 article,
 aside,
@@ -6140,4 +6141,13 @@ legend {
 .background-darken {
     background-color: #090B0D;
 }
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #1d1f21;
+}
+
 
