@@ -13,7 +13,7 @@ html {
 }
 body {
     margin: 0;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
 }
 article,
 aside,
@@ -6146,8 +6146,15 @@ legend {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
-  background-color: #1d1f21;
+  height: 65px;
+  padding-top: 10px;
+  background-color: #3a3f44;
+  text=align: center;
+}
+@media only screen and (max-device-width: 480px) {
+    #footer {
+        height: auto;
+    }
 }
 
 
