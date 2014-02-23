@@ -13,7 +13,7 @@ html {
 }
 body {
     margin: 0;
-    margin-bottom: 70px;
+    /* margin-bottom: 10px; */
 }
 article,
 aside,
@@ -6141,20 +6141,23 @@ legend {
 .background-darken {
     background-color: #090B0D;
 }
-#footer {
-  position: absolute;
-  bottom: 0;
+.background-lighten{
+    background-color: #3a3f44;
+}
+.footer {
+  /* position: absolute; */
+  /* bottom: 0; */
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 65px;
+  /* height: 65px; */
+  margin-top: 10px;
   padding-top: 10px;
   background-color: #3a3f44;
-  text=align: center;
 }
-@media only screen and (max-device-width: 480px) {
-    #footer {
-        height: auto;
-    }
-}
-
+/* @media only screen and (max-device-width: 480px) { */
+/*     #footer { */
+/*         height: auto; */
+/*     } */
+/* } */
+/*  */
 
