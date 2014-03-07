@@ -6153,7 +6153,7 @@ legend {
     text-align: center;
     vertical-align: middle;
 }
-.centering {
+.pushdown-vertical {
   margin-top:2em;
   height: 100%;
   text-align: left;
