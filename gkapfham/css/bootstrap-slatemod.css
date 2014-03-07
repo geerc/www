@@ -6161,7 +6161,28 @@ legend {
 }
 .centering {
   float:none;
-  margin:0 auto;
+  margin-top:100px;
+  height: 100%;
+    text-align: center;
+}
+.centertry{
+   display: inline-block !important;
+    border: solid 1px red;
+    vertical-align: middle;
+    line-height: 1.5;
+}
+.row > .span3 {
+    display: inline-block !important;
+    vertical-align: middle !important;
+}
+.v-center {
+    display:table;
+    height:300px;
+}
+.content {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:left;
 }
 /* @media only screen and (max-device-width: 480px) { */
 /*     #footer { */
