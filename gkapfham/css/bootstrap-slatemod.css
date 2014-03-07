@@ -6155,6 +6155,14 @@ legend {
   padding-top: 10px;
   background-color: #3a3f44;
 }
+.center-xy {
+    text-align: center;
+    vertical-align: middle;
+}
+.centering {
+  float:none;
+  margin:0 auto;
+}
 /* @media only screen and (max-device-width: 480px) { */
 /*     #footer { */
 /*         height: auto; */
