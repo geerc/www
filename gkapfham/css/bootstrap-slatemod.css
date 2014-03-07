@@ -6156,7 +6156,7 @@ legend {
 .centering {
   margin-top:2em;
   height: 100%;
-  text-align: center;
+  text-align: left;
 }
 /* @media only screen and (max-device-width: 480px) { */
 /*     #footer { */
