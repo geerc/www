@@ -404,10 +404,12 @@ h2 {
     line-height: 1.5;
 }
 h3 {
-    color: #b294bb;
+    color: #707880;  
+    /* color: #b294bb; */
 }
 h4 {
-    color: #b5bd68;
+    color: #707880;  
+    /* color: #b5bd68; */
 }
 h1 small,
 h2 small,
