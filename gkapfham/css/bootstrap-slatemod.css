@@ -288,7 +288,7 @@ textarea {
     line-height: inherit;
 }
 a {
-    color: #b8860b;
+    color: #df8700;
     text-decoration: none;
     -o-transition:.5s;
     -ms-transition:.5s;
@@ -6184,6 +6184,7 @@ legend {
 .sidebar {
     font-family: 'Roboto', sans;
 }
+#twitter-widget-0 {width: 100%;}
 /* @media only screen and (max-device-width: 480px) { */
 /*     #footer { */
 /*         height: auto; */
