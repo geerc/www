@@ -308,6 +308,28 @@ a:focus {
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px;
 }
+a.navigate {
+    color: #c5c8c6;
+    text-decoration: none;
+    font-weight: bold;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    /* ...and now for the proper property */
+    transition:.5s;
+}
+a.navigate:hover,
+a.navigate:focus {
+    color: #c5c8c6;
+    /* border-bottom:3px solid; */
+    /* border-bottom-color: #b8860b; */
+}
+a.navigate:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
 figure {
     margin: 0;
 }
@@ -369,9 +391,9 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 700;
-    line-height: 1.1;
+    font-family: 'Lusitana', sans-serif;
+    font-weight: 500;
+    line-height: 1.0;
     color: inherit;
 }
 h1 {
@@ -379,6 +401,7 @@ h1 {
 }
 h2 {
     color: #81a2be;
+    line-height: 1.5;
 }
 h3 {
     color: #b294bb;
@@ -3956,7 +3979,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     }
 }
 .navbar-default {
-    background-color: #3a3f44;
+    background-color: #2b2e32;
     border-color: #2b2e32;
 }
 .navbar-default .navbar-brand {
@@ -6154,9 +6177,12 @@ legend {
     vertical-align: middle;
 }
 .pushdown-vertical {
-  margin-top:2em;
+  margin-top: 150px;
   height: 100%;
   text-align: left;
+}
+.sidebar {
+    font-family: 'Roboto', sans;
 }
 /* @media only screen and (max-device-width: 480px) { */
 /*     #footer { */
