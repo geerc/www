@@ -5,23 +5,16 @@ layout: defaults
 
 # Gregory M. Kapfhammer
 
-## Associate Professor of Computer Science
+Welcome! My name is Gregory M. Kapfhammer and I am an Associate Professor in and Chair of the [Department of
+Computer](www.cs.allegheny.edu) Science at [Allegheny College](www.allegheny.edy). I teach courses and conduct research in the
+areas of algorithms, data structures, software engineering, software testing, data management, mobile applications, and
+computer systems. In addition to organizing and teaching seminars on research methods in computer science and effective
+writing and speaking, I serve as an academic and research adviser for undergraduate and graduate students.  
 
-Gregory M. Kapfhammer is an Associate Professor in the [Department of Computer Science](http://www.cs.allegheny.edu)
-at Allegheny College. Dr.  Kapfhammer earned his PhD from the Department of Computer Science at the University of
-Pittsburgh. Kapfhammer's PhD dissertation research was supervised by Dr. Mary Lou Soffa. Kapfhammer also earned a BSc in
-Computer Science from Allegheny College and a MSc in Computer Science from the University of Pittsburgh. Kapfhammer has
-held positions as a visiting research scientist in the Department of Computer Science at the University of Virginia and
-as a research associate at Cigital Research Labs. 
+> <b>Expertise</b>: software engineering, software testing, data management, computer systems 
+> 
 
-Dr. Gregory M. Kapfhammer is an Associate Professor in the [Department of Computer Science](http://www.cs.allegheny.edu)
-at Allegheny College. Dr.  Kapfhammer earned his PhD from the Department of Computer Science at the University of
-Pittsburgh. Kapfhammer's PhD dissertation research was supervised by Dr. Mary Lou Soffa. Kapfhammer also earned a BSc in
-Computer Science from Allegheny College and a MSc in Computer Science from the University of Pittsburgh. Kapfhammer has
-held positions as a visiting research scientist in the Department of Computer Science at the University of Virginia and
-as a research associate at Cigital Research Labs. 
-
-### Status Updates from Gregory M. Kapfhammer !!
+### Status Updates from Gregory M. Kapfhammer
 
 <a class="twitter-timeline" 
 data-dnt="true"
