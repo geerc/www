@@ -13,6 +13,7 @@ html {
 }
 body {
     margin: 0;
+    margin-bottom: -10px;
     /* margin-bottom: 10px; */
 }
 article,
@@ -273,7 +274,7 @@ html {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-    font-family: 'Rosario', serif;
+    font-family: 'Merriweather Sans', sans;
     font-size: 16px;
     line-height: 1.52857143;
     color: #c5c8c6;
@@ -392,7 +393,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: 'Vollkorn', serif;
+    font-family: 'Merriweather', serif;
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
@@ -3689,7 +3690,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     border-top-left-radius: 0;
 }
 .navbar {
-    font-family: 'Rosario', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     position: relative;
     min-height: 50px;
     margin-bottom: 20px;
@@ -5208,7 +5209,8 @@ button.close {
 }
 .modal-body {
     position: relative;
-    padding: 20px;
+    /* padding-bottom:-20px; */
+    /* padding: 20px; */
 }
 .modal-footer {
     margin-top: 15px;
@@ -6191,7 +6193,7 @@ legend {
   text-align: left;
 }
 .sidebar {
-    font-family: 'Rosario', sans;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 .center {
     text-align:center;    
@@ -6207,12 +6209,5 @@ legend {
 }
 #twitter-widget-0 {
     width: 100% !important;
+    font-family: Rosario !important;
 }
-
-/* @media only screen and (max-device-width: 480px) { */
-/*     #footer { */
-/*         height: auto; */
-/*     } */
-/* } */
-/*  */
-
