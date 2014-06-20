@@ -300,7 +300,8 @@ a {
 }
 a:hover,
 a:focus {
-    color: #ffcc00;
+    color: #fea927;
+    /* color: #ffcc00; */
     /* color: #b5bd68; */
     /* border-bottom:3px solid; */
     /* border-bottom-color: #b8860b; */
