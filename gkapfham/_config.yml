@@ -8,4 +8,4 @@ paginate: 10
 markdown: rdiscount
 permalink: /:categories/:title.html 
 highlighter: true
-category-list: [site, teaching, research]
+category-list: [main, teaching, research]
