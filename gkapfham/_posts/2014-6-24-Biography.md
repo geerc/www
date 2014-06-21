@@ -1,7 +1,8 @@
 ---
 title: Biography 
 layout: defaults
-categories: [site]
+categories: [main]
+mapped: true
 backup: ../../
 ---
 
