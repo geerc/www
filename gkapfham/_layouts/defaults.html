@@ -40,8 +40,14 @@ ript>
 
           <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
               <ul class="nav navbar-nav">
-                  <!-- <li><a class="navigate" href="../">Home</a></li> -->
-                  <li><a class="navigate" href="main/Biography.html">Biography</a></li>
+                  {% assign urlparts = page.url | split:'/' %}
+                  {% assign urlcount = 0 %}
+                  {% for urlpart in urlparts %}
+                    ### {{urlpart}}
+                    {% assign urlcount = urlcount + 1 %}
+                  {% endfor %}  
+                  <li><a class="navigate" href="{{urlcount}}/Biography.html">!Biography</a></li>
+
                   <li><a class="navigate" href="#">Teaching</a></li>
                   <li><a class="navigate" href="#">Research</a></li>
                   <li><a class="navigate" href="#">Software</a></li>
