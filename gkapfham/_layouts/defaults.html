@@ -41,7 +41,7 @@ ript>
           <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
               <ul class="nav navbar-nav">
               
-                {% for page in site.posts %}
+                {% for page in site.posts | sort%}
                 {% if page.header == true %}
                   <li><a class="navigate" href="{{page.url}}">{{page.title}}</a></li>
                 {% endif %}
