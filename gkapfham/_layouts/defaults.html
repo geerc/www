@@ -40,20 +40,20 @@ ript>
 
           <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
               <ul class="nav navbar-nav">
-                  {% assign urlparts = page.url | split:'/' %}
-                  {% assign urlcount = 0 %}
-                  {% for urlpart in urlparts %}
-                    ### {{urlpart}}
-                    {% assign urlcount = urlcount + 1 %}
-                  {% endfor %}  
-                  <li><a class="navigate" href="{{urlcount}}/Biography.html">!Biography</a></li>
+              
+                {% for page in site.posts %}
+                {% if page.header == true %}
+                  <li><a class="navigate" href="{{page.url}}">{{page.title}}</a></li>
+                {% endif %}
+                {% endfor %}
 
-                  <li><a class="navigate" href="#">Teaching</a></li>
-                  <li><a class="navigate" href="#">Research</a></li>
-                  <li><a class="navigate" href="#">Software</a></li>
-                  <li><a class="navigate" href="#">Schedule</a></li>
-                  <li><a class="navigate" href="main/Sitemap.html">Sitemap</a></li>
-                  <li><a class="navigate" href="#">Contact</a></li>
+                  <!-- <li><a class="navigate" href="#">Teaching</a></li> -->
+                  <!-- <li><a class="navigate" href="#">Research</a></li> -->
+                  <!-- <li><a class="navigate" href="#">Software</a></li> -->
+                  <!-- <li><a class="navigate" href="#">Schedule</a></li> -->
+                  <!-- <li><a class="navigate" href="main/Sitemap.html">Sitemap</a></li> -->
+                  <!-- <li><a class="navigate" href="#">Contact</a></li> -->
+
               </ul>
           </div>
 
