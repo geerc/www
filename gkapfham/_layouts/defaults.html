@@ -43,7 +43,7 @@ ript>
             <ul class="nav navbar-nav">
 
                 <!-- Loop through all of the posts that are headers and add them to the HTML -->
-                {% for page in site.posts | sort%} {% if page.header == true %}
+                {% for page in site.posts | sort %} {% if page.header == true %}
                 <li><a class="navigate" href="{{page.url}}">{{page.title}}</a>
                 </li>
                 {% endif %} {% endfor %}
@@ -199,7 +199,7 @@ ript>
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="{{page.backup}}/js/bootstrap.min.js"></script>
 
     <script>
         window.twttr = (function(d, s, id) {
