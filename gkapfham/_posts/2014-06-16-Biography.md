@@ -1,7 +1,6 @@
 ---
 title: Biography 
 layout: defaults
-page.date: 2014-06-24:00
 categories: [main]
 mapped: false
 header: true
