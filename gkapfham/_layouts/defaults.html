@@ -42,6 +42,7 @@ ript>
         <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
             <ul class="nav navbar-nav">
 
+                <!-- Loop through all of the posts that are headers and add them to the HTML -->
                 {% for page in site.posts | sort%} {% if page.header == true %}
                 <li><a class="navigate" href="{{page.url}}">{{page.title}}</a>
                 </li>
