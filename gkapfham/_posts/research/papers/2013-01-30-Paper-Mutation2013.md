@@ -1,13 +1,13 @@
 ---
 title: Efficient Mutation Analysis of Relational Database Structure Using Mutant Schemata and Parallelisation 
 layout: defaults
-categories: [research, paper, conference, testing, mutation, database]
+categories: [research, paper, conference, testing, database]
 authors: Chris J. Wright, Gregory M. Kapfhammer, and Phil McMinn
 mapped: true 
 header: false 
 research: false 
 paper: true
-backup: ../../../../../../../
+backup: ../../../../../../
 ---
 
 ## {{ page.title }} [<i class="fa fa-download"></i>]({{backup}}/download/research/papers/mutation2013-wright-kapfhammer-mcminn.pdf "Download this Paper!")
