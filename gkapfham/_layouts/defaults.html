@@ -48,7 +48,7 @@ ript>
                 <!-- </li> -->
                 <!-- {% endif %} {% endfor %} -->
 
-                    {% for weight in (1..8) %}
+                    {% for weight in (1..site.max_header) %}
                         {% for page in site.pages %}
                             {% if page.weight == weight %}
                                 {% if page.header == true %}
