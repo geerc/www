@@ -307,6 +307,7 @@ a:focus {
     /* color: #b5bd68; */
     /* border-bottom:3px solid; */
     /* border-bottom-color: #b8860b; */
+    text-decoration: none;
 }
 a:focus {
     outline: thin dotted;
