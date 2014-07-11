@@ -11,7 +11,7 @@ backup: ../../../
 # {{ page.title }}
 <ul class="fa-ul">
 {% assign max_id = -45 %}
-{% for cid in (max_id..1) %}
+{% for cid in (max_id..0) %}
     {% for page in site.pages %}
         {% if page.id == cid %}
             {% if page.paper == true %}
