@@ -10,3 +10,6 @@ permalink: pretty
 highlighter: true
 category-list: [main, teaching, research]
 excerpt_separator: <!--more-->
+max_header: 8
+max_id: 45
+
