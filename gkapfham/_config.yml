@@ -9,3 +9,4 @@ markdown: rdiscount
 permalink: /:categories/:title/
 highlighter: true
 category-list: [main, teaching, research]
+excerpt_separator: <!--more-->
