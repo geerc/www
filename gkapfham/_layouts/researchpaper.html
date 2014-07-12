@@ -102,7 +102,7 @@ ript>
     {% for thispage in site.pages %}
         {% if thispage.id == previd %}
         {% if thispage.paper == true %}
-           <i class="fa fa-long-arrow-left"></i> <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
+           <i class="fa fa-long-arrow-left"></i> <a href="{{ thispage.url }}">{{ thispage.title | capitalize_all }}</a>
         {% endif %}
         {% endif %}
     {% endfor %}
@@ -112,7 +112,7 @@ ript>
     {% for thispage in site.pages %}
         {% if thispage.id == nextid %}
         {% if thispage.paper == true %}
-            <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a> <i class="fa fa-long-arrow-right"></i>
+            <a href="{{ thispage.url }}">{{ thispage.title | capitalize_all }}</a> <i class="fa fa-long-arrow-right"></i>
         {% endif %}
         {% endif %}
     {% endfor %}

@@ -17,7 +17,7 @@ backup: ../../../
         {% if page.id == cid %}
             {% if page.paper == true %}
                 {% assign lastcategory = page.categories | last %}
-                <li><i class="fa-li fa fa-file-text-o fa-lg"></i><a class="major" href="{{ page.url }}">{{ page.title | capitalize }}</a></li>
+                <li><i class="fa-li fa fa-file-text-o fa-lg"></i><a class="major" href="{{ page.url }}">{{ page.title | capitalize_all }}</a></li>
                 <em>Authors</em>: {{ page.authors }} <br>
                 <em>Categories</em>: 
                 {% for category in page.categories %}
