@@ -106,18 +106,23 @@ ript>
     {% endfor %}
 
     <div class="row">
+
     {% for thispage in site.pages %}
         {% if thispage.id == nextid %}
-            <div class="col-md-6">
-            <em>Next</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
+            <div class="col-sm-6">
+           <i class="fa fa-long-arrow-left"></i> <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
             </div>
         {% endif %}
+    {% endfor %}
+
+    {% for thispage in site.pages %}
     {% if thispage.id == previd %}
-            <div class="col-md-6">
-            <em>Previous</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
+            <div class="col-sm-6">
+            <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a> <i class="fa fa-long-arrow-right"></i>
             </div>
     {% endif %}
     {% endfor %}
+
     </div>
 
             </div>
