@@ -97,14 +97,14 @@ ript>
     {% assign previd = page.id | minus:1 %}
 
     <div class="row">
-
+    
+    <div class="col-sm-6">
     {% for thispage in site.pages %}
         {% if thispage.id == previd %}
-            <div class="col-sm-6">
            <i class="fa fa-long-arrow-left"></i> <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
-            </div>
         {% endif %}
     {% endfor %}
+    </div>
 
     {% for thispage in site.pages %}
     {% if thispage.id == nextid %}
