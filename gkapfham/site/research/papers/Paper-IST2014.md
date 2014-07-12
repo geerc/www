@@ -2,7 +2,7 @@
 id: -45 
 title: Test Suite Reduction Methods that Decrease Regression Testing Costs by Identifying Irreplaceable Tests
 layout: researchpaper
-categories: [research, paper, journal, testing]
+categories: [research, paper, journal, regression testing]
 authors: Chu-Ti Lin, Kai-Wai Tang, and Gregory M. Kapfhammer
 mapped: true 
 header: false 
