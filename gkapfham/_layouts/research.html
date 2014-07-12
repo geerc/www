@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{site.description}}">
+    <link rel="shortcut icon" href="{{page.backup}}/infinity-gradient.ico">
+    <link href="{{page.backup}}css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="{{page.backup}}css/bootstrap-slatemod.css" rel="stylesheet">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans' rel='stylesheet' type='text/css'>
+
+    <!-- <style> -->
+    <!-- body { -->
+    <!--     padding&#45;top: 0px; -->
+    <!--   } -->
+    <!-- </style> -->
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></sc\
+ript>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div class="navbar navbar-default">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand navigate" href="{{page.backup}}">Gregory M. Kapfhammer</a>
+        </div>
+
+        <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav">
+
+                <!-- <!&#45;&#45; Loop through all of the posts that are headers and add them to the HTML &#45;&#45;> -->
+                <!-- {% for page in site.pages %} {% if page.header == true %} -->
+                <!-- <li><a class="navigate" href="{{page.url}}">{{page.title}}</a> -->
+                <!-- </li> -->
+                <!-- {% endif %} {% endfor %} -->
+
+                    {% for weight in (1..site.max_header) %}
+                        {% for page in site.pages %}
+                            {% if page.weight == weight %}
+                                {% if page.header == true %}
+                                <li><a class="navigate" href="{{page.url}}">{{page.title}}</a>
+                                </li>
+                                {% endif %}
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+
+<!-- <li><a class="navigate" href="{{page.url}}">{{page.title}}</a> -->
+                </li>
+
+                <!-- <li><a class="navigate" href="#">Teaching</a></li> -->
+                <!-- <li><a class="navigate" href="#">Research</a></li> -->
+                <!-- <li><a class="navigate" href="#">Software</a></li> -->
+                <!-- <li><a class="navigate" href="#">Schedule</a></li> -->
+                <!-- <li><a class="navigate" href="main/Sitemap.html">Sitemap</a></li> -->
+                <!-- <li><a class="navigate" href="#">Contact</a></li> -->
+
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-2 visible-md visible-lg pushdown-vertical sidebar">
+                <i class="fa fa-book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a> 
+                <br>
+                <i class="fa fa-twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a> 
+                <br>
+                <i class="fa fa-linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory-kapfhammer/92/3b3/502">Linkedin</a> 
+                <br>
+                <i class="fa fa-ticket"></i>  <a class="navigate" href="colophon/">Colophon</a> 
+                <br>&copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a>
+            </div>
+
+            <div class="col-md-10">
+                {{ content }}
+
+    {% assign max_id = -45 %}
+    {% assign stop_id = 0 %}
+    {% assign nextid = page.id | plus:1 %}
+    {% assign previd = page.id | minus:1 %}
+
+    {% for thispage in site.pages %}
+        {% if thispage.id == nextid %}
+            <em>Next</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
+        {% endif %}
+    {% if thispage.id == previd %}
+        <em>Previous</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
+    {% endif %}
+    {% endfor %}
+
+    <div class="row">
+    {% for thispage in site.pages %}
+        {% if thispage.id == nextid %}
+            <div class="col-md-6">
+            <em>Next</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
+            </div>
+        {% endif %}
+    {% if thispage.id == previd %}
+            <div class="col-md-6">
+            <em>Previous</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
+            </div>
+    {% endif %}
+    {% endfor %}
+    </div>
+
+            </div>
+        
+        </div>
+
+        <div class="row">
+            <div class="col-md-2 visible-md visible-lg">
+            </div>
+            <div class="col-sm-10 top-reduce hidden-sm hidden-xs">
+                <h3> Gregory M. Kapfhammer by the Numbers</h3>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-2 visible-md visible-lg">
+            </div>
+
+            <div class="col-sm-2 center hidden-sm hidden-xs">
+                <h2 class="highlight">23</h2>
+                <b>courses </b>
+            </div>
+
+            <div class="col-sm-2 center hidden-sm hidden-xs">
+                <h2 class="highlight">38</h2>
+                <b>papers </b>
+            </div>
+
+            <div class="col-sm-2 center hidden-sm hidden-xs">
+                <h2 class="highlight">42</h2>
+                <b>presentations</b>
+            </div>
+
+            <div class="col-sm-2 center hidden-sm hidden-xs">
+                <h2 class="highlight">47</h2>
+                <b>supervisees</b>
+            </div>
+
+            <div class="col-sm-2 center hidden-sm hidden-xs">
+                <h2 class="highlight">&infin;</h2>
+                <b>enthusiasm </b>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 bottom-pad visible-md visible-lg">
+            </div>
+        </div>
+
+        <!-- The small sidebar at the bottom -->
+
+        <div class="row">
+            <div class="col-sm-3 visible-sm" align="center">
+                <i class="fa fa-book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a> 
+                <br>
+            </div>
+
+            <div class="col-sm-3 visible-sm" align="center">
+                <i class="fa fa-twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a> 
+                <br>
+            </div>
+
+            <div class="col-sm-3 visible-sm" align="center">
+                <i class="fa fa-linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory-kapfhammer/92/3b3/502">Linkedin</a> 
+                <br>
+            </div>
+
+            <div class="col-sm-3 visible-sm" align="center">
+                <i class="fa fa-ticket"></i>  <a class="navigate" href="colophon/">Colophon</a> 
+                <br>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 bottom-pad visible-sm">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 visible-sm" align="center">
+                &copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a>
+            </div>
+        </div>
+
+        <!-- The extra small sidebar at the bottom -->
+
+        <div class="row">
+            <div class="col-xs-6 visible-xs" align="center">
+                <i class="fa fa-book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a> 
+                <br>
+                <i class="fa fa-twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a> 
+                <br>
+            </div>
+
+            <div class="col-xs-6 visible-xs" align="center">
+                <i class="fa fa-linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory-kapfhammer/92/3b3/502">Linkedin</a> 
+                <br>
+                <i class="fa fa-ticket"></i>  <a class="navigate" href="colophon/">Colophon</a> 
+                <br>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12 bottom-pad visible-xs">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12 visible-xs" align="center">
+                &copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a>
+            </div>
+        </div>
+
+        <div class="row visible-sm visible-xs">
+            <div class="col-md-12 bottom-pad">
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="{{page.backup}}/js/bootstrap.min.js"></script>
+
+    <script>
+        window.twttr = (function(d, s, id) {
+            var t, js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.async = 1;
+            js.src = "https://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+            return window.twttr || (t = {
+                _e: [],
+                ready: function(f) {
+                    t._e.push(f)
+                }
+            });
+        }(document, "script", "twitter-wjs"));
+    </script>
+
+</body>
+
+</html>
