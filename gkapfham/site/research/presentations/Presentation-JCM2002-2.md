@@ -2,7 +2,7 @@
 id: -1
 title: Improving the Jini "Out of Box" Experience&#58; Lessons Learned and Solutions Provided  
 layout: researchpresentation
-categories: [research, presentation, conference, education, systems]
+categories: [research, presentation, conference, education, distributed systems]
 authors: Geoffrey Arnold, Gregory M. Kapfhammer, Charles R. DiVittorio, Brian A. Hykes, Mehrnoush Moussavi-Aghdam, and James E. Tomayko
 mapped: true 
 header: false 

@@ -2,7 +2,7 @@
 id: 0
 title: An Approach to Identifying and Understanding Problematic COTS Components
 layout: defaults
-categories: [research, paper, conference, testing]
+categories: [research, paper, conference, debugging]
 authors: Gregory M. Kapfhammer, C.C. Michael, Jennifer Haddox, and Ryan Colyer 
 mapped: true 
 header: false 

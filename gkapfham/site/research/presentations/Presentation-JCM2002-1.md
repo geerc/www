@@ -2,7 +2,7 @@
 id: 0
 title: Teaching Distributed Systems to Undergraduates&#58;  An Experience Report 
 layout: researchpresentation
-categories: [research, presentation, conference, education, systems]
+categories: [research, presentation, conference, education, distributed systems]
 authors: Gregory M. Kapfhammer 
 mapped: true 
 header: false 
