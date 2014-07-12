@@ -96,15 +96,6 @@ ript>
     {% assign nextid = page.id | plus:1 %}
     {% assign previd = page.id | minus:1 %}
 
-    {% for thispage in site.pages %}
-        {% if thispage.id == nextid %}
-            <em>Next</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
-        {% endif %}
-    {% if thispage.id == previd %}
-        <em>Previous</em>: <a href="{{ thispage.url }}">{{ thispage.title | capitalize }}</a>
-    {% endif %}
-    {% endfor %}
-
     <div class="row">
 
     {% for thispage in site.pages %}
@@ -124,9 +115,7 @@ ript>
     {% endfor %}
 
     </div>
-
             </div>
-        
         </div>
 
         <div class="row">
@@ -148,7 +137,7 @@ ript>
             </div>
 
             <div class="col-sm-2 center hidden-sm hidden-xs">
-                <h2 class="highlight">38</h2>
+                <h2 class="highlight">45</h2>
                 <b>papers </b>
             </div>
 
@@ -170,7 +159,7 @@ ript>
         </div>
 
         <div class="row">
-            <div class="col-md-12 bottom-pad visible-md visible-lg">
+            <div class="col-md-12 bottom-pad visible-xs visible-sm visible-md visible-lg">
             </div>
         </div>
 
