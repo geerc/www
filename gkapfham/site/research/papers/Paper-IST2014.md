@@ -1,7 +1,7 @@
 ---
 id: -45 
 title: Test Suite Reduction Methods that Decrease Regression Testing Costs by Identifying Irreplaceable Tests
-layout: defaults
+layout: research 
 categories: [research, paper, journal, testing]
 authors: Chu-Ti Lin, Kai-Wai Tang, and Gregory M. Kapfhammer
 mapped: true 
@@ -43,3 +43,4 @@ representative sets that normally incur a low cost to yield a high level of test
 <em>Conclusion</em>: The presented techniques indeed enhance the capability of the traditional reduction algorithms to
 reduce the execution cost of a test suite. Especially for the additional Greedy algorithm, the presented techniques
 decrease the costs of the representative sets by 8.10–46.57%
+
