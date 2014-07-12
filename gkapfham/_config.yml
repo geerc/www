@@ -1,10 +1,6 @@
 me: "Gregory M. Kapfhammer"
 description: "Associate Professor of Computer Science"
-
-url: "http://localhost:4000"
-
-paginate: 10
-
+url: ""
 markdown: rdiscount
 permalink: pretty
 highlighter: true
@@ -15,6 +11,7 @@ header: false
 research: false 
 paper: false
 presentation: false
+id: 0
 max_header: 8
 max_id: 45
 
