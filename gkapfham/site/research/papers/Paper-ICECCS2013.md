@@ -2,7 +2,7 @@
 id: -42
 title: History-based Test Case Prioritization with Software Version Awareness 
 layout: researchpaper
-categories: [research, paper, conference, testing]
+categories: [research, paper, conference, regression testing]
 authors: Chu-Ti Lin, Cheng-Ding Chen, Chang-Shi Tsai, and Gregory M. Kapfhammer
 mapped: true 
 header: false 
