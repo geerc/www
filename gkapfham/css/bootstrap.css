@@ -694,7 +694,7 @@ samp {
 }
 code {
   padding: 2px 4px;
-  font-size: 90%;
+  font-size: 100%;
   color: #c7254e;
   white-space: nowrap;
   background-color: #f9f2f4;
@@ -717,7 +717,6 @@ pre {
   color: #333;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #f5f5f5;
   border: 1px solid #ccc;
   border-radius: 4px;
 }

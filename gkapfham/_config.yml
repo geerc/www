@@ -3,7 +3,7 @@ description: "Associate Professor of Computer Science"
 url: ""
 markdown: rdiscount
 permalink: pretty
-highlighter: true
+highlighter: pygments
 category-list: [main, teaching, research]
 excerpt_separator: <!--more-->
 mapped: false 
