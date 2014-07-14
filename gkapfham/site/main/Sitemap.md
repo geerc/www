@@ -11,7 +11,7 @@ backup: ../../../
 {% for cat in site.category-list %}
 ### {{ cat | capitalize }}
 <ul>
-{% for page in site.posts %}
+{% for page in site.pages %}
 {% if page.mapped == true %}
 {% for pc in page.categories %}
 {% if pc == cat %}
