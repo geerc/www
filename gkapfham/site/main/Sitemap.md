@@ -15,7 +15,7 @@ backup: ../../../
 {% if page.mapped == true %}
 {% for pc in page.categories %}
 {% if pc == cat %}
-<li><a href="{{ page.url }}">{{ page.title | capitalize }}</a></li>
+<li><a href="{{ page.url }}">{{ page.title | capitalize_all }}</a></li>
 {% endif %}   <!-- cat-match-p -->
 {% endfor %}  <!-- page-category -->
 {% endif %}   <!-- resource-p -->
