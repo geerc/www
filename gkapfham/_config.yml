@@ -4,7 +4,7 @@ url: ""
 markdown: rdiscount
 permalink: pretty
 highlighter: pygments
-category-list: [main, teaching, research]
+category-list: [teaching, research]
 excerpt_separator: <!--more-->
 mapped: false 
 header: false 
