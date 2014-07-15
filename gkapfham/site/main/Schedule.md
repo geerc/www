@@ -29,10 +29,10 @@ To schedule a meeting with me during my office hours, please click the <a href =
 "https://www.google.com/calendar/selfsched?sstoken=UU9NbDBvclJCQjlQfGRlZmF1bHR8YTlkNzM1MzFiMTUxNDhhYTc2ZDI2MDhmM2ZiZWJjZGE">Schedule
 Appointment</a>&mdash;now you can browse my available office hours and schedule an appointment.  Once you have chosen
 your appointment time slot, it will appear in both your Google Calendar and mine.  If you would like to see where I am
-during any week during the academic semester, you may click the <a href =
+during any week of the academic semester, you may click the <a href =
 "http://www.google.com/calendar/embed?src=gkapfham%40allegheny.edu&ctz=America/New_York">View Calendar</a> link; please
-note that my schedule is not regularly updated during breaks from <a href = "http://www.allegheny.edu">Allegheny
-College</a>'s <a href = "http://sites.allegheny.edu/dean/academic-calendar/">Academic Calendar</a>. 
+note that my schedule is not regularly updated during breaks at <a href = "http://www.allegheny.edu">Allegheny
+College</a>, as documented in the college's <a href = "http://sites.allegheny.edu/dean/academic-calendar/">Academic Calendar</a>. 
 
 </div>
 
