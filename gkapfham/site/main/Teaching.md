@@ -26,7 +26,7 @@ backup: ../../../
     {% for page in site.pages %}
         {% if page.id == cid %}
             {% if page.course == true %}
-                <li><i class="fa-li fa fa-file-text-o fa-lg"></i><a class="major" href="{{ page.url }}">{{ page.title | capitalize_all }}</a></li>
+                <li><i class="fa-li fa fa-cog fa-lg"></i><a class="major" href="{{ page.url }}">{{ page.title | capitalize_all }}</a></li>
                <em>{{page.subtitle}}</em>
             {% endif %}
         {% endif %}
