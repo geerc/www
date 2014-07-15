@@ -10,21 +10,31 @@ backup: ../../../
 
 # {{ page.title }}
 
-Dr. Gregory M. Kapfhammer is an Associate Professor in the Department of Computer Science at Allegheny College. Dr.
-Kapfhammer earned his PhD from the Department of Computer Science at the University of Pittsburgh. Kapfhammer's PhD
-dissertation research was supervised by Dr. Mary Lou Soffa. Kapfhammer also earned a BSc in Computer Science from
-Allegheny College and a MSc in Computer Science from the University of Pittsburgh. Kapfhammer has held positions as a
-visiting research scientist in the Department of Computer Science at the University of Virginia and as a research
-associate at Cigital Research Labs. 
+[Gregory M. Kapfhammer]({{page.backup}}) is an Associate Professor in and Chair of the [Department of Computer
+Science](http://www.cs.allegheny.edu) at [Allegheny College](http://www.allegheny.edu). Dr. Kapfhammer earned his PhD
+from the [Department of Computer Science](http://www.cs.pitt.edu) at the [University of
+Pittsburgh](http://www.pitt.edu); his PhD dissertation research was supervised by [Dr. Mary Lou
+Soffa](http://www.cs.virginia.edu/~soffa/). Kapfhammer also earned a BSc in Computer Science from Allegheny College and
+a MSc in Computer Science from the University of Pittsburgh. Kapfhammer has held positions as a visiting research
+scientist in the [Department of Computer Science](http://www.cs.virginia.edu) at the [University of
+Virginia](http://www.viginia.edu), the [Institute of Applied Information
+Processing](http://iai.mathematik.uni-ulm.de/en/index.html) at [University of Ulm](http://www.uni-ulm.de/en), and the
+[Department of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of
+Sheffield](http://www.sheffield.ac.uk/). In the past, Gregory Kapfhammer was a research associate at
+[Cigital](http://www.cigital.com/). 
 
-As an educator, Dr. Kapfhammer develops and teaches courses in the areas of software engineering, software testing, data
-management, and distributed systems. He is also involved in the teaching of the department's introductory courses,
-junior seminar, senior seminar, and a research adviser for undergraduate theses. Kapfhammer's expertise in teaching was
-recently recognized when Allegheny College presented him with the Thoburn Award for Excellence in Teaching. As an
-experimental computer scientist, Dr. Kapfhammer conducts research in the areas of software engineering, software testing
-and analysis, and computer software systems. In collaboration with a diverse and highly skilled group of students and
-colleagues, Kapfhammer pursues research that results in award-winning and frequently-cited Research Papers and useful
-Free and Open Source Software.
+As an educator, Gregory Kapfhammer develops and teaches [courses]({{page.backup}}/site/main/Teaching) in the areas of
+software engineering, software testing, data management, mobile app development, operating systems, and distributed
+systems. He is also involved in the teaching of the department's introductory courses, junior seminar, senior seminar,
+and a research adviser for undergraduate theses.  Kapfhammer's expertise in teaching was recently recognized when
+Allegheny College presented him with the [Thoburn Award for Excellence in
+Teaching](http://sites.allegheny.edu/alumni/involved/allegheny-awards/recipients/#thoburn). As an experimental computer
+scientist, Gregory Kapfhammer conducts [research]({{page.backup}}/site/main/Research/) in the areas of software
+engineering, software testing and analysis, and computer software systems. In collaboration with a diverse and highly
+skilled group of students and colleagues, Kapfhammer pursues research that results in award-winning and frequently cited
+research [papers]({{page.backup}}/site/research/Papers/), oft-complimented
+[presentations]({{page.backup}}/site/research/Presentations/) and useful free and open-source
+[software]({{page.backup}}/site/main/Software/).
 
 The paper A Family of Test Adequacy Criteria for Database-Driven Applications, co-authored by Kapfhammer and Dr. Mary
 Lou Soffa, was selected to receive the ACM SIGSOFT Distinguished Paper Award at the 2003 ACM SIGSOFT Foundations of
