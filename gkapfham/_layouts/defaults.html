@@ -12,18 +12,6 @@
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans' rel='stylesheet' type='text/css'>
 
-    <!-- <style> -->
-    <!-- body { -->
-    <!--     padding&#45;top: 0px; -->
-    <!--   } -->
-    <!-- </style> -->
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></sc\
-ript>
-    <![endif]-->
-
 </head>
 
 <body>
@@ -48,18 +36,12 @@ ript>
                 <!-- </li> -->
                 <!-- {% endif %} {% endfor %} -->
 
-                    {% for weight in (1..site.max_header) %}
-                        {% for page in site.pages %}
-                            {% if page.weight == weight %}
-                                {% if page.header == true %}
-                                <li><a class="navigate" href="{{page.url}}">{{page.title}}</a>
-                                </li>
-                                {% endif %}
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
+                {% for weight in (1..site.max_header) %} {% for page in site.pages %} {% if page.weight == weight %} {% if page.header == true %}
+                <li><a class="navigate" href="{{page.url}}">{{page.title}}</a>
+                </li>
+                {% endif %} {% endif %} {% endfor %} {% endfor %}
 
-<!-- <li><a class="navigate" href="{{page.url}}">{{page.title}}</a> -->
+                <!-- <li><a class="navigate" href="{{page.url}}">{{page.title}}</a> -->
                 </li>
 
                 <!-- <li><a class="navigate" href="#">Teaching</a></li> -->
