@@ -33,31 +33,32 @@ scientist, Gregory Kapfhammer conducts [research]({{page.backup}}/site/main/Rese
 engineering, software testing and analysis, and computer software systems. In collaboration with a diverse and highly
 skilled group of students and colleagues, Kapfhammer pursues research that results in award-winning and frequently cited
 research [papers]({{page.backup}}/site/research/Papers/), oft-complimented
-[presentations]({{page.backup}}/site/research/Presentations/) and useful free and open-source
+[presentations]({{page.backup}}/site/research/Presentations/), and useful free and open-source
 [software]({{page.backup}}/site/main/Software/).
 
 The paper A Family of Test Adequacy Criteria for Database-Driven Applications, co-authored by Kapfhammer and Dr. Mary
-Lou Soffa, was selected to receive the ACM SIGSOFT Distinguished Paper Award at the 2003 ACM SIGSOFT Foundations of
-Software Engineering Conference (ESEC/FSE 2003). Kapfhammer's paper Empirically Studying the Role of Selection Operators
-During Search-Based Test Suite Prioritization, co-authored with Alexander P. Conrad and Dr. Robert S. Roos, was also
-recognized as the best paper in the Search-Based Software Engineering Track of the 2010 ACM SIGEVO Genetic and
-Evolutionary Computation Conference (GECCO 2010). Kapfhammer frequently serves the research community as a reviewer for
-conferences and journals, technical program committee member, conference program co-chair, workshop co-chair, and review
-panelist at the U.S. National Science Foundation.
+Lou Soffa, was selected to receive the ACM SIGSOFT Distinguished Paper Award at the [2003 ACM SIGSOFT Foundations of
+Software Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/). Gregory Kapfhammer's paper Empirically
+Studying the Role of Selection Operators During Search-Based Test Suite Prioritization, co-authored with Alexander P.
+Conrad and [Dr. Robert S. Roos](http://www.cs.allegheny.edu/~rroos/), was also recognized as the best paper in the
+[Search-Based Software Engineering Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM
+SIGEVO Genetic and Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). He also
+frequently serves the research community as a reviewer for conferences and journals, technical program committee member,
+conference program co-chair, workshop co-chair, workshop program co-chair, and review panelist at the U.S. National
+Science Foundation.
 
-Dr. Kapfhammer's endeavors are guided by the following professional principles:
+As an outworking of his Christian faith, Gregory Kapfhammer's endeavors are guided by the following professional principles:
 
-
-<b>Principle 1 (Selfless Service)</b> Focus on the needs of your students and colleagues before considering your own. Commit to
+***Principle 1 (Selfless Service)*** Focus on the needs of your students and colleagues before considering your own. Commit to
 respectfully serving others even when your actions are unlikely to be noticed, rewarded, or beneficial to your own
 professional development.
 
-<b>Principle 2 (Absolute Excellence)</b> Devote yourself and encourage others to commit themselves to uncompromising excellence
+***Principle 2 (Absolute Excellence)*** Devote yourself and encourage others to commit themselves to uncompromising excellence
 in all aspects of personal and professional development.
 
-<b>Principle 3 (Realistic Expectations)</b> Recognize that all people, including yourself, have strengths and weaknesses.
+***Principle 3 (Realistic Expectations)*** Recognize that all people, including yourself, have strengths and weaknesses.
 Identify the strengths in your own life and the lives of others and plan activities so as to maximize the positive
 impact on the community.
 
-**Principle 4 (Contagious Joy)** Pursue everything with passion and enthusiasm. Take advantage of every opportunity to
+***Principle 4 (Contagious Joy)*** Pursue everything with passion and enthusiasm. Take advantage of every opportunity to
 encourage your students and colleagues. Always end a conversation or a meeting with a positive remark.
