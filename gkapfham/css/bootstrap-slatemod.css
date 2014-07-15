@@ -314,14 +314,12 @@ a:focus {
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px;
 }
-
-a.major{
+a.major {
     text-decoration: none;
     font-weight: bold;
     font-size: 18px;
     line-height: 1.1;
 }
-
 a.navigate {
     color: #c5c8c6;
     text-decoration: none;
@@ -333,7 +331,6 @@ a.navigate {
     /* ...and now for the proper property */
     transition: .5s;
 }
-
 a.navigate:hover,
 a.navigate:focus {
     color: #c5c8c6;
@@ -359,6 +356,16 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
+}
+.img-responsive-tight,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: -22px;
 }
 .img-rounded {
     border-radius: 6px;
@@ -6311,4 +6318,3 @@ legend {
 .bottom-pad {
     margin-bottom: 10px;
 }
-
