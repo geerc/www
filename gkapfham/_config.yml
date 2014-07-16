@@ -1,6 +1,6 @@
 me: "Gregory M. Kapfhammer"
 description: "Associate Professor of Computer Science"
-url: ""
+baseurl: ""
 markdown: rdiscount
 permalink: pretty
 highlighter: pygments
