@@ -28,28 +28,24 @@
         </div>
 
         <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-            <ul class="nav navbar-nav">
 
-                <!-- <!&#45;&#45; Loop through all of the posts that are headers and add them to the HTML &#45;&#45;> -->
-                <!-- {% for page in site.pages %} {% if page.header == true %} -->
-                <!-- <li><a class="navigate" href="{{page.url}}">{{page.title}}</a> -->
-                <!-- </li> -->
-                <!-- {% endif %} {% endfor %} -->
+            <ul class="nav navbar-nav">
 
                 {% for weight in (1..site.max_header) %} {% for page in site.pages %} {% if page.weight == weight %} {% if page.header == true %}
                 <li><a class="navigate" href="{{page.url}}">{{page.title}}</a>
                 </li>
                 {% endif %} {% endif %} {% endfor %} {% endfor %}
 
-                <!-- <li><a class="navigate" href="{{page.url}}">{{page.title}}</a> -->
+                <li class="dropdown">
+                    <a class="dropdown-toggle navigate" data-toggle="dropdown" href="#">Connect <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#dropdown1" data-toggle="tab">Action</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li><a href="#dropdown2" data-toggle="tab">Another action</a>
+                        </li>
+                    </ul>
                 </li>
-
-                <!-- <li><a class="navigate" href="#">Teaching</a></li> -->
-                <!-- <li><a class="navigate" href="#">Research</a></li> -->
-                <!-- <li><a class="navigate" href="#">Software</a></li> -->
-                <!-- <li><a class="navigate" href="#">Schedule</a></li> -->
-                <!-- <li><a class="navigate" href="main/Sitemap.html">Sitemap</a></li> -->
-                <!-- <li><a class="navigate" href="#">Contact</a></li> -->
 
             </ul>
         </div>
@@ -59,15 +55,18 @@
     <div class="container">
 
         <div class="row">
-            <div class="col-md-2 visible-md visible-lg pushdown-vertical sidebar">
-                <i class="fa fa-book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a> 
-                <br>
-                <i class="fa fa-twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a> 
-                <br>
-                <i class="fa fa-linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory-kapfhammer/92/3b3/502">Linkedin</a> 
-                <br>
-                <i class="fa fa-ticket"></i>  <a class="navigate" href="{{page.backup}}/site/main/Colophon/">Colophon</a> 
-                <br>&copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a>
+
+            <div class="col-md-2 visible-md visible-lg sidebar">
+
+                <!-- <i class="fa fa&#45;book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a>  -->
+                <!-- <br> -->
+                <!-- <i class="fa fa&#45;twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a>  -->
+                <!-- <br> -->
+                <!-- <i class="fa fa&#45;linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory&#45;kapfhammer/92/3b3/502">Linkedin</a>  -->
+                <!-- <br> -->
+                <!-- <i class="fa fa&#45;ticket"></i>  <a class="navigate" href="{{page.backup}}/site/main/Colophon/">Colophon</a>  -->
+                <!-- <br>&#38;copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a> -->
+
             </div>
 
             <div class="col-md-10">
@@ -76,8 +75,10 @@
         </div>
 
         <div class="row">
+
             <div class="col-md-2 visible-md visible-lg">
             </div>
+
             <div class="col-sm-10 top-reduce hidden-sm hidden-xs">
                 <h3> Gregory M. Kapfhammer by the Numbers</h3>
             </div>
@@ -116,42 +117,68 @@
         </div>
 
         <div class="row">
+            <div class="col-xs-12 bottom-pad visible-md visible-lg">
+            </div>
+        </div>
+
+        <div class="row">
+        
+            <div class="col-xs-2 visible-md visible-lg">
+            </div>
+
+            <div class="col-xs-4">
+            </div>
+
+            <div class="col-xs-6 text-right">
+                &copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer 2000-2014</a> |  
+                  <a class="navigate" href="https://twitter.com/GregKapfhammer"><i class="fa fa-twitter fa-lg"></i></a> |
+                  <a class="navigate" href="http://www.linkedin.com/pub/gregory-kapfhammer/92/3b3/502"><i class="fa fa-linkedin fa-lg"></i></a> |
+                  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ"><i class="fa fa-google fa-lg"></i></a> 
+            </div>
+
+        </div>
+
+                <i class="fa fa-linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory-kapfhammer/92/3b3/502">Linkedin</a> 
+
+
+        <div class="row">
             <div class="col-md-12 bottom-pad visible-md visible-lg">
             </div>
         </div>
 
         <!-- The small sidebar at the bottom -->
 
-        <div class="row">
-            <div class="col-sm-3 visible-sm" align="center">
+        <div class="row footer center-xy">
+            <div class="col-sm-3 visible-sm visible-md visible-lg" align="center">
                 <i class="fa fa-book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a> 
                 <br>
             </div>
 
-            <div class="col-sm-3 visible-sm" align="center">
+            <div class="col-sm-3 visible-sm visible-md visible-lg center-xy" align="center">
                 <i class="fa fa-twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a> 
                 <br>
             </div>
 
-            <div class="col-sm-3 visible-sm" align="center">
+            <div class="col-sm-3 visible-sm visible-md visible-lg" align="center">
                 <i class="fa fa-linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory-kapfhammer/92/3b3/502">Linkedin</a> 
                 <br>
             </div>
 
-            <div class="col-sm-3 visible-sm" align="center">
+            <div class="col-sm-3 visible-sm visible-md visible-lg" align="center">
                 <i class="fa fa-ticket"></i>  <a class="navigate" href="{{page.backup}}/site/main/Colophon/">Colophon</a> 
                 <br>
             </div>
+
         </div>
 
-        <div class="row">
+        <div class="row footer">
             <div class="col-sm-12 bottom-pad visible-sm">
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-sm-12 visible-sm" align="center">
-                &copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a>
+        <div class="row footer">
+            <div class="col-sm-12 visible-sm visible-md visible-lg" align="center">
+                &copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer 2000-2014</a>
             </div>
         </div>
 
