@@ -49,16 +49,16 @@ Science Foundation.
 
 As an outworking of his Christian faith, Gregory Kapfhammer's endeavors are guided by the following professional principles:
 
-***Principle 1 (Selfless Service)*** Focus on the needs of your students and colleagues before considering your own. Commit to
+***Principle 1 (Selfless Service)***: Focus on the needs of your students and colleagues before considering your own. Commit to
 respectfully serving others even when your actions are unlikely to be noticed, rewarded, or beneficial to your own
 professional development.
 
-***Principle 2 (Absolute Excellence)*** Devote yourself and encourage others to commit themselves to uncompromising excellence
+***Principle 2 (Absolute Excellence)***: Devote yourself and encourage others to commit themselves to uncompromising excellence
 in all aspects of personal and professional development.
 
-***Principle 3 (Realistic Expectations)*** Recognize that all people, including yourself, have strengths and weaknesses.
+***Principle 3 (Realistic Expectations)***: Recognize that all people, including yourself, have strengths and weaknesses.
 Identify the strengths in your own life and the lives of others and plan activities so as to maximize the positive
 impact on the community.
 
-***Principle 4 (Contagious Joy)*** Pursue everything with passion and enthusiasm. Take advantage of every opportunity to
+***Principle 4 (Contagious Joy)***: Pursue everything with passion and enthusiasm. Take advantage of every opportunity to
 encourage your students and colleagues. Always end a conversation or a meeting with a positive remark.
