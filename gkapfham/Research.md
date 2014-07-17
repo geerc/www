@@ -15,7 +15,7 @@ backup: ../../../
 <ul class="fa-ul">
 {% for page in site.pages %}
 {% if page.research == true %}
-<li><i class="fa-li fa fa-arrow-right"></i><a class="major" href="{{ page.url }}">{{ page.title | capitalize }}</a> </li>
+<li><i class="fa-li fa fa-arrow-right"></i><a class="major" href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title | capitalize }}</a> </li>
 {% endif %} 
 {% endfor %}
 </ul>
