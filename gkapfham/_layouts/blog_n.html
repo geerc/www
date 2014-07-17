@@ -68,14 +68,15 @@
                 <div class="row">
 
                     <div class="col-xs-6">
-                        {% if page.previous != nil %}
-                        <i class="fa fa-long-arrow-left"></i>  <a href="{{site.baseurl}}{{ page.previous.url | remove_first:'/'}}">{{ page.previous.title | capitalize_all }}</a> {% endif %}
+                        {% if page.next != nil %}
+                        <i class="fa fa-long-arrow-left"></i> <a href="{{site.baseurl}}{{ page.next.url | remove_first:'/'}}">{{ page.next.title | capitalize_all }}</a>  
+                        {% endif %}
                     </div>
 
                     <div class="col-xs-6">
-                        {% if page.next != nil %}
-                        <a href="{{site.baseurl}}{{ page.next.url | remove_first:'/'}}">{{ page.next.title | capitalize_all }}</a>  <i class="fa fa-long-arrow-right"></i>
-                        {% endif %}
+                        {% if page.previous != nil %}
+                         <a href="{{site.baseurl}}{{ page.previous.url | remove_first:'/'}}">{{ page.previous.title | capitalize_all }}</a> <i class="fa fa-long-arrow-right"></i> 
+                         {% endif %} 
                     </div>
 
                 </div>
