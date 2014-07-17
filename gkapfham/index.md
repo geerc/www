@@ -16,9 +16,10 @@ graduate students.
 > <b>Expertise</b>: software engineering, software testing, data management, computer systems example
 
 ### Status Updates from Gregory M. Kapfhammer
+
 <a class="twitter-timeline" 
 data-dnt="true"
-width="500" height="300"
+width="200px" height="auto"
 href="https://twitter.com/GregKapfhammer"
 data-chrome="transparent noscrollbar noheader"
 data-link-color="#df8700"
