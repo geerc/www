@@ -29,3 +29,6 @@ backup: ../../../
 {% endfor %} 
 </ul>
 
+## Additional Courses
+
+The course materials for classes taught between Fall 2000 and Spring 2013 are available if you [Contact Me]({{site.baseurl}}/Contact/) with your request. However, please note that the most representative and current material is accessible through the above sites.
