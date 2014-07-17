@@ -6286,11 +6286,11 @@ legend {
 .footer {
     /* position: absolute; */
     /* bottom: 0; */
-    width: 100%;
+    /* width: 100%; */
     /* Set the fixed height of the footer here */
     /* height: 65px; */
     margin-top: 10px;
-    padding-top: 10px;
+    padding-top: 20px;
     background-color: #3a3f44;
 }
 .center-xy {
@@ -6312,13 +6312,19 @@ legend {
     /* color: #DF4E00; */
     color: #df8700;
 }
+.highlightcomplement {
+    /* color: #DF4E00; */
+    color: #df8700;
+}
 .top-reduce {
     margin-top: -10px;
 }
 .bottom-pad {
     margin-bottom: 10px;
 }
+.bottom-pad-more {
+    margin-bottom: 20px;
+}
 #twitter-widget-0 {
     width: 100% !important;
 }
-
