@@ -1,7 +1,7 @@
 ---
 id: -2
 title: Building Distributed Genetic Algorithms with the Jini Network Technology  
-layout: researchpresentation
+layout: researchpresentation_n
 categories: [research, presentation, conference, distributed systems, evolutionary computation]
 authors: Brian Zorman, Gregory M. Kapfhammer, and Robert S. Roos
 mapped: true 

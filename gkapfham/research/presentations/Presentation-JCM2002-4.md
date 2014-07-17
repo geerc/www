@@ -1,7 +1,7 @@
 ---
 id: -3
 title: Towards a JavaSpace Supported by a Relational Database  
-layout: researchpresentation
+layout: researchpresentation_n
 categories: [research, presentation, conference, distributed systems, databases]
 authors: Geoffrey Arnold, Gregory M. Kapfhammer, and Robert S. Roos 
 mapped: true 

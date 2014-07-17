@@ -1,6 +1,6 @@
 ---
 title: Recent Advances in the Testing of Relational Database Schemas 
-layout: blog
+layout: blog_n
 categories: [research, testing, database]
 authors: Gregory M. Kapfhammer
 mapped: true 
