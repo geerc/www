@@ -32,7 +32,7 @@
             <ul class="nav navbar-nav">
 
                 {% for weight in (1..site.max_header) %} {% for page in site.pages %} {% if page.weight == weight %} {% if page.header == true %}
-                <li><a class="navigate" href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
+                <li><a class="navigate" href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{page.title}}</a>
                 </li>
                 {% endif %} {% endif %} {% endfor %} {% endfor %}
 
