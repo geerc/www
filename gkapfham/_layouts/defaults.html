@@ -24,7 +24,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand navigate" href="{{page.backup}}">Gregory M. Kapfhammer</a>
+            <a class="navbar-brand navigate" href="{{site.baseurl}}">Gregory M. Kapfhammer</a>
         </div>
 
         <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
@@ -32,7 +32,7 @@
             <ul class="nav navbar-nav">
 
                 {% for weight in (1..site.max_header) %} {% for page in site.pages %} {% if page.weight == weight %} {% if page.header == true %}
-                <li><a class="navigate" href="{{page.url}}">{{page.title}}</a>
+                <li><a class="navigate" href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
                 </li>
                 {% endif %} {% endif %} {% endfor %} {% endfor %}
 
