@@ -321,8 +321,9 @@ a.major {
     line-height: 1.1;
 }
 a.navigate {
-  /* color: #707880; */
-  color: #c5c8c6;
+    font-family: 'Merriweather', serif;
+    color: #707880;
+    /* color: #c5c8c6; */
     text-decoration: none;
     font-weight: bold;
     -o-transition: .5s;
@@ -334,7 +335,8 @@ a.navigate {
 }
 a.navigate:hover,
 a.navigate:focus {
-    color: #c5c8c6;
+    color: #707880;
+    /* color: #c5c8c6; */
     /* border-bottom:3px solid; */
     /* border-bottom-color: #b8860b; */
 }
@@ -6327,9 +6329,8 @@ legend {
     margin-bottom: 20px;
 }
 .likeheader {
-  color: #707880;
+    color: #707880;
 }
 #twitter-widget-0 {
     width: 100% !important;
 }
-
