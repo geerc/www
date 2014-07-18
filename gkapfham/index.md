@@ -13,7 +13,7 @@ mobile applications, and computer systems.  In addition to organizing and teachi
 computer science and effective writing and speaking, I serve as an academic and research adviser for undergraduate and
 graduate students.  
 
-> <b>Expertise</b>: software engineering, software testing, data management, computer systems example
+> <b>Expertise</b>: software engineering, software testing, data management, computer systems 
 
 ### Status Updates from Gregory M. Kapfhammer
 
