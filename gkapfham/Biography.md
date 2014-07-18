@@ -42,23 +42,23 @@ Software Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/)
 Studying the Role of Selection Operators During Search-Based Test Suite Prioritization, co-authored with Alexander P.
 Conrad and [Dr. Robert S. Roos](http://www.cs.allegheny.edu/~rroos/), was also recognized as the best paper in the
 [Search-Based Software Engineering Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM
-SIGEVO Genetic and Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). He also
+SIGEVO Genetic and Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Moreover, he
 frequently serves the research community as a reviewer for conferences and journals, technical program committee member,
 conference program co-chair, workshop co-chair, workshop program co-chair, and review panelist at the U.S. National
 Science Foundation.
 
 As an outworking of his Christian faith, Gregory Kapfhammer's endeavors are guided by the following professional principles:
 
-***Principle 1 (Selfless Service)***: Focus on the needs of your students and colleagues before considering your own. Commit to
+<b>Principle 1 (Selfless Service)</b>: Focus on the needs of your students and colleagues before considering your own. Commit to
 respectfully serving others even when your actions are unlikely to be noticed, rewarded, or beneficial to your own
 professional development.
 
-***Principle 2 (Absolute Excellence)***: Devote yourself and encourage others to commit themselves to uncompromising excellence
+<b>Principle 2 (Absolute Excellence)</b>: Devote yourself and encourage others to commit themselves to uncompromising excellence
 in all aspects of personal and professional development.
 
-***Principle 3 (Realistic Expectations)***: Recognize that all people, including yourself, have strengths and weaknesses.
+**Principle 3 (Realistic Expectations)**: Recognize that all people, including yourself, have strengths and weaknesses.
 Identify the strengths in your own life and the lives of others and plan activities so as to maximize the positive
 impact on the community.
 
-***Principle 4 (Contagious Joy)***: Pursue everything with passion and enthusiasm. Take advantage of every opportunity to
+**Principle 4 (Contagious Joy)**: Pursue everything with passion and enthusiasm. Take advantage of every opportunity to
 encourage your students and colleagues. Always end a conversation or a meeting with a positive remark.

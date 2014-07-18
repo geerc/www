@@ -320,7 +320,7 @@ a.major {
     font-size: 18px;
     line-height: 1.1;
 }
-a.navigate {
+a.navigatename {
     font-family: 'Merriweather', serif;
     color: #707880;
     /* color: #c5c8c6; */
@@ -333,10 +333,34 @@ a.navigate {
     /* ...and now for the proper property */
     transition: .5s;
 }
-a.navigate:hover,
-a.navigate:focus {
+a.navigatename:hover,
+a.navigatename:focus {
     color: #707880;
     /* color: #c5c8c6; */
+    /* border-bottom:3px solid; */
+    /* border-bottom-color: #b8860b; */
+}
+a.navigatename:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+a.navigate {
+    /* color: #707880; */
+    color: #c5c8c6;
+    text-decoration: none;
+    font-weight: bold;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    /* ...and now for the proper property */
+    transition: .5s;
+}
+a.navigate:hover,
+a.navigate:focus {
+    /* c */olor: #707880;
+    color: #c5c8c6;
     /* border-bottom:3px solid; */
     /* border-bottom-color: #b8860b; */
 }
@@ -699,10 +723,17 @@ abbr[data-original-title] {
     font-size: 90%;
     text-transform: uppercase;
 }
+
 blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
     font-size: 17.5px;
+    border-left: 5px solid #7a8288;
+}
+blockquote.small {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 16px;
     border-left: 5px solid #7a8288;
 }
 blockquote p:last-child,

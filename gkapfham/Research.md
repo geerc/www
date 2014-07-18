@@ -15,13 +15,18 @@ backup: ../../../
 ## Research Summary
 
 As an experimental computer scientist, the goal of my research is to design, implement, and evaluate techniques and
-software tools that support the creation of useful, dependable, and efficient software applications. This research
+software tools that support the creation of useful, dependable, and efficient software applications. My research
 addresses the challenges within the fields of software engineering, software testing and analysis, and computer systems.
 I conduct this research in collaboration with undergraduate students at [Allegheny College](http://www.allegheny.edu),
 graduate students and professors at other colleges and universities, and colleagues in industry.
 
-My research is empirical in nature because it involves the application of the scientific method to formulate problem statements, carry out experiments, take observations, perform detailed statistical analysis of data sets, and draw conclusions based upon the experimental results. Each research project focuses on the development and testing of computational artifacts that can be used in empirical studies and real-world practice by undergraduate and graduate students, software engineers, and other computer scientists in both academia and industry. 
+My research is empirical in nature because it involves the application of the scientific method to formulate problem
+statements, carry out experiments, take observations, statistically analyze and visualize the data sets, and draw
+conclusions based upon the experimental results. Each research project focuses on the development and testing of
+software artifacts that can be used in both empirical studies and real-world practice by undergraduate and graduate
+students, software engineers, and computer scientists in both academia and industry. 
 
+Interesting in learning more about my research?  If yes, then please peruse the following deliverables!
 
 <ul class="fa-ul">
 {% for page in site.pages %}
