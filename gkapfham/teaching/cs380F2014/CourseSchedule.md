@@ -15,4 +15,14 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
+## Module One: Introduction to Databases
+
+- **Reading Assignments**
+
+- **Slides**
+
+-- <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter1.html">Chapter One: Introduction</a>
+
+
+
 
