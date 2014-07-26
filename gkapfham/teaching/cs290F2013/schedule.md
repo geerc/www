@@ -70,18 +70,37 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 7<p> 
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapter 7<p> 
 - <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 12-13<p>
 
 **Discussion and Review Slides**
 
 <ul>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter7.html">Chapter 7: SETP</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module3/cs290F2013-chapter7.html">Chapter 7: SETP</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-mmm12.html">Chapter 12: MMM</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module3/cs290F2013-mmm12.html">Chapter 12: MMM</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-mmm13.html">Chapter 13: MMM</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module3/cs290F2013-mmm13.html">Chapter 13: MMM</a>
+
+</ul>
+
+### Module Four: Software Testing, Analysis, and Maintenance 
+
+**Reading Assignments**
+
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 8 - 9<p> 
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 16<p>
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module4/cs290F2013-chapter8.html">Chapter 8: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module4/cs290F2013-chapter9.html">Chapter 9: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module4/cs290F2013-mmm16.html">Chapter 16: MMM</a>
 
 </ul>
 
