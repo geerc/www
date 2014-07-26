@@ -14,11 +14,11 @@ backup: ../../../
 
 To arrange a meeting with me during my office hours, please try to <a
 href="https://www.google.com/calendar/selfsched?sstoken=UU9NbDBvclJCQjlQfGRlZmF1bHR8YTlkNzM1MzFiMTUxNDhhYTc2ZDI2MDhmM2ZiZWJjZGE">Schedule
-an Appointment</a>&mdash; you can browse my available office hours and pick a time slot that fits into our schedules.
+an Appointment</a>&mdash;you can browse my available office hours and pick a time slot that fits into our schedules.
 Once you have chosen your appointment, it will appear in both your Google Calendar and mine. If you would like to see
 where I am during any week of the academic semester, you may <a
 href="http://www.google.com/calendar/embed?src=gkapfham%40allegheny.edu&ctz=America/New_York">View My
-Calendar</a>&mdash; but please note that my schedule is not regularly updated during any of <a
+Calendar</a>&mdash;but please note that my schedule is not regularly updated during any of <a
 href="http://www.allegheny.edu">Allegheny College</a>'s breaks that are documented in the <a href =
 "http://sites.allegheny.edu/dean/academic-calendar/">Academic Calendar</a>.
 
