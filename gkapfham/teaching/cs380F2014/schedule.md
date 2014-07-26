@@ -17,13 +17,13 @@ backup: ../../../
 
 ### Module One: Introduction to Databases and the Relational Model
 
-*Reading Assignments*
+**Reading Assignments**
 
 - Chapter One
 - Chapter Two
 - Chapter Three
 
-*Discussion and Review Slides*
+**Discussion and Review Slides**
 
 <ul>
 
