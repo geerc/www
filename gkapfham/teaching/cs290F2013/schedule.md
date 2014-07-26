@@ -31,17 +31,18 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-lessons.html">Lessons Learned from Google</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter1.html">Chapter 1: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter2.html">Chapter 2: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter3.html">Chapter 3: SETP</a>
+
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-mmm1.html">Chapter 1: MMM</a>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-mmm2.html">Chapter 2: MMM</a>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-mmm3.html">Chapter 3: MMM</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter1.html">Chapter 1: SETP</a>
-
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter2.html">Chapter 2: SETP</a>
-
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter3.html">Chapter 3: SETP</a>
 </ul>
 
 ### Module Two: Requirements, Architecture, and Design
@@ -55,13 +56,32 @@ backup: ../../../
 
 <ul>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-mmm4.html">Chapter 4: MMM</a>
-
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter4.html">Chapter 4: SETP</a>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter5.html">Chapter 5: SETP</a>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter6.html">Chapter 6: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-mmm4.html">Chapter 4: MMM</a>
+
 </ul>
 
+### Module Three: Software Implementation 
+
+**Reading Assignments**
+
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 7<p> 
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 12-13<p>
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter7.html">Chapter 7: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-mmm12.html">Chapter 12: MMM</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-mmm13.html">Chapter 13: MMM</a>
+
+</ul>
 
