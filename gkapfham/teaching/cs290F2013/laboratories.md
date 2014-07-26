@@ -27,4 +27,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs290F2013/provide/labs/lab5/cs290F2013-lab5.pdf">Laboratory Assignment Five: Specifying and Implementing a Next Release Planner</a> <p>Collaborate with your team to deliver a complete system.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs290F2013/provide/labs/lab6/cs290F2013-lab6.pdf">Laboratory Assignment Six: Automatically Characterizing Programs and Test Suites</a> <p>Calculate design and implementation quality metrics for programs.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs290F2013/provide/labs/lab7/cs290F2013-lab7.pdf">Laboratory Assignment Seven: Using Mutation Analysis to Evaluate Test Suites</a> <p>Use the Major mutation testing tool to measure test quality.</p>
+
 </ul>
