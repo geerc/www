@@ -37,6 +37,28 @@ backup: ../../../
 - Peer editing
 - Descriptive and persuasive writing
 
+### Module Two: "Instructions" for Living
+
+**Reading Assignments**
+
+- Richard Hamming, <em>You and Your Research</em>
+- Paul Hoffman, <em>The Man Who Loved Only Numbers</em>
+- Paul Tough, <em>What if the Secret to Success is Failure?</em>
+- Wikipedia, *Erdos Number*
+- AMS MathSciNet, *Collaboration Distance Calculator*
+- Diana Hacker, <em>A Writer's Reference</em>, Pages 10-11 (Section C1-c), 14-18 (Section C2-a), 81 (Section A2-d), 373 (Section MLA-1a)
+
+**Homework Assignments**
+
+- [Short Writing Assignment Three: Titles and Thesis Statements]({{site.baseurl}}teaching/fs101F2013/provide/homework/hw3/fs101F2013-homework3.pdf)
+
+**In-class Activities**
+
+- Lecture and discussion
+- Short presentations
+- Presentation programming
+- Small group work
+- Persuasive writing
 
 
 
