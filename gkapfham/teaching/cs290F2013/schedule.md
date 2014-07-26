@@ -37,7 +37,11 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-mmm3.html">Chapter 3: MMM</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter1.html">Chapter 1: SETP</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter2.html">Chapter 2: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter3.html">Chapter 3: SETP</a>
 </ul>
 
 
