@@ -5,6 +5,7 @@ markdown: rdiscount
 permalink: pretty
 highlighter: pygments
 category-list: [teaching, research]
+exclude: ['*.tex', '*.sty']
 excerpt_separator: <!--more-->
 mapped: false 
 header: false 
