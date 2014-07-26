@@ -29,6 +29,15 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-introduction.html">Introduction to the Course</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-lessons.html">Lessons Learned from Google</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-mmm1.html">Chapter 1: MMM</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-mmm2.html">Chapter 2: MMM</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-mmm3.html">Chapter 3: MMM</a>
+
+
 </ul>
 
 
