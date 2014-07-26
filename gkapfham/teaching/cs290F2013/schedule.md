@@ -44,4 +44,24 @@ backup: ../../../
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module1/cs290F2013-chapter3.html">Chapter 3: SETP</a>
 </ul>
 
+### Module Two: Requirements, Architecture, and Design
+
+**Reading Assignments**
+
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 4 - 6<p> 
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapter 4 <p>
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-mmm4.html">Chapter 4: MMM</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter4.html">Chapter 4: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter5.html">Chapter 5: SETP</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs290F2013/provide/slides/module2/cs290F2013-chapter6.html">Chapter 6: SETP</a>
+</ul>
+
 
