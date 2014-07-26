@@ -29,7 +29,9 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs591F2013/provide/homework/hw6/cs591F2013-hw6.pdf">Laboratory Assignment Six: Components and Blocks in AppInventor</a> <p>Learn how to use the AppInventor development environment.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs591F2013/provide/homework/hw7/cs591F2013-hw7.pdf">Laboratory Assignment Seven: Implementing and Evaluating AppInventor Apps</a> <p>Work in a team to create and study AppInventor apps.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs591F2013/provide/homework/hw8/cs591F2013-hw8.pdf">Laboratory Assignment Eight: The Future of Mobile Apps and Allegheny College</a> <p>Consider the future of mobile app development at Allegheny College.</p>
+
 </ul>
-
-
 
