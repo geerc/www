@@ -16,3 +16,6 @@
 [submodule "gkapfham/teaching/fs101F2013/provide"]
 	path = gkapfham/teaching/fs101F2013/provide
 	url = git@bitbucket.org:gkapfham/fs101f2013.git
+[submodule "gkapfham/teaching/cs610S2014/provide"]
+	path = gkapfham/teaching/cs610S2014/provide
+	url = git@bitbucket.org:gkapfham/cs60060120132014.git
