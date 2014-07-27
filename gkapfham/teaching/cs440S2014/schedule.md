@@ -49,3 +49,24 @@ backup: ../../../
 
 </ul>
 
+### Module Three: Advanced Topics in Operating Systems  
+
+**Reading Assignments**
+
+- <em>Modern Operating Systems</em>, Tanenbaum, Chapters 5 - 6 <p> 
+- <em>Modern Operating Systems</em>, Tanenbaum, Chapters 8 - 9 <p> 
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs440S2014/provide/slides/module3/cs440S2014-chapter5.html">Chapter 5</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs440S2014/provide/slides/module3/cs440S2014-chapter6.html">Chapter 6</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs440S2014/provide/slides/module3/cs440S2014-chapter8.html">Chapter 8</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs440S2014/provide/slides/module3/cs440S2014-chapter9.html">Chapter 9</a>
+
+</ul>
+
