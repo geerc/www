@@ -22,3 +22,6 @@
 [submodule "gkapfham/teaching/cs500501S2014/provide"]
 	path = gkapfham/teaching/cs500501S2014/provide
 	url = git@bitbucket.org:gkapfham/cs500501s2014.git
+[submodule "gkapfham/teaching/cs440S2014/provide"]
+	path = gkapfham/teaching/cs440S2014/provide
+	url = git@bitbucket.org:gkapfham/cs440s2014.git
