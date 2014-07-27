@@ -60,5 +60,28 @@ backup: ../../../
 - Small group work
 - Persuasive writing
 
+### Module Three: Software and Music Piracy 
+
+**Reading Assignments**
+
+- Andrew Ross Sorkin, <em>Software Bullet is Sought to Kill Music Piracy</em>
+- Malin and Fowers, <em>Adolescent Self-Control and Music and Movie Piracy</em>
+- Altschuller and Benbunan-Fich, <em>Is Music Downloading the New Prohibition? What Students Reveal through an Ethical Dilemma</em>
+- Derek Webb, *Giving it Away: How Free Music Makes More Than Sense*
+- Information is Beautiful, *How Much do Music Artists Earn Online?* 
+- Gerald Graff and Cathy Birkenstein, <em>They Say, I Say</em>, Prefaces, Introduction, Chapter 1
+
+**Homework Assignments**
+
+- [Long Writing Assignment One: Portrait in Piracy]({{site.baseurl}}teaching/fs101F2013/provide/homework/hw4/fs101F2013-homework4.pdf)
+- [Presentation Assignment One: Controversies and Solutions in Music Piracy]({{site.baseurl}}teaching/fs101F2013/provide/homework/hw5/fs101F2013-homework5.pdf)
+
+**In-class Activities**
+
+- Lecture and discussion
+- Short presentations
+- Presentation programming
+- Small group work
+- Persuasive writing
 
 
