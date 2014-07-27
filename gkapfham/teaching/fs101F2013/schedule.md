@@ -116,3 +116,24 @@ backup: ../../../
 - In-class writing assignment
 - In-class presentations
 
+### Module Five: Google in Modern Society 
+
+**Reading Assignments**
+
+- John Markoff, <em>Google Cars Drive Themselves</em> 
+- Claire Cain Miller, <em>Google Grows, and Works to Retain Nimble Minds</em>
+- Thomas Claburn, <em>Google Autonomous Cars Get Green Light In California</em>
+- Diana Hacker, <em>A Writer's Reference</em>, Pages 331-368 (Section R - Researching)  
+
+**Homework Assignments**
+
+- [Long Writing Assignment Two: Revising a Writing Assignment]({{site.baseurl}}teaching/fs101F2013/provide/homework/hw8/fs101F2013-homework8.pdf)
+
+**In-class Activities**
+
+- Lecture and Discussion
+- Small group work
+- Taking polls
+
+
+
