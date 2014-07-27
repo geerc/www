@@ -33,3 +33,19 @@ backup: ../../../
 
 </ul>
 
+### Module Two: Key Components of Operating Systems  
+
+**Reading Assignments**
+
+- <em>Modern Operating Systems</em>, Tanenbaum, Chapters 3 - 4 <p> 
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs440S2014/provide/slides/module2/cs440S2014-chapter3.html">Chapter 3</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs440S2014/provide/slides/module2/cs440S2014-chapter4.html">Chapter 4</a>
+
+</ul>
+
