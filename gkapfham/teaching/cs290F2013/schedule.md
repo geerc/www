@@ -19,8 +19,8 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 1 - 3 <p> 
-- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 1 - 3 <p>
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 1 - 3 
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 1 - 3 
 - <em>Can Clean Pipes Produce Dirty Water?</em>, Jeffrey M. Voas ([Download the article](http://www.cigital.com/papers/download/qualitytime2.pdf*))
 
 **Discussion and Review Slides**
@@ -49,8 +49,8 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 4 - 6<p> 
-- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapter 4 <p>
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 4 - 6
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapter 4 
 
 **Discussion and Review Slides**
 
@@ -70,8 +70,8 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapter 7<p> 
-- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 12-13<p>
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapter 7
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 12-13
 
 **Discussion and Review Slides**
 
@@ -89,8 +89,8 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 8 - 9<p> 
-- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 16<p>
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 8 - 9
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 16
 
 **Discussion and Review Slides**
 
