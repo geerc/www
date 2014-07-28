@@ -28,7 +28,23 @@ backup: ../../../
 <ul>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2014/provide/slides/module1/cs112S2014-introduction.html">Introduction to Computer Science 112</a>
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2014/provide/slides/module1/cs112S2014-chapter1.html">Chapter One through Three </a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2014/provide/slides/module1/cs112S2014-chapter1.html">Chapters One through Three </a>
+
+</ul>
+
+### Module Two: Advanced Topics in Java Programming
+
+**Reading Assignments**
+
+- <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia
+    - Section 1.9 
+    - Sections 3.1 and 3.5
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2014/provide/slides/module1/cs112S2014-chapter1.html">Chapters One through Three </a>
 
 </ul>
 
