@@ -21,7 +21,7 @@ backup: ../../../../../../
 ### Abstract
 
 In the book Zen and the Art of Motorcycle Maintenance, Robert M. Pirsig writes the following: "When I think of the
-formal scientific method an image sometimes comes to mind of an enormous juggernaut, a huge bulldozer– slow, tedious,
+formal scientific method an image sometimes comes to mind of an enormous juggernaut, a huge bulldozer&mdash;slow, tedious,
 lumbering, laborious, but invincible. It takes twice as long, five times as long, maybe a dozen times as long as
 informal mechanic's techniques, but you know in the end you're going to get it." In this presentation, we will highlight
 an undergraduate course taught at a small liberal arts college that attempted to ensure that students "got" the
