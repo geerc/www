@@ -13,11 +13,4 @@ backup: ../../../../../../../
 ## {{ page.title }}
 ### <em>{{ page.date | date_to_long_string }}</em>
 
-Schema testing is really important and you should use our methods
-Schema testing is really important and you should use our methods
-Schema testing is really important and you should use our methods
-Schema testing is really important and you should use our methods
-Schema testing is really important and you should use our methods
-Schema testing is really important and you should use our methods
-Schema testing is really important and you should use our methods!!!!!!!
 
