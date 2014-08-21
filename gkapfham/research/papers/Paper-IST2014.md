@@ -11,11 +11,11 @@ paper: true
 backup: ../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{backup}}/download/research/papers/ist2014-lin-tang-kapfhammer.pdf "Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/ist2014-lin-tang-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors }}
 
-### <i>Information and Software Technology</i>, 2014.
+### <i>Information and Software Technology</i>, (54)10, October 2014.
 
 ### Abstract
 

@@ -11,7 +11,7 @@ paper: true
 backup: ../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{backup}}/download/research/papers/iceccs2013-lin-chen-tsai-kapfhammer.pdf "Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/iceccs2013-lin-chen-tsai-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors}}
 

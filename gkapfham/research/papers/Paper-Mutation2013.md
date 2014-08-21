@@ -11,7 +11,7 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{backup}}/download/research/papers/mutation2013-wright-kapfhammer-mcminn.pdf "Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/mutation2013-wright-kapfhammer-mcminn.pdf "Download this Paper!")
 
 ### {{page.authors }}
 
