@@ -21,7 +21,7 @@ backup: ../../../../../../
 
 There has been much attention to testing applications that interact with database management systems, and the testing of
 individual database management systems themselves. However, there has been very little work devoted to testing arguably
-the most important artefact involving an application supported by a relational database – the underlying schema. This
+the most important artefact involving an application supported by a relational database &mdash; the underlying schema. This
 paper introduces a search-based technique for generating database table data with the intention of exercising the
 integrity constraints placed on table columns. The development of a schema is a process open to flaws like any stage of
 application development. Its cornerstone nature to an application means that defects need to be found early in order to
