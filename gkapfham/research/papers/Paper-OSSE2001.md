@@ -11,7 +11,7 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }}
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/osse2001-bittman-roos-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors }}
 
