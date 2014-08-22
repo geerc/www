@@ -3,7 +3,7 @@ id: -11
 title: Testing in Resource Constrained Execution Environments
 layout: researchpaper_n
 categories: [research, paper, conference, testing]
-authors: Gregory M. Kapfhammer, Mary Lou Soffa, and Daniel Mosse
+authors: Gregory M. Kapfhammer, Mary Lou Soffa, and Daniel Moss&eacute;
 mapped: true
 header: false
 research: false
