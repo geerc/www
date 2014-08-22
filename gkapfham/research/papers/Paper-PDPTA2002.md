@@ -2,7 +2,7 @@
 id: -4 
 title: Creation and Analysis of a JavaSpace-based Genetic Algorithm
 layout: researchpaper_n
-categories: [research, paper, conference, testing]
+categories: [research, paper, conference, distributed systems]
 authors: Brian Zorman, Gregory M. Kapfhammer, and Robert S. Roos 
 mapped: true 
 header: false 

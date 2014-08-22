@@ -2,7 +2,7 @@
 id: -3 
 title: Creating a Free, Dependable Software Engineering Environment for Building Java Applications  
 layout: researchpaper_n
-categories: [research, paper, conference, testing]
+categories: [research, paper, workshop, software engineering]
 authors: Marcus Bittman, Robert S. Roos, and Gregory M. Kapfhammer
 mapped: true 
 header: false 
