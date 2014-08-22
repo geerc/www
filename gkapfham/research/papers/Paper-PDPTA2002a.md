@@ -11,12 +11,11 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/pdpta2002-zorman-kapfhammer-roos.pdf "Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/pdpta2002a-arnold-kapfhammer-roos.pdf "Download this Paper!")
 
 ### {{page.authors }}
 
-### <em>Proceedings of the 8th International Conference on Parallel and Distributed Processing
-Techniques and Applications</em>, June 2002 
+### <em>Proceedings of the 8th International Conference on Parallel and Distributed Processing Techniques and Applications</em>, June 2002 
 
 ### Abstract
 
