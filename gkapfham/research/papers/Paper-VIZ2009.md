@@ -11,12 +11,11 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa
-fa-download"></i>]({{site.baseurl}}download/research/papers/viz2009-smith-geiger-kapfhammer-renieris-marai.pdf" Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/viz2009-smith-geiger-kapfhammer-renieris-marai.pdf" Download this Paper!")
 
 ### {{page.authors }}
 
-### <em></em>, October 2009
+### <em>Compendium of the Information Visualization Conference</em>, October 2009
 
 ### Abstract
 
