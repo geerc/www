@@ -2,7 +2,7 @@
 id: -44 
 title: Search-Based Testing of Relational Schema Integrity Constraints Across Multiple Database Management Systems
 layout: researchpaper_n
-categories: [research, paper, conference, testing, database]
+categories: [research, paper, conference, database, testing]
 authors: Gregory M. Kapfhammer, Phil McMinn, and Chris J. Wright 
 mapped: true 
 header: false 
