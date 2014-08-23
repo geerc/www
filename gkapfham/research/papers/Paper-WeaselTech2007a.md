@@ -11,11 +11,11 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/ "Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/weaseltech2007a-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors }}
 
-### <em>Proceedings of the ACM International Workshop on Empirical Assessment of Software Engineering Languages and Technologies</em>, November 2007 
+### <em>Proceedings of the International Workshop on Empirical Assessment of Software Engineering Languages and Technologies</em>, November 2007 
 
 ### Abstract
 

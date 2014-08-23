@@ -15,7 +15,7 @@ backup: ../../../../../../
 
 ### {{page.authors }}
 
-### <em>Proceedings of the ACM International Workshop on Empirical Assessment of Software Engineering Languages and Technologies</em>, November 2007 
+### <em>Proceedings of the International Workshop on Empirical Assessment of Software Engineering Languages and Technologies</em>, November 2007 
 
 ### Abstract
 
