@@ -11,7 +11,7 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/ase2011-just-schweiggert-kapfhammer.pdf" Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/ase2011-just-schweiggert-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors }}
 

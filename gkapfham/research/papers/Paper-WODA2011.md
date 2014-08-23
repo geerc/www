@@ -11,7 +11,7 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/woda2011-cobb-kapfhammer-jones-harrold.pdf" Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/woda2011-cobb-kapfhammer-jones-harrold.pdf "Download this Paper!")
 
 ### {{page.authors }}
 
