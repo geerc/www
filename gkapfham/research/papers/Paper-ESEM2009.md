@@ -11,7 +11,7 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/esem2009-ostrofsky-kapfhammer.pdf" Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/esem2009-ostrofsky-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors }}
 

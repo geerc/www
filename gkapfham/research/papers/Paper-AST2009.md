@@ -11,7 +11,7 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/ast2009-bhadra-conrad-hurkes-kirklin-kapfhammer.pdf" Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/ast2009-bhadra-conrad-hurkes-kirklin-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors }}
 
