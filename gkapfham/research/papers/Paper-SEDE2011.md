@@ -1,6 +1,6 @@
 ---
 id: -31
-title: Ask and You Shall Receive: Empirically Evaluating Declarative Approaches to Finding Data in Unstructured Heaps
+title: Ask and You Shall Receive&#58; Empirically Evaluating Declarative Approaches to Finding Data in Unstructured Heaps
 layout: researchpaper_n
 categories: [research, paper, conference, performance, programming languages]
 authors: William F. Jones and Gregory M. Kapfhammer
