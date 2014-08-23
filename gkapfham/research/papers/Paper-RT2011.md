@@ -1,6 +1,6 @@
 ---
 id: -33
-title: Empirically Evaluating Regression Testing Techniques: Challenges, Solutions, and a Potential Way Forward
+title: Empirically Evaluating Regression Testing Techniques&#58; Challenges, Solutions, and a Potential Way Forward
 layout: researchpaper_n
 categories: [research, paper, conference, regression testing]
 authors: Gregory M. Kapfhammer
