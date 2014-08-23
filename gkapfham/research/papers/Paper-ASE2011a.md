@@ -15,7 +15,7 @@ backup: ../../../../../../
 
 ### {{page.authors }}
 
-### <em>Proceedings of the 26th IEEE/ACM International Conference on Automated Software Engineering</em>, November 2011
+### <em>Proceedings of the 26th International Conference on Automated Software Engineering</em>, November 2011
 
 ### Abstract
 
