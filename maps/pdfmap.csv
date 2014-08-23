@@ -1,37 +1,38 @@
-OldFile,NewFile
-joshua.pdf, tcs2001-kapfhammer.pdf
-freetoolsPositionPaper.pdf, osse2001-bittman-roos-kapfhammer.pdf
-DGAConference.pdf, pdpta2002-zorman-kapfhammer-roos.pdf
-Conference.pdf,pdpta2002-arnold-kapfhammer-roos.pdf
-rams2_final.pdf,rams2002-haddox-kapfhammer-michael.pdf
-p141-kapfhammer.pdf,fse2002-kapfhammer-soffa.pdf
-pppj2003-jgf,pdf,pppj2003-howell-kapfhammer-roos.pdf
-software_testing_chapter.pdf,csh2004-kapfhammer.pdf
-fiedler-settle-sigmetrics-per.pdf,per2005-fiedler-walcott-richardson-kapfhammer-amer-chrysanthis.pdf
-f527-kapfhammer.pdf,ase2005-kapfhammer-soffa-mosse.pdf
-kapfhammer-sac2005.pdf,sac2005-rummel-kapfhammer-thall.pdf
-res59-walcott.pdf,ssta2006-walcott-soffa-kapfhammer-roos.pdf
-alspaugh_prioritize_01kp.pdf,weaseltech2007-alspaugh-walcott-belanich-kapfhammer-soffa.pdf
-smith_testing_calls_trees_tool_ase2007.pdf,smith-geiger-kapfhammer-soffa.pdf
-kapfhammer_dissertation_final_April_2007.pdf,dissertation2007-kapfhammer.pdf
-bhadra_kapfhammer_taicpart2008.pdf,taicpart2008-bhadra-kapfhammer.pdf
-isec123-kapfhammer.pdf,isec2008-kapfhammer-soffa.pdf
-ostrofsky-esem09-compression-paper.pdf,esem2009-ostrofsky-kapfhammer.pdf
-smith-infovis09-visualize-ce-paper.pdf,viz2009-smith-geiger-kapfhammer-renieris-marai.pdf
-ICSE2009_AST_33_kapfhammer_gregory.pdf,ast2009-bhadra-conrad-hurkes-kirklin-kapfhammer.pdf
-kapfhammer_regression_testing_chapter.pdf,ese2010-kapfhammer.pdf
-t14fp350.pdf,gecco2010-conrad-roos-kapfhammer.pdf
-lbp145-williams.pdf,lbagecco2010-williams-kapfhammer.pdf
-lbp136-kukunas.pdf,lbagecco2010-kukunas-cupper-kapfhammer.pdf
-just_ase2011_paper.pdf,ase2011-just-schweigert-kapfhammer.pdf
-clark_ase2011_paper.pdf,ase2011a-clark-cobb-kapfhammer-jones-harrold.pdf
-yalan_ssbse2011_paper.pdf,ssbse2011-yalan-nie-kauffman-kapfhammer-leung.pdf
-cobb_woda2011_paper.pdf,woda2011-cobb-kapfhammer-jones-harrold.pdf
-jones_find_data_unstructured_heaps_sede2011.pdf,sede2011-jones-kapfhammer.pdf
-kapfhammer_regressiontesting2011_paper.pdf,rt2011-kapfhammer.pdf
-just_issre2012_paper.pdf,issre2012-just-kapfhammer-schweigert.pdf
-lin-icgec2012-paper.pd,icgec2012-lin-tang-chen-kapfhammer.pdf
-burdette_per_paper.pdf,per2012-burdette-jones-blose-kapfhammer.pdf
-kapfhammer_database_reduction_poster_paper_icst2012.pdf,icst2012-kapfhammer.pdf
-kauffman_taicpart2012_paper.pdf,taicpart2012-kauffman-kapfhammer.pdf
+OldFile                                                 , NewFile
+joshua.pdf                                              , tcs2001-kapfhammer.pdf
+freetoolsPositionPaper.pdf                              , osse2001-bittman-roos-kapfhammer.pdf
+DGAConference.pdf                                       , pdpta2002-zorman-kapfhammer-roos.pdf
+Conference.pdf                                          , pdpta2002-arnold-kapfhammer-roos.pdf
+rams2_final.pdf                                         , rams2002-haddox-kapfhammer-michael.pdf
+p141-kapfhammer.pdf                                     , fse2002-kapfhammer-soffa.pdf
+pppj2003-jgf.pdf                                        , pppj2003-howell-kapfhammer-roos.pdf
+software_testing_chapter.pdf                            , csh2004-kapfhammer.pdf
+fiedler-settle-sigmetrics-per.pdf                       , per2005-fiedler-walcott-richardson-kapfhammer-amer-chrysanthis.pdf
+f527-kapfhammer.pdf                                     , ase2005-kapfhammer-soffa-mosse.pdf
+kapfhammer-sac2005.pdf                                  , sac2005-rummel-kapfhammer-thall.pdf
+res59-walcott.pdf                                       , ssta2006-walcott-soffa-kapfhammer-roos.pdf
+alspaugh_prioritize_01kp.pdf                            , weaseltech2007-alspaugh-walcott-belanich-kapfhammer-soffa.pdf
+smith_testing_calls_trees_tool_ase2007.pdf              , smith-geiger-kapfhammer-soffa.pdf
+kapfhammer_dissertation_final_April_2007.pdf            , dissertation2007-kapfhammer.pdf
+bhadra_kapfhammer_taicpart2008.pdf                      , taicpart2008-bhadra-kapfhammer.pdf
+isec123-kapfhammer.pdf                                  , isec2008-kapfhammer-soffa.pdf
+ostrofsky-esem09-compression-paper.pdf                  , esem2009-ostrofsky-kapfhammer.pdf
+smith-infovis09-visualize-ce-paper.pdf                  , viz2009-smith-geiger-kapfhammer-renieris-marai.pdf
+ICSE2009_AST_33_kapfhammer_gregory.pdf                  , ast2009-bhadra-conrad-hurkes-kirklin-kapfhammer.pdf
+kapfhammer_regression_testing_chapter.pdf               , ese2010-kapfhammer.pdf
+t14fp350.pdf                                            , gecco2010-conrad-roos-kapfhammer.pdf
+lbp145-williams.pdf                                     , lbagecco2010-williams-kapfhammer.pdf
+lbp136-kukunas.pdf                                      , lbagecco2010-kukunas-cupper-kapfhammer.pdf
+just_ase2011_paper.pdf                                  , ase2011-just-schweigert-kapfhammer.pdf
+clark_ase2011_paper.pdf                                 , ase2011a-clark-cobb-kapfhammer-jones-harrold.pdf
+yalan_ssbse2011_paper.pdf                               , ssbse2011-yalan-nie-kauffman-kapfhammer-leung.pdf
+cobb_woda2011_paper.pdf                                 , woda2011-cobb-kapfhammer-jones-harrold.pdf
+jones_find_data_unstructured_heaps_sede2011.pdf         , sede2011-jones-kapfhammer.pdf
+kapfhammer_regressiontesting2011_paper.pdf              , rt2011-kapfhammer.pdf
+just_issre2012_paper.pdf                                , issre2012-just-kapfhammer-schweigert.pdf
+lin-icgec2012-paper.pd                                  , icgec2012-lin-tang-chen-kapfhammer.pdf
+burdette_per_paper.pdf                                  , per2012-burdette-jones-blose-kapfhammer.pdf
+kapfhammer_database_reduction_poster_paper_icst2012.pdf , icst2012-kapfhammer.pdf
+kauffman_taicpart2012_paper.pdf                         , taicpart2012-kauffman-kapfhammer.pdf
+just_mutation2012_paper.pdf                             , mutation2012-just-kapfhammer-schweiggert.pdf
 
