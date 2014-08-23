@@ -1,5 +1,5 @@
 ---
-id: -22
+id: -23
 title: An Empirical Study of Incorporating Cost into Test Suite Reduction and Prioritization
 layout: researchpaper_n
 categories: [research, paper, conference, regression testing]

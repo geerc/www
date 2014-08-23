@@ -1,5 +1,5 @@
 ---
-id: -36
+id: -37
 title: An Empirical Comparison of Java Remote Communication Primitives for Intra-Node Data Transmission
 layout: researchpaper_n
 categories: [research, paper, journal, performance, distributed systems]

@@ -1,5 +1,5 @@
 ---
-id: -26
+id: -27
 title: A Genetic Algorithm to Improve Linux Kernel Performance on Resource-Constrained Devices
 layout: researchpaper_n
 categories: [research, paper, conference, genetic algorithm, operating systems]
