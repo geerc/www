@@ -15,7 +15,7 @@ backup: ../../../../../../
 
 ### {{page.authors }}
 
-### <em>Proceedings of the European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering</em>, September 2003
+### <em>Proceedings of the European Software Engineering Conference and Symposium on the Foundations of Software Engineering</em>, September 2003
 
 ### Abstract
 

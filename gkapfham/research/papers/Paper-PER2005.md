@@ -15,7 +15,7 @@ backup: ../../../../../../
 
 ### {{page.authors }}
 
-### <em>ACM SIGMETRICS Performance Evaluation Review</em>, 33(4), December 2005
+### <em>Performance Evaluation Review</em>, 33(4), December 2005
 
 ### Abstract
 

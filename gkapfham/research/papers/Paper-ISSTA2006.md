@@ -15,7 +15,7 @@ backup: ../../../../../../
 
 ### {{page.authors }}
 
-### <em>Proceedings of the ACM SIGSOFT/SIGPLAN International Symposium on Software Testing and Analysis</em>, June 2006
+### <em>Proceedings of the International Symposium on Software Testing and Analysis</em>, June 2006
 
 ### Abstract
 

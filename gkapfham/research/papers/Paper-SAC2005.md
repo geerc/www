@@ -15,7 +15,7 @@ backup: ../../../../../../
 
 ### {{page.authors }}
 
-### <em>Proceedings of the ACM SIGAPP Symposim on Applied Computing</em>, March 2005
+### <em>Proceedings of the Symposim on Applied Computing</em>, March 2005
 
 ### Abstract
 
