@@ -10,6 +10,8 @@ backup: ../../../
 
 # {{ page.title }}
 
+<a title="'Gregory M. Kapfhammer - Computer' - by Tanya Greer" href="{{site.baseurl}}{{page.url | remove_first:'/'}}"><img class="img-responsive-tight" src="{{site.baseurl}}download/images/gregory-kapfhammer-biography-small.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">creative commons licensed ( BY-NC-ND )</a> photo shared by <a href="https://www.facebook.com/tkpapinchak">Tanya Greer</a></small>
+
 [Gregory M. Kapfhammer]({{page.backup}}) is an Associate Professor in and Chair of the [Department of Computer
 Science](http://www.cs.allegheny.edu) at [Allegheny College](http://www.allegheny.edu). Dr. Kapfhammer earned his PhD
 from the [Department of Computer Science](http://www.cs.pitt.edu) at the [University of
