@@ -10,7 +10,6 @@ backup: ../../../
  
 # {{page.title}}
 
-<a title="bokeh" href="http://flickr.com/photos/juehuayin/5002489925"><img class="img-responsive-tight" src="http://farm5.static.flickr.com/4128/5002489925_d89dd0ac62_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">creative commons licensed ( BY-NC-ND )</a> <a title="bokeh" href="http://flickr.com/photos/juehuayin/5002489925">flickr photo</a> shared by <a href="http://flickr.com/people/juehuayin">邪恶的正太</a></small>
 
 Dr. Gregory M. Kapfhammer <br> 
 Department of Computer Science <br>
