@@ -29,9 +29,6 @@ backup: ../../../
 
     <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter1.html">Chapter One: Introduction</a>
 
-    <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter2.html">Chapter Two: Introduction to the Relational Model</a>
-    <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter3.html">Chapter Three: Introduction to SQL</a>
-
 </ul>
 
 
