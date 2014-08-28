@@ -15,4 +15,9 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
+<ul>
+
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab1/cs380F2014-lab1.pdf">Laboratory Assignment One: Introducing Data Management Concepts and Tools</a> <p>Practice file-based management in Git repositories.</p>
+
+</ul>
 
