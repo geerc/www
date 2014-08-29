@@ -28,7 +28,7 @@ undesirable because they are only valid for certain database systems. Applying o
 removal to a variety of schemas, many of which are from real-world sources like the U.S. Department of Agriculture and
 the Stack Overflow website, reveals that the presented static analysis of the DBMS-independent representation is
 multiple orders of magnitude faster than a DBMS-specific method. The results also show increased mutation scores in 75\%
-of cases, with 44\% of those uncovering a mutation-adequate test suite. Combining the presented techniques yields mean
-efficiency improvements of up to 33.7\%, with averages across schemas of 1.6% and 11.8% for HyperSQL and PostgreSQL,
+of cases, with 44% of those uncovering a mutation-adequate test suite. Combining the presented techniques yields mean
+efficiency improvements of up to 33.7%, with averages across schemas of 1.6% and 11.8% for HyperSQL and PostgreSQL,
 respectively. 
 
