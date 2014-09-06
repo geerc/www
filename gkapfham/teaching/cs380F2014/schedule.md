@@ -26,9 +26,8 @@ backup: ../../../
 **Discussion and Review Slides**
 
 <ul>
-
-    <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter1.html">Chapter One: Introduction</a>
-
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter1.html">Chapter One: Introduction</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter2.html">Chapter Two: Relational Databases</a>
 </ul>
 
 
