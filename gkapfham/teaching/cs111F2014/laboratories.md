@@ -15,6 +15,11 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
+<ul>
+
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab1/cs111F2014-lab01.pdf">Laboratory Assignment One: Exploring Ubuntu and GVim</a> <p>Learn more about Ubuntu Linux and the GVim text editor.</p>
+
+</ul>
 
 
 
