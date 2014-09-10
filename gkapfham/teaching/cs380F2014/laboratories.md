@@ -21,6 +21,9 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab2/cs380F2014-lab2.pdf">Laboratory Assignment Two: Procedural Programming and File Processing Systems</a> <p>Implement imperative data analysis methods in R.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab3/cs380F2014-lab3.pdf">Laboratory Assignment Three:
+Combining Imperative and Declarative Programming</a> <p>Work in a team to conduct a performance evaluation of
+declarative querying.</p>
 
 </ul>
 
