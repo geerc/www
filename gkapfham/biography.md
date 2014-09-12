@@ -38,16 +38,17 @@ research [papers]({{page.backup}}/site/research/Papers/), oft-complimented
 [presentations]({{page.backup}}/site/research/Presentations/), and useful free and open-source
 [software]({{page.backup}}/site/main/Software/).
 
-The paper A Family of Test Adequacy Criteria for Database-Driven Applications, co-authored by Kapfhammer and Dr. Mary
-Lou Soffa, was selected to receive the ACM SIGSOFT Distinguished Paper Award at the [2003 ACM SIGSOFT Foundations of
-Software Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/). Gregory Kapfhammer's paper Empirically
-Studying the Role of Selection Operators During Search-Based Test Suite Prioritization, co-authored with Alexander P.
-Conrad and [Dr. Robert S. Roos](http://www.cs.allegheny.edu/~rroos/), was also recognized as the best paper in the
-[Search-Based Software Engineering Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM
-SIGEVO Genetic and Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Moreover, he
-frequently serves the research community as a reviewer for conferences and journals, technical program committee member,
-conference program co-chair, workshop co-chair, workshop program co-chair, and review panelist at the U.S. National
-Science Foundation.
+The paper "[A Family of Test Adequacy Criteria for Database-Driven
+Applications]({{site.baseurl}}research/papers/paper-fse2003/)", co-authored by Kapfhammer and Dr. Mary Lou Soffa, was
+selected to receive the ACM SIGSOFT Distinguished Paper Award at the [2003 ACM SIGSOFT Foundations of Software
+Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/).  Gregory Kapfhammer's paper "[Empirically
+Studying the Role of Selection Operators During Search-Based Test Suite
+Prioritization]({{site.baseurl}}research/papers/paper-gecco2010/)", co-authored with Alexander P. Conrad and [Dr. Robert
+S. Roos](http://www.cs.allegheny.edu/~rroos/), was also recognized as the best paper in the [Search-Based Software
+Engineering Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM SIGEVO Genetic and
+Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Moreover, he frequently serves the
+research community as a reviewer for conferences and journals, technical program committee member, conference program
+co-chair, workshop co-chair, workshop program co-chair, and review panelist at the U.S. National Science Foundation.
 
 As an outworking of his Christian faith, Gregory Kapfhammer's endeavors are guided by the following professional principles:
 
