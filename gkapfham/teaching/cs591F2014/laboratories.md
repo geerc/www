@@ -21,6 +21,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab2/cs591F2014-lab2.pdf">Laboratory Assignment Two: Using Conditional Logic in Automation Tasks </a> <p>Start learning how to program in Tasker.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/homework/hw3/cs591F2014-hw3.pdf">Laboratory Assignment Three: Integrating Tasker Automation Tasks</a> <p>Create Tasker tasks that update displays in a DashClock and the Power Toggles.</p>
+<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab3/cs591F2014-lab3.pdf">Laboratory Assignment Three: Integrating Tasker Automation Tasks</a> <p>Create Tasker tasks that update displays in a DashClock and the Power Toggles.</p>
 
 </ul>
