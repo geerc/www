@@ -21,6 +21,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical02/cs111F2014-practical02.pdf">Practical Assignment Two: Exploring Console-Based Output and Escape Characters</a> <p>Learn how to create formatted output with a Java program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical03/cs111F2014-practical03.pdf">Practical Assignment Three: Creatively Combining User Input and Variables</a> <p>Make your own "MadLibs" program using the Scanner class.</p>
+
 </ul>
 
 
