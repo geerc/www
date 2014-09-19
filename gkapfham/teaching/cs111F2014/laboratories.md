@@ -21,6 +21,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab2/cs111F2014-lab02.pdf">Laboratory Assignment Two: Using Variables to Perform Computations</a> <p>After creating a "program template", learn how to use variables and operators.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab2/cs111F2014-lab02.pdf">Laboratory Assignment Three: Performing User Input with the Scanner</a> <p>Learn how to store user input in variables and practice performing computations.</p>
+
 </ul>
 
 
