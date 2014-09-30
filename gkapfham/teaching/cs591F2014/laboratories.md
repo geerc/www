@@ -23,6 +23,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab3/cs591F2014-lab3.pdf">Laboratory Assignment Three: Integrating Tasker Automation Tasks</a> <p>Create Tasker tasks that update displays in a DashClock and the Power Toggles.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab4/cs591F2014-lab4.pdf">Laboratory Assignment Four: Implementation and Evaluating Tasker Automation Tasks</a> <p>Work in a team to create and study automation tasks.</p>
+<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab4/cs591F2014-lab4.pdf">Laboratory Assignment Four: Implementing and Evaluating Tasker Automation Tasks</a> <p>Work in a team to create and study automation tasks.</p>
 
 </ul>

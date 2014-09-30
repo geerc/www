@@ -31,4 +31,14 @@ backup: ../../../
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter3.html">Chapter Three: Introduction to SQL</a>
 </ul>
 
+### Module Two: Advanced Topics in Declarative Programming
+
+**Reading Assignments**
+
+- Chapter Four
+- Chapter Five
+- Chapter Nine
+
+
+
 

@@ -23,7 +23,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs591F2013/provide/homework/hw3/cs591F2013-hw3.pdf">Laboratory Assignment Three: Integrating Tasker Automation Tasks</a> <p>Create Tasker tasks that update displays in a DashClock.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs591F2013/provide/homework/hw4/cs591F2013-hw4.pdf">Laboratory Assignment Four: Implementation and Evaluating Tasker Automation Tasks</a> <p>Work in a team to create and study automation tasks.</p>
+<li><a href="{{site.baseurl}}teaching/cs591F2013/provide/homework/hw4/cs591F2013-hw4.pdf">Laboratory Assignment Four: Implementing and Evaluating Tasker Automation Tasks</a> <p>Work in a team to create and study automation tasks.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs591F2013/provide/homework/hw5/cs591F2013-hw5.pdf">Laboratory Assignment Five: Installing and Configuring AppInventor</a> <p>Take the first steps towards creating Android apps in AppInventor.</p>
 
