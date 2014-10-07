@@ -25,6 +25,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab4/cs111F2014-lab04.pdf">Laboratory Assignment Four: Creating Graphical Output in Java</a> <p>Gain more experience with calling methods and learn how to create graphical artwork.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab5/cs111F2014-lab05.pdf">Laboratory Assignment Five: Manipulation of DNA Strings</a> <p>Learn how to use the String and Random classes to modify DNA strings.</p>
+
 </ul>
 
 
