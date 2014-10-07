@@ -39,6 +39,12 @@ backup: ../../../
 - Chapter Five
 - Chapter Nine
 
+**Discussion and Review Slides**
+
+<ul>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter4.html">Chapter Four: Intermediate SQL</a>
+</ul>
+
 
 
 
