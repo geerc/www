@@ -27,6 +27,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab5/cs111F2014-lab05.pdf">Laboratory Assignment Five: Manipulation of DNA Strings</a> <p>Learn how to use the String and Random classes to modify DNA strings.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab6/cs111F2014-lab06.pdf">Laboratory Assignment Six: Fixing and Extending Computations in Java Classes</a> <p>Participate in a "bug hunt" to find and fix defects in a Java program.</p>
+
 </ul>
 
 
