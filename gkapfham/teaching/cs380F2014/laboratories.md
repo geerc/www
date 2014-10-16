@@ -25,5 +25,8 @@ backup: ../../../
 Combining Imperative and Declarative Programming</a> <p>Work in a team to conduct a performance evaluation of
 declarative querying.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab4/cs380F2014-lab4.pdf">Laboratory Assignment Four:
+Visualizing Relational Database Schemas</a> <p>Work with a partner to create "pseudo-ER" diagrams of database schemas.</p>
+
 </ul>
 
