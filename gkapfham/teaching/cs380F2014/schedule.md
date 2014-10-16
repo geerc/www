@@ -43,6 +43,7 @@ backup: ../../../
 
 <ul>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter4.html">Chapter Four: Intermediate SQL</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter5.html">Chapter Five: Advanced SQL</a>
 </ul>
 
 
