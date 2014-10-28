@@ -39,4 +39,17 @@ backup: ../../../
 
 </ul>
 
+### Module Two: Exploring Classes and Objects  
+
+**Reading Assignments**
+
+- <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 4
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2014/provide/slides/cs111-chapter4.html">Chapter 4: Writing Classes</a>
+
+</ul>
 

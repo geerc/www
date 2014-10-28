@@ -25,6 +25,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical04/cs111F2014-practical04.pdf">Practical Assignment Four: Customizing the GVim Text Editor</a> <p>Add many features and plugins to GVim by installing spf13-vim.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical05/cs111F2014-practical05.pdf">Practical Assignment Five: Enhancing Java Classes and Methods</a> <p>Add new features to an object-oriented system comprised of three classes.</p>
+
 </ul>
 
 

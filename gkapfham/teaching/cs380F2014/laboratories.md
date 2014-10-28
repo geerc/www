@@ -28,5 +28,8 @@ declarative querying.</p>
 <li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab4/cs380F2014-lab4.pdf">Laboratory Assignment Four:
 Visualizing Relational Database Schemas</a> <p>Work with a partner to create "pseudo-ER" diagrams of database schemas.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab5/cs380F2014-lab5.pdf">Laboratory Assignment Five:
+Using the SQL Data Manipulation Language</a> <p>After creating and visualizing a schema, populate it with realistic data.</p>
+
 </ul>
 
