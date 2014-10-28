@@ -31,5 +31,8 @@ Visualizing Relational Database Schemas</a> <p>Work with a partner to create "ps
 <li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab5/cs380F2014-lab5.pdf">Laboratory Assignment Five:
 Using the SQL Data Manipulation Language</a> <p>After creating and visualizing a schema, populate it with realistic data.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab6/cs380F2014-lab6.pdf">Laboratory Assignment Six:
+Implementing and Evaluating Database-Centric Applications</a> <p>Collaborate with a partner to build a complete database application.</p>
+
 </ul>
 

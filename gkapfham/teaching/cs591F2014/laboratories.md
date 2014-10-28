@@ -25,4 +25,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab4/cs591F2014-lab4.pdf">Laboratory Assignment Four: Implementing and Evaluating Tasker Automation Tasks</a> <p>Work in a team to create and study automation tasks.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab5/cs591F2014-lab5.pdf">Laboratory Assignment Five: Implementing Graphical Apps with Generate</a> <p>Modifying existing generative programs to create complex graphical simulations.</p>
+
 </ul>
