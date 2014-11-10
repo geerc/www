@@ -44,8 +44,21 @@ backup: ../../../
 <ul>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter4.html">Chapter Four: Intermediate SQL</a>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter5.html">Chapter Five: Advanced SQL</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter9.html">Chapter Nine: Application Design and Development</a>
 </ul>
 
+### Module Three: Alternative Data Management Methods
+
+**Reading Assignments**
+
+- Chapter Twenty-Three
+- Chapter Twenty-Two
+
+**Discussion and Review Slides**
+
+<ul>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter23.html">Chapter Twenty-Three: XML</a>
+</ul>
 
 
 
