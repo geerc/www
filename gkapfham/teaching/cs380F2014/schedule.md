@@ -58,6 +58,7 @@ backup: ../../../
 
 <ul>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter23.html">Chapter Twenty-Three: XML</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter22.html">Chapter Twenty-Two: Object-Based Databases</a>
 </ul>
 
 

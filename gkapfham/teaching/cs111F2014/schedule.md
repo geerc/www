@@ -55,3 +55,18 @@ backup: ../../../
 
 </ul>
 
+### Module Three: Advanced Iteration and Arrays 
+
+**Reading Assignments**
+
+- <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 6
+- <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 8
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2014/provide/slides/cs111-chapter6.html">Chapter 6: More Conditionals and Loops</a>
+
+</ul>
+
