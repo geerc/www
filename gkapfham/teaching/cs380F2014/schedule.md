@@ -61,5 +61,16 @@ backup: ../../../
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter22.html">Chapter Twenty-Two: Object-Based Databases</a>
 </ul>
 
+### Module Four: Advanced Topics in Data Management 
+
+**Reading Assignments**
+
+- Chapter Twenty 
+
+**Discussion and Review Slides**
+
+<ul>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter20.html">Chapter Twenty: Data Warehousing and Mining</a>
+</ul>
 
 

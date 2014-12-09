@@ -68,5 +68,22 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2014/provide/slides/cs111-chapter6.html">Chapter 6: More Conditionals and Loops</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2014/provide/slides/cs111-chapter8.html">Chapter 8: Arrays</a>
+
+</ul>
+
+### Module Four: Exception Handling
+
+**Reading Assignments**
+
+- <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 11
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2014/provide/slides/cs111-chapter11.html">Chapter 11: Exceptions</a>
+
+
 </ul>
 
