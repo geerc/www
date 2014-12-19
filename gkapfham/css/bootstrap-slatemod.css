@@ -6353,6 +6353,9 @@ legend {
 .top-reduce {
     margin-top: -10px;
 }
+.top-reduce-first {
+    margin-top: -10px;
+}
 .bottom-pad {
     margin-bottom: 10px;
 }
