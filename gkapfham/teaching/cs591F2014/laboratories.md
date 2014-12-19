@@ -27,4 +27,11 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab5/cs591F2014-lab5.pdf">Laboratory Assignment Five: Implementing Graphical Apps with Generate</a> <p>Modifying existing generative programs to create complex graphical simulations.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab6/cs591F2014-lab6.pdf">Laboratory Assignment Six: Exploring the Basics of Appinventor 2</a> <p>Investigate the use of a graphical programming environment for Android apps. </p>
+
+<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab7/cs591F2014-lab7.pdf">Laboratory Assignment Seven: Components and Blocks in Appinventor 2</a> <p>Learn how to develop a more full-featured app for Android.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs591F2014/provide/labs/lab8/cs591F2014-lab8.pdf">Laboratory Assignment Eight: Implementing and Evaluating an Appinventor 2 App</a> <p>Work in a team to implement and get feedback on a full app.</p>
+
+</ul>
 </ul>
