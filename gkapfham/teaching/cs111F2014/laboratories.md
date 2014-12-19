@@ -31,6 +31,14 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab7/cs111F2014-lab07.pdf">Laboratory Assignment Seven: Implementing an Object-Oriented System to Display Graphics</a> <p>Refactor a graphics-based program to better use object-oriented principles.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab8/cs111F2014-lab08.pdf">Laboratory Assignment Eight: Creating a Board Checker for a Popular Game</a> <p>Create your own Java classes to perform checking for the Sudoku puzzle.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab9/cs111F2014-lab09.pdf">Laboratory Assignment Nine: Developing, Testing, and Using a Todo List Manager</a> <p>Design, implement, and test a full-featured system to manage a todo list.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab9/cs111F2014-lab09.pdf">Laboratory Assignment Ten: Using Iteration Constructs to Create Fractal Images</a> <p>Create your own Mandelbrot fractals while learning more about performance evaluation.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab9/cs111F2014-lab09.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development project.</p>
+
 </ul>
 
 
