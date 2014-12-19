@@ -37,7 +37,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab9/cs111F2014-lab09.pdf">Laboratory Assignment Ten: Using Iteration Constructs to Create Fractal Images</a> <p>Create your own Mandelbrot fractals while learning more about performance evaluation.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/lab9/cs111F2014-lab09.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development project.</p>
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/labfp/cs111F2014-fp.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development project.</p>
 
 </ul>
 
