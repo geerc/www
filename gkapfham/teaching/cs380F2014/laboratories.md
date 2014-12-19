@@ -34,5 +34,13 @@ Using the SQL Data Manipulation Language</a> <p>After creating and visualizing a
 <li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab6/cs380F2014-lab6.pdf">Laboratory Assignment Six:
 Implementing and Evaluating Database-Centric Applications</a> <p>Collaborate with a partner to build a complete database application.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab7/cs380F2014-lab7.pdf">Laboratory Assignment Seven:
+Implementing and Using a Serialization Benchmarking Framework</a> <p>Work with a partner to empirically evaluate the performance of XML serialization.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/lab8/cs380F2014-lab8.pdf">Laboratory Assignment Eight:
+Using the Document Object Model to Parse XML Files</a> <p>You are your partner will try our different XML parsers.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/labfp/cs380F2014-fp.pdf">Final Project Assignment:
+Advanced Topics in Data Manager</a> <p>You will independently propose, implement, and complete an your own project.</p>
 </ul>
 
