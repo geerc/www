@@ -27,8 +27,8 @@ backup: ../../../
 
 <ul>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2014/provide/slides/module1/cs112S2014-introduction.html">Introduction to Computer Science 112</a>
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2014/provide/slides/module1/cs112S2014-chapter1.html">Chapters One through Three </a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2015/provide/slides/module1/cs112S2015-introduction.html">Introduction to Computer Science 112</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2015/provide/slides/module1/cs112S2015-chapter1.html">Chapters One through Three </a>
 
 </ul>
 
