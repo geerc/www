@@ -27,9 +27,9 @@ backup: ../../../
 
 <ul>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs58S2015/provide/assignments/assignment1/cs58S2015-assignment1.pdf">Assessing Your Interests</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment1/cs580S2015-assignment1.pdf">Assignment One: Assessing Your Interests</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs58S2015/provide/assignments/survey-of-interests-assignment1/cs58S2015-survey.pdf">Survey of Interests</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/survey-of-interests-assignment1/cs580S2015-survey.pdf">Assignment One: Survey of Interests</a>
 
 </ul>
 
