@@ -15,7 +15,7 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
-<ul
+<ul>
 
 <li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab1/cs112S2015-lab1.pdf">Laboratory Assignment One: Version Control with Git and Bitbucket</a> <p>Take control of your source code and data with Git.</p>
 
