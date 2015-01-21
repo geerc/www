@@ -6344,6 +6344,7 @@ legend {
 }
 .highlightmine {
     /* color: #DF4E00; */
+    font-family: 'Merriweather Sans', sans-serif;
     color: #df8700;
 }
 .highlightcomplement {
