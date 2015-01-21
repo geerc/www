@@ -31,5 +31,9 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/survey-of-interests-assignment1/cs580S2015-survey.pdf">Assignment One (Companion): Survey of Interests</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment2/cs580S2015-assignment2.pdf">Assignment Two: Introduction to Research in Computer Science</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment3/cs580S2015-assignment3.pdf">Assignment Three: Writing Good Proposals</a>
+
 </ul>
 
