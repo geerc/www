@@ -35,5 +35,7 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment3/cs580S2015-assignment3.pdf">Assignment Three: Writing Good Proposals</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment4/cs580S2015-assignment4.pdf">Assignment Four: Writing Good Theses</a>
+
 </ul>
 
