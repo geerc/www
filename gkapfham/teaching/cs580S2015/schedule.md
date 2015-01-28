@@ -43,3 +43,17 @@ backup: ../../../
 
 </ul>
 
+### Module Two: Software Testing and Debugging 
+
+**Reading Assignments**
+
+- "A Large Scale Evaluation of Automated Unit Test Generation Using EvoSuite," Gordon Fraser and Andrea Arcuri, <em>ACM Transactions on Software Engineering and Methodology</em>
+- "Parameter Tuning for Search-Based Test Data Generation Revisited: Support for Previous Results" Anton Kotelyanskii and Gregory M. Kapfhammer, <em>Proceedings of the 14th International Conference on Quality Software</em>
+
+**Homework Assignments**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment7/cs580S2015-assignment7.pdf">Assignment Seven: Research Paper Review</a>
+
+</ul>
