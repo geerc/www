@@ -37,5 +37,9 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment4/cs580S2015-assignment4.pdf">Assignment Four: Writing Good Theses</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment5/cs580S2015-assignment5.pdf">Assignment Five: Managing Technical Writing with Git</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment6/cs580S2015-assignment6.pdf">Assignment Six: Writing and Presenting with LaTeX and Beamer</a>
+
 </ul>
 
