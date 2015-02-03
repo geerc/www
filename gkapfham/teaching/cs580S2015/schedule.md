@@ -56,4 +56,6 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment7/cs580S2015-assignment7.pdf">Assignment Seven: Research Paper Review</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment8/cs580S2015-assignment8.pdf">Assignment Eight: Writing for Computer Science Precis: Chapters One and Two</a>
+
 </ul>
