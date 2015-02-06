@@ -60,4 +60,8 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment9/cs580S2015-assignment9.pdf">Assignment Nine: Ideas for a Senior Thesis Proposal</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment10/cs580S2015-assignment10.pdf">Assignment Ten: Writing a Precis and Creating a Bug Report</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment11/cs580S2015-assignment11.pdf">Assignment Eleven: Proposal Writing Workshop</a>
+
 </ul>
