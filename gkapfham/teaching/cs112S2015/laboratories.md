@@ -23,4 +23,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab3/cs112S2015-lab3.pdf">Laboratory Assignment Three: A First Step Towards Implementing a Twitter Client</a> <p>Begin the process of Implementing a real-world Java program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab4/cs112S2015-lab4.pdf">Laboratory Assignment Four: Implementing and Evaluating a Twitter Client</a> <p>Finish the implementation and testing of a complete system.</p>
+
 </ul>
