@@ -64,4 +64,6 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment11/cs580S2015-assignment11.pdf">Assignment Eleven: Proposal Writing Workshop</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment12/cs580S2015-assignment12.pdf">Assignment Twelve: Proposal Writing Workshop Continued</a>
+
 </ul>
