@@ -38,7 +38,7 @@ backup: ../../../
 
 - <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia
     - Section 1.9 
-    - Sections 3.1 and 3.5
+    - Sections 3.1 and 3.6
 
 <ul>
 
