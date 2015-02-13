@@ -25,4 +25,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab4/cs112S2015-lab4.pdf">Laboratory Assignment Four: Implementing and Evaluating a Twitter Client</a> <p>Finish the implementation and testing of a complete system.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab5/cs112S2015-lab5.pdf">Laboratory Assignment Five: Evaluating the Performance of Iteration and Recursion</a> <p>Conduct and report on your own performance evaluation experiments.</p>
+
 </ul>
