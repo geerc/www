@@ -66,6 +66,10 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment12/cs580S2015-assignment12.pdf">Assignment Twelve: Proposal Writing Workshop Continued</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment13/cs580S2015-assignment13.pdf">Assignment Thirteen: Module Two Proposal</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment14/cs580S2015-assignment14.pdf">Assignment Fourteen: Your Ideas for a Senior Thesis Proposal</a>
+
 </ul>
 
 ### Module Three:  Cooperation in Multi-Robot Systems
@@ -73,7 +77,14 @@ backup: ../../../
 **Reading Assignments**
 
 - "Cooperative Perimeter Surveillance with a Team of Mobile Robots Under Communication Constraints" J.J. Acevedo, B.C. Arrue, I. Maza, and A. Ollero, <em>Proceedings of the International Conference on Intelligent Robots and Systems</em>
-- "The COMRADE System for Multi-Robot Autonomous Landmine Detection in Post-Conflict Regions" Prithviraj Dasgupta, and Jose Baca Garcia, and K.R. Guruprasad, and Angelica Munoz-Melendex, and Janyl Jumadinova, <em>Journal of Robotics</em>
+- "The COMRADE System for Multi-Robot Autonomous Landmine Detection in Post-Conflict Regions" Prithviraj Dasgupta, and Jose Baca Garcia, and K.R. Guruprasad, and Angelica Munoz-Melendez, and Janyl Jumadinova, <em>Journal of Robotics</em>
 
 **Homework Assignments**
 
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment15/cs580S2015-assignment15.pdf">Assignment Fifteen: Research Paper Review</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment16/cs580S2015-assignment16.pdf">Assignment Sixteen: Writing for Computer Science Precis: Chapters Three and Six</a>
+
+</ul>
