@@ -27,4 +27,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab5/cs112S2015-lab5.pdf">Laboratory Assignment Five: Evaluating the Performance of Iteration and Recursion</a> <p>Conduct and report on your own performance evaluation experiments.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab6/cs112S2015-lab6.pdf">Laboratory Assignment Six: Evaluating the Performance of Sorting Algorithms</a> <p>Learn more about the correctness and efficiency of sorting methods.</p>
+
 </ul>

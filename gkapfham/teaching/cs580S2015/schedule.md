@@ -68,7 +68,7 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment13/cs580S2015-assignment13.pdf">Assignment Thirteen: Module Two Proposal</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment14/cs580S2015-assignment14.pdf">Assignment Fourteen: Your Ideas for a Senior Thesis Proposal</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment14/cs580S2015-assignment14.pdf">Assignment Fourteen: Your Ideas for a Senior Thesis Proposal (Lightning Talk)</a>
 
 </ul>
 
