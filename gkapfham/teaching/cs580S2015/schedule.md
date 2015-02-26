@@ -67,3 +67,13 @@ backup: ../../../
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment12/cs580S2015-assignment12.pdf">Assignment Twelve: Proposal Writing Workshop Continued</a>
 
 </ul>
+
+### Module Three:  Cooperation in Multi-Robot Systems
+
+**Reading Assignments**
+
+- "Cooperative Perimeter Surveillance with a Team of Mobile Robots Under Communication Constraints" J.J. Acevedo, B.C. Arrue, I. Maza, and A. Ollero, <em>Proceedings of the International Conference on Intelligent Robots and Systems</em>
+- "The COMRADE System for Multi-Robot Autonomous Landmine Detection in Post-Conflict Regions" Prithviraj Dasgupta, and Jose Baca Garcia, and K.R. Guruprasad, and Angelica Munoz-Melendex, and Janyl Jumadinova, <em>Journal of Robotics</em>
+
+**Homework Assignments**
+
