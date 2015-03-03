@@ -87,4 +87,6 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment16/cs580S2015-assignment16.pdf">Assignment Sixteen: Writing for Computer Science Precis: Chapters Three and Six</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment17/cs580S2015-assignment17.pdf">Assignment Seventeen: Ideas for a Senior Thesis Proposal</a>
+
 </ul>
