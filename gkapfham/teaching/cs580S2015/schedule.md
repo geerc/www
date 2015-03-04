@@ -77,7 +77,7 @@ backup: ../../../
 **Reading Assignments**
 
 - "Cooperative Perimeter Surveillance with a Team of Mobile Robots Under Communication Constraints" J.J. Acevedo, B.C. Arrue, I. Maza, and A. Ollero, <em>Proceedings of the International Conference on Intelligent Robots and Systems</em>
-- "The COMRADE System for Multi-Robot Autonomous Landmine Detection in Post-Conflict Regions" Prithviraj Dasgupta, and Jose Baca Garcia, and K.R. Guruprasad, and Angelica Munoz-Melendez, and Janyl Jumadinova, <em>Journal of Robotics</em>
+- "The COMRADE System for Multi-Robot Autonomous Landmine Detection in Post-Conflict Regions" Prithviraj Dasgupta, Jose Baca Garcia, K.R. Guruprasad, Angelica Munoz-Melendez, and Janyl Jumadinova, <em>Journal of Robotics</em>
 
 **Homework Assignments**
 
