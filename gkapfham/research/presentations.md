@@ -11,7 +11,7 @@ backup: ../../../
 
 # {{ page.title }}
 
-<a title="Brown Tract Pond star trail, New York" href="http://flickr.com/photos/chuckthewriter/14530989582"><img class="img-responsive-tight" src="http://farm6.static.flickr.com/5198/14530989582_25b3a0d2e0_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">creative commons licensed ( BY-NC-ND )</a> <a title="Brown Tract Pond star trail, New York" href="http://flickr.com/photos/chuckthewriter/14530989582">flickr photo</a> shared by <a href="http://flickr.com/people/chuckthewriter">chuckthewriter</a></small>
+<a title="'Aurora Star-Trails' - Cullen, Aberdeenshire" href="http://flickr.com/photos/jixxer/8575524171"><img class="img-responsive-tight" src="http://farm9.static.flickr.com/8506/8575524171_bca0f0e487_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">creative commons licensed ( BY-NC-ND )</a> <a title="'Aurora Star-Trails' - Cullen, Aberdeenshire" href="http://flickr.com/photos/jixxer/8575524171">flickr photo</a> shared by <a href="http://flickr.com/people/jixxer">Kristofer Williams</a></small>
 
 Here is a sampling of my research presentations&mdash;I will add more very soon!
 
