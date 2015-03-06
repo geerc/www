@@ -3,8 +3,9 @@ title: Papers
 layout: defaults
 categories: [research]
 mapped: true 
-header: false 
+header: true 
 research: true
+weight: 4
 backup: ../../../
 ---
 

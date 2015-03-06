@@ -1,10 +1,11 @@
 ---
-title: Presentations 
+title: Talks 
 layout: defaults
 categories: [research]
 mapped: true 
-header: false 
+header: true 
 research: true
+weight: 5
 backup: ../../../
 ---
 

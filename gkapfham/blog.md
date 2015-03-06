@@ -2,7 +2,7 @@
 title: Blog 
 layout: defaults
 categories: [main]
-weight: 5
+weight: 7
 mapped: false
 header: true
 backup: ../../../

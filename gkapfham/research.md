@@ -12,8 +12,6 @@ backup: ../../../
 
 <a title="footprints in the sky" href="http://flickr.com/photos/40137058@N07/4864666639"><img class="img-responsive-tight" src="http://farm5.static.flickr.com/4098/4864666639_ed8a9fe5b5_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">creative commons licensed ( BY-NC-SA )</a> <a title="footprints in the sky" href="http://flickr.com/photos/40137058@N07/4864666639">flickr photo</a> shared by <a href="http://flickr.com/people/40137058@N07">lacomj</a></small>
 
-## Research Summary
-
 As an experimental computer scientist, the goal of my research is to design, implement, and evaluate techniques and
 software tools that support the creation of useful, dependable, and efficient software applications. My research
 addresses the challenges within the fields of software engineering, software testing and analysis, and computer systems.
@@ -25,14 +23,3 @@ statements, carry out experiments, take observations, statistically analyze and 
 conclusions based upon the experimental results. Each research project focuses on the development and testing of
 software artifacts that can be used in both empirical studies and real-world practice by undergraduate and graduate
 students, software engineers, and computer scientists in both academia and industry. 
-
-Interesting in learning more about my research?  If yes, then please peruse the following deliverables!
-
-<ul class="fa-ul">
-{% for page in site.pages %}
-{% if page.research == true %}
-<li><i class="fa-li fa fa-arrow-right"></i><a class="major" href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title | capitalize }}</a> </li>
-{% endif %} 
-{% endfor %}
-</ul>
-
