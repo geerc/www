@@ -12,7 +12,7 @@ backup: ../../../
 
 <a title="'Gregory M. Kapfhammer - Computer' - by Tanya Greer" href="{{site.baseurl}}{{page.url | remove_first:'/'}}"><img class="img-responsive-tight" src="{{site.baseurl}}download/images/gregory-kapfhammer-biography-small.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">creative commons licensed ( BY-NC-ND )</a> photo shared by <a href="https://www.facebook.com/tkpapinchak">Tanya Greer</a></small>
 
-[Gregory M. Kapfhammer]({{page.backup}}) is an Associate Professor in and Chair of the [Department of Computer
+[Gregory M. Kapfhammer]({{site.baseurl}}) is an Associate Professor in and Chair of the [Department of Computer
 Science](http://www.cs.allegheny.edu) at [Allegheny College](http://www.allegheny.edu). Dr. Kapfhammer earned his PhD
 from the [Department of Computer Science](http://www.cs.pitt.edu) at the [University of
 Pittsburgh](http://www.pitt.edu); his PhD dissertation research was supervised by [Dr. Mary Lou
@@ -25,13 +25,13 @@ Processing](http://iai.mathematik.uni-ulm.de/en/index.html) at [University of Ul
 Sheffield](http://www.sheffield.ac.uk/). In the past, Gregory Kapfhammer was a research associate at
 [Cigital](http://www.cigital.com/). 
 
-As an educator, Gregory Kapfhammer develops and teaches [courses]({{page.backup}}/site/main/Teaching) in the areas of
+As an educator, Gregory Kapfhammer develops and teaches [courses]({{site.baseurl}}teaching) in the areas of
 software engineering, software testing, data management, mobile app development, operating systems, and distributed
 systems. He is also involved in the teaching of the department's introductory courses, junior seminar, senior seminar,
 and a research adviser for undergraduate theses.  Kapfhammer's expertise in teaching was recently recognized when
 Allegheny College presented him with the [Thoburn Award for Excellence in
 Teaching](http://sites.allegheny.edu/alumni/involved/allegheny-awards/recipients/#thoburn). As an experimental computer
-scientist, Gregory Kapfhammer conducts [research]({{page.backup}}/site/main/Research/) in the areas of software
+scientist, Gregory Kapfhammer conducts [research]({{site.baseurl}}research/) in the areas of software
 engineering, software testing and analysis, and computer software systems. In collaboration with a diverse and
 highly-skilled group of students and colleagues, Kapfhammer pursues research that results in award-winning and
 frequently cited research [papers]({{site.baseurl}}research/papers/), oft-complimented
