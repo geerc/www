@@ -20,7 +20,7 @@ graduate students and professors at other colleges and universities, and colleag
 
 My research is empirical in nature because it involves the application of the scientific method to formulate problem
 statements, carry out experiments, take observations, statistically analyze and visualize the data sets, and draw
-conclusions based upon the experimental results. Each research project focuses on the development and testing of
+conclusions based upon the experimental results. Each research project focuses on the development and evaluation of
 software artifacts that can be used in both empirical studies and real-world practice by undergraduate and graduate
 students, software engineers, and computer scientists in both academia and industry. My research also results in
 award-winning and frequently cited research [papers]({{site.baseurl}}research/papers/), oft-complimented
