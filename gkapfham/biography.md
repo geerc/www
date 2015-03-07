@@ -32,11 +32,11 @@ and a research adviser for undergraduate theses.  Kapfhammer's expertise in teac
 Allegheny College presented him with the [Thoburn Award for Excellence in
 Teaching](http://sites.allegheny.edu/alumni/involved/allegheny-awards/recipients/#thoburn). As an experimental computer
 scientist, Gregory Kapfhammer conducts [research]({{page.backup}}/site/main/Research/) in the areas of software
-engineering, software testing and analysis, and computer software systems. In collaboration with a diverse and highly
-skilled group of students and colleagues, Kapfhammer pursues research that results in award-winning and frequently cited
-research [papers]({{page.backup}}/site/research/Papers/), oft-complimented
-[presentations]({{page.backup}}/site/research/Presentations/), and useful free and open-source
-[software]({{page.backup}}/site/main/Software/).
+engineering, software testing and analysis, and computer software systems. In collaboration with a diverse and
+highly-skilled group of students and colleagues, Kapfhammer pursues research that results in award-winning and
+frequently cited research [papers]({{site.baseurl}}research/papers/), oft-complimented
+[presentations]({{site.baseurl}}research/presentations/), and useful free and open-source
+[software]({{site.baseurl}}software/).
 
 The paper "[A Family of Test Adequacy Criteria for Database-Driven
 Applications]({{site.baseurl}}research/papers/paper-fse2003/)", co-authored by Kapfhammer and [Dr. Mary Lou
