@@ -63,5 +63,21 @@ backup: ../../../
 
 </ul>
 
+### Module Four: Stacks, Queues, and Double-Ended Queues
+
+**Reading Assignments**
+
+- <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia
+    - Section 3.1- 3.4
+    - Sections 6.1 - 6.3
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2015/provide/slides/module3/cs112S2015-chapter5.html">Chapters Three and Six</a>
+
+</ul>
+
 
 
