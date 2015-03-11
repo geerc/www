@@ -89,4 +89,6 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment17/cs580S2015-assignment17.pdf">Assignment Seventeen: Ideas for a Senior Thesis Proposal</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment18/cs580S2015-assignment18.pdf">Assignment Eighteen: Proposal Writing Workshop (Parts One and Two)</a>
+
 </ul>
