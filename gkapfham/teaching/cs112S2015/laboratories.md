@@ -29,4 +29,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab6/cs112S2015-lab6.pdf">Laboratory Assignment Six: Evaluating the Performance of Sorting Algorithms</a> <p>Learn more about the correctness and efficiency of sorting methods.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab7/cs112S2015-lab7.pdf">Laboratory Assignment Seven: Doubling Experiments to Assess Time Complexity</a> <p>Experimentally determine the worst-case time complexity of an algorithm.</p>
+
 </ul>
