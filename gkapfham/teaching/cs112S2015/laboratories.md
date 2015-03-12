@@ -31,6 +31,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab7/cs112S2015-lab7.pdf">Laboratory Assignment Seven: Doubling Experiments to Assess Time Complexity</a> <p>Experimentally determine the worst-case time complexity of an algorithm.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab7/cs112S2015-lab8.pdf">Laboratory Assignment Eight: Performing Arithmetic Interpretation with a Stack</a> <p>Investigate the use of the stack abstract data type.</p>
+<li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab8/cs112S2015-lab8.pdf">Laboratory Assignment Eight: Performing Arithmetic Interpretation with a Stack</a> <p>Investigate the use of the stack abstract data type.</p>
 
 </ul>
