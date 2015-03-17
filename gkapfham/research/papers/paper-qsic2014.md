@@ -1,12 +1,12 @@
 ---
-id: -45 
+id: -45
 title: Parameter Tuning for Search-Based Test-Data Generation Revisited&#58; Support for Previous Results
 layout: researchpaper_n
 categories: [research, paper, conference, testing, parameter tuning]
-authors: Anton Kotelysanskii and Gregory M. Kapfhammer 
-mapped: true 
-header: false 
-research: false 
+authors: Anton Kotelyanskii and Gregory M. Kapfhammer
+mapped: true
+header: false
+research: false
 paper: true
 backup: ../../../../../
 ---
