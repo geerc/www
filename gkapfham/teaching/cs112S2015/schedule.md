@@ -79,5 +79,19 @@ backup: ../../../
 
 </ul>
 
+### Module Five: Lists and Iterators
+
+**Reading Assignments**
+
+- <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia
+    - Sections 7.1 - 7.4
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2015/provide/slides/module4/cs112S2015-chapter6.html">Chapter Seven</a>
+
+</ul>
 
 
