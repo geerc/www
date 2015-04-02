@@ -97,6 +97,8 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment21/cs580S2015-assignment21.pdf">Assignment Twenty-One: Your Ideas for a Senior Thesis Proposal (Lightning Talk)</a>
 
+  </ul>
+
 ### Module Four: Graphics and Information Visualization
 
 **Reading Assignments**
