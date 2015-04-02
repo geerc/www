@@ -58,7 +58,7 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment8/cs580S2015-assignment8.pdf">Assignment Eight: Writing for Computer Science Precis: Chapters One and Two</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment9/cs580S2015-assignment9.pdf">Assignment Nine: Ideas for a Senior Thesis Proposal</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment9/cs580S2015-assignment9.pdf">Assignment Nine: Ideas for a Senior Thesis Proposal and a Lightning Talk</a>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment10/cs580S2015-assignment10.pdf">Assignment Ten: Writing a Precis and Creating a Bug Report</a>
 
@@ -87,7 +87,7 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment16/cs580S2015-assignment16.pdf">Assignment Sixteen: Writing for Computer Science Precis: Chapters Three and Six</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment17/cs580S2015-assignment17.pdf">Assignment Seventeen: Ideas for a Senior Thesis Proposal</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment17/cs580S2015-assignment17.pdf">Assignment Seventeen: Ideas for a Senior Thesis Proposal and a Lightning Talk</a>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment18/cs580S2015-assignment18.pdf">Assignment Eighteen: Proposal Writing Workshop (Parts One and Two)</a>
 
@@ -109,6 +109,8 @@ backup: ../../../
 
 **Homework Assignments**
 
+<ul>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment22/cs580S2015-assignment22.pdf">Assignment Twenty-Two: Ideas for a Senior Thesis Proposal and a Lightning Talk</a>
 
 </ul>
