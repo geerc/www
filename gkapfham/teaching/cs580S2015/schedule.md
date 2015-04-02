@@ -1,13 +1,13 @@
 ---
-id: 0 
+id: 0
 title: Course Schedule
-subtitle: Topics and Research Methods in Computer Science 
-layout: course_item 
+subtitle: Topics and Research Methods in Computer Science
+layout: course_item
 categories: [teaching]
 weight: 0
 mapped: false
-header: false 
-course: false 
+header: false
+course: false
 backup: ../../../
 ---
 
@@ -43,12 +43,12 @@ backup: ../../../
 
 </ul>
 
-### Module Two: Software Testing and Debugging 
+### Module Two: Software Testing and Debugging
 
 **Reading Assignments**
 
 - "A Large Scale Evaluation of Automated Unit Test Generation Using EvoSuite," Gordon Fraser and Andrea Arcuri, <em>ACM Transactions on Software Engineering and Methodology</em>
-- "Parameter Tuning for Search-Based Test Data Generation Revisited: Support for Previous Results" Anton Kotelyanskii and Gregory M. Kapfhammer, <em>Proceedings of the 14th International Conference on Quality Software</em>
+- "Parameter Tuning for Search-Based Test Data Generation Revisited: Support for Previous Results," Anton Kotelyanskii and Gregory M. Kapfhammer, <em>Proceedings of the 14th International Conference on Quality Software</em>
 
 **Homework Assignments**
 
@@ -76,8 +76,8 @@ backup: ../../../
 
 **Reading Assignments**
 
-- "Cooperative Perimeter Surveillance with a Team of Mobile Robots Under Communication Constraints" J.J. Acevedo, B.C. Arrue, I. Maza, and A. Ollero, <em>Proceedings of the International Conference on Intelligent Robots and Systems</em>
-- "The COMRADE System for Multi-Robot Autonomous Landmine Detection in Post-Conflict Regions" Prithviraj Dasgupta, Jose Baca Garcia, K.R. Guruprasad, Angelica Munoz-Melendez, and Janyl Jumadinova, <em>Journal of Robotics</em>
+- "Cooperative Perimeter Surveillance with a Team of Mobile Robots Under Communication Constraints," J.J. Acevedo, B.C. Arrue, I. Maza, and A. Ollero, <em>Proceedings of the International Conference on Intelligent Robots and Systems</em>
+- "The COMRADE System for Multi-Robot Autonomous Landmine Detection in Post-Conflict Regions," Prithviraj Dasgupta, Jose Baca Garcia, K.R. Guruprasad, Angelica Munoz-Melendez, and Janyl Jumadinova, <em>Journal of Robotics</em>
 
 **Homework Assignments**
 
@@ -96,5 +96,17 @@ backup: ../../../
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment20/cs580S2015-assignment20.pdf">Assignment Twenty: Module Three Proposal</a>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment21/cs580S2015-assignment21.pdf">Assignment Twenty-One: Your Ideas for a Senior Thesis Proposal (Lightning Talk)</a>
+
+### Module Four: Graphics and Information Visualization
+
+**Reading Assignments**
+
+- "RuleBender: Integrated Modeling, Simulation and Visualization for Rule-based Intracellular Biochemistry," Adam M. Smith, and Wen Xu, and Yao Sun, and James R. Faeder, and G. Elisabeta Marai, <em>BMC Bioinformatics</em>
+
+- "Graphical Overlays: Using Layered Elements to Aid Chart Reading," Nicholas Kong and Maneesh Agrawala, <em>Transactions on Visualization and Computer Graphics</em>
+
+**Homework Assignments**
+
+
 
 </ul>
