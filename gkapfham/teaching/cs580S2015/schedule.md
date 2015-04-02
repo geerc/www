@@ -91,7 +91,10 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment18/cs580S2015-assignment18.pdf">Assignment Eighteen: Proposal Writing Workshop (Parts One and Two)</a>
 
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment19/cs580S2015-assignment10.pdf">Assignment Ten: Writing a Precis and Creating a Bug Report</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment19/cs580S2015-assignment19.pdf">Assignment Nineteen: Writing a Precis and Creating a Bug Report</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment20/cs580S2015-assignment20.pdf">Assignment Twenty: Module Three Proposal</a>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment21/cs580S2015-assignment21.pdf">Assignment Twenty-One: Your Ideas for a Senior Thesis Proposal (Lightning Talk)</a>
 
 </ul>
