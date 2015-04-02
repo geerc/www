@@ -91,4 +91,7 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment18/cs580S2015-assignment18.pdf">Assignment Eighteen: Proposal Writing Workshop (Parts One and Two)</a>
 
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs580S2015/provide/assignments/assignment19/cs580S2015-assignment10.pdf">Assignment Ten: Writing a Precis and Creating a Bug Report</a>
+
+
 </ul>
