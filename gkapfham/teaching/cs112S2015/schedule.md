@@ -94,4 +94,18 @@ backup: ../../../
 
 </ul>
 
+### Module Six: Hashtables and Maps
+
+**Reading Assignments**
+
+- <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia, Sections 10.1 - 10.2
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112S2015/provide/slides/module5/cs112S2015-chapter10.html">Chapter Ten</a>
+
+</ul>
+
 
