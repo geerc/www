@@ -37,4 +37,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/lab10/cs112S2015-lab10.pdf">Laboratory Assignment Ten: Performance Evaluation of Java Collections</a> <p>Implement and use your own benchmarking framework for Java Collections.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112S2015/provide/labs/labfp/cs112S2015-fp.pdf">Final Project Assignment: Automated Analysis of Todo.txt Files</a> <p>Design, implement, test, release, evaluate, and present a complete software system.</p>
+
 </ul>
