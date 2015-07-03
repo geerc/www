@@ -1,5 +1,5 @@
 ---
-title: Gregory M. Kapfhammer 
+title: Gregory M. Kapfhammer
 layout: defaults
 categories: [main]
 ---
@@ -11,10 +11,10 @@ Computer](http://www.cs.allegheny.edu) Science at [Allegheny College](http://www
 conduct research in the areas of algorithms, data structures, software engineering, software testing, data management,
 mobile applications, and computer systems.  In addition to organizing and teaching seminars on research methods in
 computer science and effective writing and speaking, I serve as an academic and research adviser for undergraduate and
-graduate students.  
+graduate students.
 
 > Want to learn more? You can view my curriculum vitae in
-> <a target="_blank" href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.pdf">PDF</a> or <a target="_blank" href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.html">HTML5</a>. 
+> <a target="_blank" href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.pdf">PDF</a> or <a target="_blank" href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.html">HTML5</a>.
 
 ### Status Updates from Gregory M. Kapfhammer
 
