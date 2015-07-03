@@ -7,9 +7,9 @@ highlighter: pygments
 category-list: [teaching, research]
 exclude: ['*.tex', '*.sty', '*.aux', '*.dvi', '*.fls', '*.lof', '*.log', '*.lot', '*.out', '*.toc', '*.fdb_latexmk', '*.synctex.gz', '*.pdfsync', '*.ods', '**/**/**/exams', '**/**/**/logos', '**/**/**/figures', '**/**/**/code', '**/**/**/teams']
 excerpt_separator: <!--more-->
-mapped: false 
-header: false 
-research: false 
+mapped: false
+header: false
+research: false
 paper: false
 presentation: false
 id: 0
