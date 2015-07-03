@@ -6343,12 +6343,10 @@ legend {
     text-align: center;
 }
 .highlightmine {
-    /* color: #DF4E00; */
     font-family: 'Merriweather Sans', sans-serif;
     color: #df8700;
 }
 .highlightcomplement {
-    /* color: #DF4E00; */
     color: #df8700;
 }
 .top-reduce {
@@ -6366,44 +6364,45 @@ legend {
 .likeheader {
     color: #707880;
 }
-
 #tw-gkapfham li {
   width: 90%;
   float: none; }
-
 #tw-gkapfham .timePosted {
   margin: -10px 0px 10px 5px;
   padding: 0 15px;
   font-size: 14px;
   text-align: left;
 }
-
 #tw-gkapfham .interact {
-  margin: -30px 0px 10px 180px;
+  margin: -30px 0px 0px 180px;
   padding: 0 15px;
   font-size: 14px;
   text-align: left;
 }
-
 #tw-gkapfham .timePosted:before {
-    font-family: "Fontawesome";
-    -webkit-font-smoothing: antialiased;
-    content: "";
-    padding-right: 4px; }
-
-  #tw-gkapfham .interact .twitter_reply_icon, #tw-gkapfham .interact .twitter_fav_icon, #tw-gkapfham .interact .twitter_retweet_icon {
-    text-align: center;
-    margin: -20px 0px 10px 5px;
-    font-size: 14px;
-    display: inline-block; }
-    #tw-gkapfham .interact .twitter_reply_icon:before, #tw-gkapfham .interact .twitter_fav_icon:before, #tw-gkapfham .interact .twitter_retweet_icon:before {
-      font-size: 14px;
-      font-family: "Fontawesome";
-      -webkit-font-smoothing: antialiased;
-      padding-right: 4px; }
-  #tw-gkapfham .interact .twitter_reply_icon:before {
-    content: ""; }
-  #tw-gkapfham .interact .twitter_retweet_icon:before {
-    content: ""; }
-  #tw-gkapfham .interact .twitter_fav_icon:before {
-    content: ""; }
+  font-family: "Fontawesome";
+  -webkit-font-smoothing: antialiased;
+  content: "";
+  padding-right: 4px;
+}
+#tw-gkapfham .interact .twitter_reply_icon, #tw-gkapfham .interact .twitter_fav_icon, #tw-gkapfham .interact .twitter_retweet_icon {
+  text-align: center;
+  margin: -20px 0px 10px 5px;
+  font-size: 14px;
+  display: inline-block;
+}
+#tw-gkapfham .interact .twitter_reply_icon:before, #tw-gkapfham .interact .twitter_fav_icon:before, #tw-gkapfham .interact .twitter_retweet_icon:before {
+  font-size: 14px;
+  font-family: "Fontawesome";
+  -webkit-font-smoothing: antialiased;
+  padding-right: 4px;
+}
+#tw-gkapfham .interact .twitter_reply_icon:before {
+content: "";
+}
+#tw-gkapfham .interact .twitter_retweet_icon:before {
+content: "";
+}
+#tw-gkapfham .interact .twitter_fav_icon:before {
+content: "";
+}
