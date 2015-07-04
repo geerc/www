@@ -14,7 +14,7 @@ computer science and effective writing and speaking, I serve as an academic and 
 graduate students.
 
 > Want to learn more? You can view my curriculum vitae in
-> <a target="_blank" href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.pdf">PDF</a> or <a target="_blank" href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.html">HTML5</a>.
+> <a target="_blank" href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or <a target="_blank" href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.html">HTML5</a>.
 
 ### Status Updates from Gregory M. Kapfhammer
 

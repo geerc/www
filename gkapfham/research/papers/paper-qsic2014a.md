@@ -1,12 +1,12 @@
 ---
-id: -46 
-title: The Impact of Equivalent, Redundant and Quasi Mutants on Database Schema Mutation Analysis 
+id: -46
+title: The Impact of Equivalent, Redundant and Quasi Mutants on Database Schema Mutation Analysis
 layout: researchpaper_n
-categories: [research, paper, conference, testing, parameter tuning]
-authors: Chris J. Wright, Gregory M. Kapfhammer, and Phil McMinn 
-mapped: true 
-header: false 
-research: false 
+categories: [research, paper, conference, database, testing]
+authors: Chris J. Wright, Gregory M. Kapfhammer, and Phil McMinn
+mapped: true
+header: false
+research: false
 paper: true
 backup: ../../../../../
 ---
@@ -30,5 +30,5 @@ the Stack Overflow website, reveals that the presented static analysis of the DB
 multiple orders of magnitude faster than a DBMS-specific method. The results also show increased mutation scores in 75%
 of cases, with 44% of those uncovering a mutation-adequate test suite. Combining the presented techniques yields mean
 efficiency improvements of up to 33.7%, with averages across schemas of 1.6% and 11.8% for HyperSQL and PostgreSQL,
-respectively. 
+respectively.
 
