@@ -20,8 +20,8 @@ backup: ../../../../../
 ### Abstract
 
 The characterization of an algorithm's worst-case time complexity is useful because it succinctly captures how its
-runtime will grow as the input size becomes arbitrarily large.  However, for certain algorithms---such as those
-performing search-based test data generation---a theoretical analysis to determine worst-case time complexity is
+runtime will grow as the input size becomes arbitrarily large.  However, for certain algorithms &mdash; such as those
+performing search-based test data generation &mdash; a theoretical analysis to determine worst-case time complexity is
 difficult to generalize and thus not often reported in the literature.  This paper introduces a framework that
 empirically determines an algorithm's worst-case time complexity by doubling the size of the input and observing the
 change in runtime.  Since the relational database is a centerpiece of modern software and the database's schema is
