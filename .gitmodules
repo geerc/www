@@ -46,9 +46,6 @@
 [submodule "gkapfham/teaching/cs580S2015/provide"]
 	path = gkapfham/teaching/cs580S2015/provide
 	url = git@bitbucket.org:gkapfham/cs580s2015.git
-[submodule "gkapfham/cv"]
-	path = gkapfham/cv
-	url = git@bitbucket.org:gkapfham/moderncv-kapfhammer.git
 [submodule "gkapfham/teaching/cs610S2015/provide"]
 	path = gkapfham/teaching/cs610S2015/provide
 	url = git@bitbucket.org:gkapfham/cs60060120142015.git
