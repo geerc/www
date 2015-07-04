@@ -28,10 +28,10 @@ for my papers, presentations, edited volumes, and supervised research</li>
 
 <ul class="fa-ul">
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kinneerc/ExpOse">expOse</a>:
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kinneerc/ExpOse/">expOse</a>:
 Using doubling experiments to infer worst-case time complexity</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org">major</a>: Easy and
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org/">major</a>: Easy and
 scalable mutation testing for the Java programming language</li>
 
 </ul>
@@ -40,13 +40,13 @@ scalable mutation testing for the Java programming language</li>
 
 <ul class="fa-ul">
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/gelations">gelations</a>: Test suite prioritization with order-based genetic algorithms</li>
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/gelations/">gelations</a>: Test suite prioritization with order-based genetic algorithms</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://modificare.googlecode.com/">modificare</a>: Reproducible experimentation with regression testing techniques</li>
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/modificare/">modificare</a>: Reproducible experimentation with regression testing techniques</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://raise.googlecode.com/">raise</a>: Comprehensive test suite execution and management</li>
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/raise/">raise</a>: Comprehensive test suite execution and management</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://proteja.googlecode.com/">proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/proteja/">proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
 
 </ul>
 
