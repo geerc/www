@@ -37,7 +37,7 @@ described in this paper, [SchemaAnalyst](http://schemaalayst.org/), can automati
 satisfy and negate the constraints in the database schema.
 
 Of course, the process of automatically generating test data raises the question "well, how good is this data?" The
-paper ""[Efficient Mutation Analysis of Relational Database Structure Using Mutant Schemata and
+paper "[Efficient Mutation Analysis of Relational Database Structure Using Mutant Schemata and
 Parallelisation]({{site.baseurl}}research/papers/Paper-Mutation2013)" introduces efficient techniques for answering this
 question.  The presented mutation analysis methods insert simple faults into the schema and check to see whether or not
 the test cases can find them.  Intuitively, the tests are not very good if they can not find these faults!
