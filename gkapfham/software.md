@@ -1,5 +1,5 @@
 ---
-title: Software 
+title: Software
 layout: defaults
 categories: [main]
 weight: 6
@@ -12,17 +12,41 @@ backup: ../../../
 
 <a title="Code" href="http://flickr.com/photos/txmx-2/6145817075"><img class="img-responsive-tight" src="http://farm7.static.flickr.com/6086/6145817075_2536dd7b4c_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">creative commons licensed ( BY-NC-ND )</a> <a title="Code" href="http://flickr.com/photos/txmx-2/6145817075">flickr photo</a> shared by <a href="http://flickr.com/people/txmx-2">txmx 2</a></small>
 
+## Papers and Presentations
+
 <ul class="fa-ul">
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://gelations.googlecode.com/">Gelations</a>: Test suite prioritization with order-based genetic algorithms</li>
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="">curriculum-vitae</a>: A full-featured curriculum
+vitae using moderncv and moderntimeline</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org">Major</a>: Easy and scalable mutation testing for Java</li>
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="">research-bibliography</a>: References
+for my papers, presentations, edited volumes, and supervised research</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://modificare.googlecode.com/">Modificare</a>: Reproducible experimentation with regression testing techniques</li>
+</ul>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://raise.googlecode.com/">RAISE</a>: Comprehensive test suite execution and management</li>
+## Current Software
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://proteja.googlecode.com/">Proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kinneerc/ExpOse">expOse</a>:
+Using doubling experiments to infer worst-case time complexity</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org">major</a>: Easy and
+scalable mutation testing for the Java programming language</li>
+
+</ul>
+
+## Legacy Software
+
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/gelations">gelations</a>: Test suite prioritization with order-based genetic algorithms</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://modificare.googlecode.com/">modificare</a>: Reproducible experimentation with regression testing techniques</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://raise.googlecode.com/">raise</a>: Comprehensive test suite execution and management</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://proteja.googlecode.com/">proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
 
 </ul>
 
