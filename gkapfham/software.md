@@ -30,10 +30,16 @@ presentations, edited volumes, and supervised research</li>
 
 ## Research Presentations
 
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: My presentation for a QSIC 2014 paper</li>
+
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: My presentation for the
 SEKE 2015 panel on big data</li>
 
+</ul>
 
 ## Current Software
 
@@ -55,9 +61,10 @@ scalable mutation testing for the Java programming language</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/modificare/">modificare</a>: Reproducible experimentation with regression testing techniques</li>
 
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/proteja/">proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
+
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/raise/">raise</a>: Comprehensive test suite execution and management</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/proteja/">proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
 
 </ul>
 
