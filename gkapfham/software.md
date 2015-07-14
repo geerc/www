@@ -12,7 +12,7 @@ backup: ../../../
 
 <a title="Code" href="http://flickr.com/photos/txmx-2/6145817075"><img class="img-responsive-tight" src="http://farm7.static.flickr.com/6086/6145817075_2536dd7b4c_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">creative commons licensed ( BY-NC-ND )</a> <a title="Code" href="http://flickr.com/photos/txmx-2/6145817075">flickr photo</a> shared by <a href="http://flickr.com/people/txmx-2">txmx 2</a></small>
 
-## Papers and Presentations
+## Research Resources
 
 <ul class="fa-ul">
 
@@ -25,6 +25,15 @@ href="https://github.com/gkapfham/research-bibliography">research-bibliography</
 presentations, edited volumes, and supervised research</li>
 
 </ul>
+
+## Research Papers
+
+## Research Presentations
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: My presentation for the
+SEKE 2015 panel on big data</li>
+
 
 ## Current Software
 
