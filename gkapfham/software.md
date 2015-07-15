@@ -28,6 +28,14 @@ presentations, edited volumes, and supervised research</li>
 
 ## Research Papers
 
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/seke2015-paper">seke2015-paper</a>: Source code and supporting files for a research
+paper at SEKE 2015</li>
+
+</ul>
+
 ## Research Presentations
 
 <ul class="fa-ul">
