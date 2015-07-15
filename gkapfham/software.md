@@ -33,10 +33,13 @@ presentations, edited volumes, and supervised research</li>
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: My presentation for a QSIC 2014 paper</li>
+href="https://github.com/gkapfham/allegheny2015-presentation">allegheny2015-presentation</a>: Presentation slides for a talk at Allegheny College</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: My presentation for the
+href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: Presentation slides for a QSIC 2014 paper</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: Presentation slides for the
 SEKE 2015 panel on big data</li>
 
 </ul>
