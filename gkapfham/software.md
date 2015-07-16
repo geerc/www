@@ -58,6 +58,9 @@ href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</
 href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: Presentation slides for the
 SEKE 2015 panel on big data</li>
 
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presentation</a>: Presentation slides for a SEKE 2015 paper</li>
+
 </ul>
 
 ## Current Software
