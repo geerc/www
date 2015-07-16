@@ -31,11 +31,15 @@ presentations, edited volumes, and supervised research</li>
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-paper">seke2015-paper</a>: Source code and supporting files for a research
+href="https://github.com/gkapfham/per2012-paper">per2012-paper</a>: Source code of and supporting files for a research
+paper in the PER journal</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/seke2015-paper">seke2015-paper</a>: Source code of and supporting files for a research
 paper at SEKE 2015</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-paper">seke2015-tool-paper</a>: Source code and supporting files for a tool
+href="https://github.com/gkapfham/seke2015-paper">seke2015-tool-paper</a>: Source code of and supporting files for a tool
 paper at SEKE 2015</li>
 
 </ul>
