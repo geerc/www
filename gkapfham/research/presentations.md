@@ -15,7 +15,7 @@ backup: ../../../
 
 <ul class="fa-ul">
 {% directory path: download/research/presentations %}
-<li><i class="fa-li fa fa-file-image-o fa-lg"></i><a class="major" href="{{site.baseurl}}{{ file.url | remove_first:'/'}}" >{{ file.slug | replace: '-', ' ' | capitalize_all }}</a> {% unless forloop.last %}, {% endunless %}
+<li><i class="fa-li fa fa-file-image-o fa-lg"></i><a class="major" href="{{site.baseurl}}{{ file.url | remove_first:'/'}}" >{{ file.slug | replace: '-', ' ' | capitalize_all }}</a></li> Presented {{ file.date | date_to_long_string }} <p>
 {% enddirectory %}
 </ul>
 
