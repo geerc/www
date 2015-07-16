@@ -17,12 +17,12 @@ backup: ../../../
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/curriculum-vitae/">curriculum-vitae</a>: A full-featured curriculum vitae using
-moderncv and moderntimeline</li>
+href="https://github.com/gkapfham/curriculum-vitae/">curriculum-vitae</a>: A vitae using moderncv and
+moderntimeline</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/research-bibliography">research-bibliography</a>: References for my papers,
-presentations, edited volumes, and supervised research</li>
+href="https://github.com/gkapfham/research-bibliography">research-bibliography</a>: References for all of my research
+deliverables</li>
 
 </ul>
 
