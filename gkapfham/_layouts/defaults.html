@@ -1,160 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="{{site.description}}">
-        <link rel="shortcut icon" href="{{site.baseurl}}infinity-gradient.ico">
-        <link href="{{site.baseurl}}css/bootstrap.css" rel="stylesheet" media="screen">
-        <link href="{{site.baseurl}}css/bootstrap-slatemod.css" rel="stylesheet">
-        <link href="{{site.baseurl}}css/pygments.css" rel="stylesheet">
-        <link rel="stylesheet" href="{{site.baseurl}}css/fontello.css">
-        <script src="{{site.baseurl}}js/twFetcher.js"></script>
-        <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-        <link href='http://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans' rel='stylesheet' type='text/css'>
-    </head>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{site.description}}">
+    <link rel="shortcut icon" href="{{site.baseurl}}infinity-gradient.ico">
+    <link href="{{site.baseurl}}css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="{{site.baseurl}}css/bootstrap-slatemod.css" rel="stylesheet">
+    <link href="{{site.baseurl}}css/pygments.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{site.baseurl}}css/fontello.css">
+    <script src="{{site.baseurl}}js/twFetcher.js"></script>
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans' rel='stylesheet' type='text/css'>
+  </head>
 
-<body>
+  <body>
 
     <div class="navbar navbar-default">
 
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".bs-navbar-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand navigate" href="{{site.baseurl}}">Gregory M. Kapfhammer</a>
-        </div>
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".bs-navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand navigate" href="{{site.baseurl}}">Gregory M. Kapfhammer</a>
+      </div>
 
-        <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <div class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
 
-            <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav">
 
-                {% for weight in (1..site.max_header) %} {% for page in site.pages %} {% if page.weight == weight %} {% if page.header == true %}
-                <li><a class="navigate" href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{page.title}}</a>
-                </li>
-                {% endif %} {% endif %} {% endfor %} {% endfor %}
+          {% for weight in (1..site.max_header) %} {% for page in site.pages %} {% if page.weight == weight %} {% if page.header == true %}
+          <li><a class="navigate" href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{page.title}}</a>
+          </li>
+          {% endif %} {% endif %} {% endfor %} {% endfor %}
 
-            </ul>
-        </div>
+        </ul>
+      </div>
 
     </div>
 
     <div class="container">
 
-        <div class="row">
+      <div class="row">
 
-            <div class="col-md-2 visible-md visible-lg sidebar">
-
-            </div>
-
-            <div class="col-md-10">
-                {{ content }}
-            </div>
-        </div>
-
-        <div class="row">
-
-            <div class="col-md-2 visible-md visible-lg">
-            </div>
-
-            <div class="col-sm-10 top-reduce hidden-sm hidden-xs">
-                <h3> Gregory M. Kapfhammer by the Numbers</h3>
-            </div>
-        </div>
-
-        <div class="row">
-
-            <div class="col-md-2 visible-md visible-lg">
-                &nbsp;
-            </div>
-
-            <div class="col-sm-2 center hidden-sm hidden-xs top-reduce-first">
-                <h2 class="highlightmine">85</h2>
-                <b>courses </b>
-            </div>
-
-            <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
-                <h2 class="highlightmine">47</h2>
-                <b>papers </b>
-            </div>
-
-            <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
-                <h2 class="highlightmine">70</h2>
-                <b>presentations</b>
-            </div>
-
-            <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
-                <h2 class="highlightmine">57</h2>
-                <b>supervisees</b>
-            </div>
-
-            <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
-                <h2 class="highlightmine">&infin;</h2>
-                <b>enthusiasm </b>
-            </div>
+        <div class="col-md-2 visible-md visible-lg sidebar">
 
         </div>
 
-        <div class="row">
-            <div class="col-xs-12 bottom-pad-more">
-            </div>
+        <div class="col-md-10">
+          {{ content }}
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-2 visible-md visible-lg">
         </div>
 
-        <div class="row">
+        <div class="col-sm-10 top-reduce hidden-sm hidden-xs">
+          <h3> Gregory M. Kapfhammer by the Numbers</h3>
+        </div>
+      </div>
 
-            <div class="col-xs-2">
-            </div>
+      <div class="row">
 
-            <div class="col-xs-2">
-            </div>
-
-            <div class="col-sm-8 visible-sm visible-md visible-lg text-right">
-                <a class="navigatename" href="{{site.baseurl}}">&copy; Gregory M. Kapfhammer 2000-2015</a> &nbsp;
-                <a href="https://twitter.com/GregKapfhammer"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
-                <a href="http://www.linkedin.com/in/GregKapfhammer"><i class="fa fa-linkedin fa-lg"></i></a> &nbsp;
-                <a href="https://github.com/gkapfham"><i class="fa fa-github fa-lg"></i></a> &nbsp;
-                <a href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ"><i class="fa fa-google fa-lg"></i></a> &nbsp;
-                <a href="{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf"><i class="icon-vcard fa-lg"></i></a> 
-            </div>
-
-            <div class="col-xs-8 visible-xs text-right">
-              <div class="row">
-                <div class="col-sm-12 visible-xs">
-                  <a class="navigatename" href="{{site.baseurl}}">&copy; Gregory M. Kapfhammer</a>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-sm-6 visible-xs text-right">
-                  <a href="https://twitter.com/GregKapfhammer"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
-                  <a href="http://www.linkedin.com/in/GregKapfhammer"><i class="fa fa-linkedin fa-lg"></i></a> &nbsp;
-                  <a href="https://github.com/gkapfham"><i class="fa fa-github fa-lg"></i></a> &nbsp;
-                  <a href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ"><i class="fa fa-google fa-lg"></i></a> &nbsp;
-                  <a href="{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf"><i class="icon-vcard fa-lg"></i></a> 
-                </div>
-              </div>
-            </div>
-
+        <div class="col-md-2 visible-md visible-lg">
+          &nbsp;
         </div>
 
+        <div class="col-sm-2 center hidden-sm hidden-xs top-reduce-first">
+          <h2 class="highlightmine">85</h2>
+          <b>courses </b>
         </div>
 
-        <div class="row">
-            <div class="col-xs-12 bottom-pad-more">
-            </div>
+        <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
+          <h2 class="highlightmine">47</h2>
+          <b>papers </b>
         </div>
+
+        <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
+          <h2 class="highlightmine">70</h2>
+          <b>presentations</b>
+        </div>
+
+        <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
+          <h2 class="highlightmine">57</h2>
+          <b>supervisees</b>
+        </div>
+
+        <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
+          <h2 class="highlightmine">&infin;</h2>
+          <b>enthusiasm </b>
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 bottom-pad-more">
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-xs-2">
+        </div>
+
+        <div class="col-xs-2">
+        </div>
+
+        <div class="col-sm-8 visible-sm visible-md visible-lg text-right">
+          <a class="navigatename" href="{{site.baseurl}}">&copy; Gregory M. Kapfhammer 2000-2015</a> &nbsp;
+          <a href="https://twitter.com/GregKapfhammer"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+          <a href="http://www.linkedin.com/in/GregKapfhammer"><i class="fa fa-linkedin fa-lg"></i></a> &nbsp;
+          <a href="https://github.com/gkapfham"><i class="fa fa-github fa-lg"></i></a> &nbsp;
+          <a href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ"><i class="fa fa-google fa-lg"></i></a> &nbsp;
+          <a href="{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf"><i class="icon-vcard fa-lg"></i></a> 
+        </div>
+
+        <div class="col-xs-8 visible-xs text-right">
+          <div class="row">
+            <div class="col-sm-12 visible-xs">
+              <a class="navigatename" href="{{site.baseurl}}">&copy; Gregory M. Kapfhammer</a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6 visible-xs text-right">
+              <a href="https://twitter.com/GregKapfhammer"><i class="fa fa-twitter fa-lg"></i></a> &nbsp;
+              <a href="http://www.linkedin.com/in/GregKapfhammer"><i class="fa fa-linkedin fa-lg"></i></a> &nbsp;
+              <a href="https://github.com/gkapfham"><i class="fa fa-github fa-lg"></i></a> &nbsp;
+              <a href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ"><i class="fa fa-google fa-lg"></i></a> &nbsp;
+              <a href="{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf"><i class="icon-vcard fa-lg"></i></a> 
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- <div class="row"> -->
+    <!--     <div class="col-xs-12 bottom-pad-more"> -->
+    <!--     </div> -->
+    <!-- </div> -->
 
     </div>
 
     <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="{{site.baseurl}}js/bootstrap.min.js"></script>
+      ================================================== -->
+      <!-- Placed at the end of the document so the pages load faster -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <script src="{{site.baseurl}}js/bootstrap.min.js"></script>
 
-</body>
+  </body>
 
 </html>
