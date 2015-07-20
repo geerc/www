@@ -3,9 +3,9 @@ title: Using Major to Perform Mutation Analysis of Java Programs
 layout: blog_n
 categories: [blog, research, testing, mutation, Java]
 authors: Gregory M. Kapfhammer
-mapped: true 
-header: false 
-research: false 
+mapped: true
+header: false
+research: false
 paper: false
 backup: ../../../../../../../../
 ---
@@ -21,7 +21,7 @@ correctness of the program under test&mdash;and there also could be defects lurk
 
 One strategy for assessing the quality of your test suite is to run coverage analysis with a tool like
 [JaCoCo](http://www.eclemma.org/jacoco/).  Since a test case cannot find a defect unless it first executes it, the idea
-is that you can judge a test suite to be good if it adequately covers the code in the program under test. 
+is that you can judge a test suite to be good if it adequately covers the code in the program under test.
 
 However, coverage analysis does not help a tester to know with certainty that the tests are design in such a way that
 they are likely to find defects.  As an alternative to, or in addition to coverage analysis, mutation testing inserts
@@ -32,9 +32,9 @@ While mutation analysis is simple and useful, historically, it has been difficul
 because it was computationally expensive.  This all changed with the design, implementation, and release of
 [Major](http://www.mutation-testing.org), a compiler-integrated mutation testing tool for the Java programming language.
 Starting to use Major is as easy as changing the Java compiler that you use at build time, as demonstrated by the
-following line from Major's online documentation. 
+following line from Major's online documentation.
 
-{% highlight bash %}
+{% highlight shell %}
 $ javac -XMutator:ALL MyFile.java
 # Generated Mutants: 190 (96 ms)
 {% endhighlight %}
