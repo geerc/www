@@ -3,7 +3,7 @@ description: "Associate Professor of Computer Science"
 baseurl: "/sites/gkapfham/"
 markdown: rdiscount
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 category-list: [teaching, research]
 exclude: ['*.tex', '*.sty', '*.aux', '*.dvi', '*.fls', '*.lof', '*.log', '*.lot', '*.out', '*.toc', '*.fdb_latexmk', '*.synctex.gz', '*.pdfsync', '*.ods', '**/**/**/exams', '**/**/**/logos', '**/**/**/figures', '**/**/**/code', '**/**/**/teams']
 excerpt_separator: <!--more-->
