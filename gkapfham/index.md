@@ -33,7 +33,7 @@ href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.pdf">PDF</a> or an <a tar
 
 <div class="featured">
 <ul class="fa-ul">
-{% directory path: download/research/recentpresentation reverse: 'true' %}
+{% directory path: download/research/featuredpresentation reverse: 'true' %}
 <li><i class="fa-li fa fa-file-image-o fa-lg"></i><a class="major" href="{{site.baseurl}}{{ file.url | remove_first:'/'}}" >{{ file.slug | replace: '-', ' ' | capitalize_all }}</a></li> Presented {{ file.date | date: '%B %Y' }} <p>
 {% enddirectory %}
 </ul>
