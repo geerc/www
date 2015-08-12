@@ -12,6 +12,7 @@ header: false
 research: false
 paper: false
 presentation: false
+featured: false
 id: 0
 max_header: 9
 max_id: 45
