@@ -17,6 +17,7 @@ href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.pdf">PDF</a> or an <a tar
 
 ### Featured Research Paper
 
+<div class="featured">
 <ul class="fa-ul">
 {% for page in site.pages %}
   {% if page.paper == true and page.featured == true %}
@@ -26,14 +27,17 @@ href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.pdf">PDF</a> or an <a tar
 {% endfor %}
 <p>
 </ul>
+</div>
 
 ### Past Research Presentation
 
+<div class="featured">
 <ul class="fa-ul">
 {% directory path: download/research/recentpresentation reverse: 'true' %}
 <li><i class="fa-li fa fa-file-image-o fa-lg"></i><a class="major" href="{{site.baseurl}}{{ file.url | remove_first:'/'}}" >{{ file.slug | replace: '-', ' ' | capitalize_all }}</a></li> Presented {{ file.date | date: '%B %Y' }} <p>
 {% enddirectory %}
 </ul>
+</div>
 
 ### Recently Taught Course
 
@@ -45,7 +49,6 @@ href = "{{site.baseurl}}cv/curriculum-vitae-kapfhammer.pdf">PDF</a> or an <a tar
   {% endif %}
 {% endfor %}
 </ul>
-
 
 ### Status Updates from Gregory M. Kapfhammer
 
