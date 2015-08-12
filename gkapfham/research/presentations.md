@@ -11,7 +11,7 @@ backup: ../../../
 
 # {{ page.title }}
 
-<a title="'Aurora Star-Trails' - Cullen, Aberdeenshire" href="http://flickr.com/photos/jixxer/8575524171"><img class="img-responsive-tight" src="http://farm9.static.flickr.com/8506/8575524171_bca0f0e487_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">creative commons licensed ( BY-NC-ND )</a> <a title="'Aurora Star-Trails' - Cullen, Aberdeenshire" href="http://flickr.com/photos/jixxer/8575524171">flickr photo</a> shared by <a href="http://flickr.com/people/jixxer">Kristofer Williams</a></small>
+<a title="Sunshiny Day #1" href="http://flickr.com/photos/sirwiseowl/2167695056"><img class="img-responsive-tight" src="http://farm3.static.flickr.com/2332/2167695056_26ed4fcab6_z.jpg" /></a><br /><small><a title="Sunshiny Day #1" href="http://flickr.com/photos/sirwiseowl/2167695056">flickr photo</a> shared by <a href="http://flickr.com/people/sirwiseowl">sirwiseowl</a> under a <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons ( BY-NC-ND ) license</a> </small>
 
 <ul class="fa-ul">
 {% directory path: download/research/presentations reverse: 'true' %}
