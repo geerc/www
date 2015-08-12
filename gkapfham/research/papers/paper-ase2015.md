@@ -12,22 +12,21 @@ featured: true
 backup: ../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/seke2015-kinneer-kapfhammer-wright-mcminn.pdf "Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/ase2015-walsh-mcminn-kapfhammer.pdf "Download this Paper!")
 
 ### {{page.authors}}
 
-### <i>Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering</i>, June 2015.
+### <i>Proceedings of the 30th International Conference on Automated Software Engineering</i>, November 2015.
 
 ### Abstract
 
-The characterization of an algorithm's worst-case time complexity is useful because it succinctly captures how its
-runtime will grow as the input size becomes arbitrarily large.  However, for certain algorithms &mdash; such as those
-performing search-based test data generation &mdash; a theoretical analysis to determine worst-case time complexity is
-difficult to generalize and thus not often reported in the literature.  This paper introduces a framework that
-empirically determines an algorithm's worst-case time complexity by doubling the size of the input and observing the
-change in runtime.  Since the relational database is a centerpiece of modern software and the database's schema is
-frequently untested, we apply the doubling technique to the domain of data generation for relational database schemas, a
-field where worst-case time complexities are often unknown.  In addition to demonstrating the feasibility of suggesting
-the worst-case runtimes of the chosen algorithms and configurations, the results of our study reveal performance
-trade-offs in testing strategies for relational database schemas.
+Due to the exponential increase in the number of mobile devices being used to access the World Wide Web, it is crucial
+that web sites are functional and user-friendly across a wide range of web-enabled devices.  This necessity has resulted
+in the introduction of responsive web design (RWD), which uses complex cascading style sheets (CSS) to fluidly modify a
+web site's appearance depending on the viewport width of the device in use. Although existing tools may support the
+testing of responsive web sites, they are time consuming and error-prone to use because they require manual screenshot
+inspection at specified viewport widths. Addressing these concerns, this paper presents a method that can automatically
+detect potential layout faults in responsively designed web sites. To experimentally evaluate this approach, we
+implemented it as a tool, called ReDeCheck, and applied it to 5 real-world web sites that vary in both their approach to
+responsive design and their complexity. The experiments reveal that ReDeCheck finds 91% of the inserted layout faults.
 
