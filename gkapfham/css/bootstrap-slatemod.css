@@ -6363,6 +6363,9 @@ legend {
 .likeheader {
     color: #707880;
 }
+.featured {
+  width: 90%;
+}
 #tw-gkapfham li {
   width: 90%;
   float: none; }
