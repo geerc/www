@@ -1,5 +1,5 @@
 ---
-title: Teaching 
+title: Teaching
 layout: defaults
 page.date: 2014-06-24:00
 categories: [main]
@@ -25,8 +25,8 @@ backup: ../../../
             {% endif %}
         {% endif %}
         <p>
-    {% endfor %} 
-{% endfor %} 
+    {% endfor %}
+{% endfor %}
 </ul>
 
 ## Additional Courses
