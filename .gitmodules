@@ -52,3 +52,6 @@
 [submodule "gkapfham/cv"]
 	path = gkapfham/cv
 	url = git@bitbucket.org:gkapfham/curriculum-vitae.git
+[submodule "gkapfham/teaching/cs111F2015/provide"]
+	path = gkapfham/teaching/cs111F2015/provide
+	url = git@bitbucket.org:gkapfham/cs111f2015.git
