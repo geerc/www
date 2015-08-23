@@ -58,3 +58,6 @@
 [submodule "gkapfham/teaching/cs280F2015/provide"]
 	path = gkapfham/teaching/cs280F2015/provide
 	url = git@bitbucket.org:gkapfham/cs280f2015.git
+[submodule "gkapfham/teaching/cs600F2015/provide"]
+	path = gkapfham/teaching/cs600F2015/provide
+	url = git@bitbucket.org:gkapfham/cs60060120152016.git
