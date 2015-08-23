@@ -15,7 +15,7 @@ students. If you would like to learn more about me, then you can view my curricu
 href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a target="_blank" href =
 "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.html">HTML5</a> document.
 
-### Featured Research Paper
+### Featured Paper
 
 <div class="featured">
 <ul class="fa-ul">
@@ -29,7 +29,7 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 </ul>
 </div>
 
-### Past Research Presentation
+### Past Presentation
 
 <div class="featured">
 <ul class="fa-ul">
@@ -39,7 +39,7 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 </ul>
 </div>
 
-### Recently Taught Course
+### Highlighted Course
 
 <ul class="fa-ul">
 {% for page in site.pages %}
