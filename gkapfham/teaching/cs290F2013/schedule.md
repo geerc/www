@@ -1,13 +1,13 @@
 ---
-id: 0 
+id: 0
 title: Course Schedule
-subtitle: Principles of Software Development 
-layout: course_item 
+subtitle: Principles of Software Development
+layout: course_item
 categories: [teaching]
 weight: 0
 mapped: false
-header: false 
-course: false 
+header: false
+course: false
 backup: ../../../
 ---
 
@@ -15,13 +15,13 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
-### Module One: Introduction to Software Engineering 
+### Module One: Introduction to Software Engineering
 
 **Reading Assignments**
 
-- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 1 - 3 
-- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 1 - 3 
-- <em>Can Clean Pipes Produce Dirty Water?</em>, Jeffrey M. Voas ([Download the article](http://www.cigital.com/papers/download/qualitytime2.pdf*))
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 1 - 3
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 1 - 3
+- <em>Can Clean Pipes Produce Dirty Water?</em>, Jeffrey M. Voas ([Download the article](http://www.cigital.com/papers/download/qualitytime2.pdf))
 
 **Discussion and Review Slides**
 
@@ -50,7 +50,7 @@ backup: ../../../
 **Reading Assignments**
 
 - <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 4 - 6
-- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapter 4 
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapter 4
 
 **Discussion and Review Slides**
 
@@ -66,7 +66,7 @@ backup: ../../../
 
 </ul>
 
-### Module Three: Software Implementation 
+### Module Three: Software Implementation
 
 **Reading Assignments**
 
@@ -85,7 +85,7 @@ backup: ../../../
 
 </ul>
 
-### Module Four: Software Testing, Analysis, and Maintenance 
+### Module Four: Software Testing, Analysis, and Maintenance
 
 **Reading Assignments**
 
