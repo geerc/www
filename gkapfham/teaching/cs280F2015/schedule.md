@@ -21,7 +21,7 @@ backup: ../../../
 
 - <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 1 - 3
 - <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 1 - 3
-- <em>Can Clean Pipes Produce Dirty Water?</em>, Jeffrey M. Voas ([Download the article](http://www.cigital.com/papers/download/qualitytime2.pdf*))
+- <em>Can Clean Pipes Produce Dirty Water?</em>, Jeffrey M. Voas ([Download the article](http://www.cigital.com/papers/download/qualitytime2.pdf))
 
 **Discussion and Review Slides**
 
