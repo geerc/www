@@ -25,4 +25,10 @@ backup: ../../../
 
 **Discussion and Review Slides**
 
-- Slides will be posted soon!
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_introduction.html">Introduction to Software Development</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_lessons_from_google.html">Lessons from Google</a>
+
+</ul>
+
