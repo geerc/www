@@ -25,5 +25,9 @@ backup: ../../../
 
 **Discussion and Review Slides**
 
-- Slides will be posted very soon!
+<ul>
 
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_whystudycomputerscience.html">Why Study Computer Science?</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_introduction.html">Introduction to Computer Science I</a>
+
+</ul>
