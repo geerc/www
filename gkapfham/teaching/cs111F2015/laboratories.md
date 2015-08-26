@@ -15,4 +15,3 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
-The first laboratory assignment will be listed here very soon!
