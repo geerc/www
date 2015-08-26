@@ -28,7 +28,7 @@ backup: ../../../
 <ul>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_introduction.html">Introduction to Software Development</a>
-  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_lessons_from_google.html">Lessons from Google</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_lessons_from_google.html">Lessons from Google &mdash; And Each Other!</a>
 
 </ul>
 
