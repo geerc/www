@@ -29,5 +29,6 @@ backup: ../../../
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_whystudycomputerscience.html">Why Study Computer Science?</a>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_introduction.html">Introduction to Computer Science I</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_lessons_from_google.html">Lessons from Google &mdash; And Each Other!</a>
 
 </ul>
