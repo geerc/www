@@ -15,4 +15,3 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
-- The first laboratory assistant will be posted soon!
