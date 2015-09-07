@@ -19,4 +19,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab01/cs280F2015_lab01.pdf">Laboratory Assignment One: Version Control with Git and Bitbucket</a> <p>Learn how to use the Git version control system to manage Markdown files.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab01/cs280F2015_lab02.pdf">Laboratory Assignment Two: Starting with Team-Based Implementation of Software</a> <p>Explore activities in all of the phases of team-based software development.</p>
+
 </ul>
