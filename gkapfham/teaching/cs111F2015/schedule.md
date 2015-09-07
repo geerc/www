@@ -31,5 +31,6 @@ backup: ../../../
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_introduction.html">Introduction to Computer Science I</a>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_lessons_from_google.html">Lessons from Google &mdash; And Each Other!</a>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_chapter1.html">Chapter 1: Introduction to Computation and Programming</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_chapter2.html">Chapter 2: Data and Expressions</a>
 
 </ul>
