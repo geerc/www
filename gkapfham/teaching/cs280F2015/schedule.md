@@ -30,6 +30,7 @@ backup: ../../../
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_introduction.html">Introduction to Software Development</a>
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_lessons_from_google.html">Lessons from Google &mdash; And Each Other!</a>
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter1.html">Chapter 1: SETP</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter2.html">Chapter 2: SETP</a>
 
 </ul>
 
