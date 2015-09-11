@@ -19,5 +19,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical01/cs111F2015_practical01.pdf">Practical Assignment One: Introduction to the Use of Version Control</a> <p>Learn more about the use of Git and Bitbucket.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical02/cs111F2015_practical02.pdf">Practical Assignment Two: Exploring Console-Based Output and Escape Characters</a> <p>Learn how to create formatted output with a Java program.</p>
+
 </ul>
 
