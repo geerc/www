@@ -21,4 +21,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab02/cs280F2015_lab02.pdf">Laboratory Assignment Two: Starting with Team-Based Implementation of Software</a> <p>Explore activities in all of the phases of team-based software development.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab03/cs280F2015_lab03.pdf">Laboratory Assignment Three: Team-Based Verification and Validation of Software</a> <p>Work in larger teams to collaboratively validate and verify a software system.</p>
+
 </ul>
