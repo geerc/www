@@ -32,6 +32,9 @@ backup: ../../../
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter1.html">Chapter 1: SETP</a>
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter2.html">Chapter 2: SETP</a>
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter3.html">Chapter 3: SETP</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_MMM_chapter1.html">Chapter 1: MMM</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_MMM_chapter2.html">Chapter 2: MMM</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_MMM_chapter3.html">Chapter 3: MMM</a>
 
 </ul>
 
