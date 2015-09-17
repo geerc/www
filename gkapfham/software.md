@@ -57,7 +57,7 @@ href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-pr
 SEKE 2015 panel on big data</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presentation</a>: Slides for talk about a SEKE 2015 paper</li>
+href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presentation</a>: Slides for the talk about a SEKE 2015 paper</li>
 
 </ul>
 
