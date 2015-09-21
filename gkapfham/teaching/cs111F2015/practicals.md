@@ -21,5 +21,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical02/cs111F2015_practical02.pdf">Practical Assignment Two: Exploring Console-Based Output and Escape Characters</a> <p>Learn how to create formatted output with a Java program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical03/cs111F2015_practical03.pdf">Practical Assignment Three: Further Practice with Graphics and Expressions</a> <p>Use expressions with variables to create graphical output in Java.</p>
+
 </ul>
 
