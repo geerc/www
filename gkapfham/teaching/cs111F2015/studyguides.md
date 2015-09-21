@@ -1,6 +1,6 @@
 ---
 id: 0
-title: Review Sheets
+title: Study Guides
 subtitle: Introduction to Computer Science I
 layout: course_item
 categories: [teaching]
@@ -17,13 +17,7 @@ backup: ../../../
 
 <ul>
 
-<li><a href="{{site.baseurl}}teaching/cs111F2015/provide//lab1/cs111F2015_lab01.pdf">Laboratory Assignment One: Exploring Ubuntu and GVim</a> <p>Learn more about Ubuntu Linux and the GVim text editor.</p>
-
-<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/labs/lab2/cs111F2015_lab02.pdf">Laboratory Assignment Two: Using Variables to Perform Computations</a> <p>After creating a "program template", learn how to use variables and operators.</p>
-
-<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/labs/lab3/cs111F2015_lab03.pdf">Laboratory Assignment Three: Performing User Input with the Scanner</a> <p>Learn how to store user input in variables and practice performing computations.</p>
-
-<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/labs/lab4/cs111F2015_lab04.pdf">Laboratory Assignment Four: Creating Graphical Output in Java</a> <p>Gain more experience with calling methods and learn how to create graphical artwork.</p>
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/studyguides/quiz1/cs111F2015_studyguide_quiz01.pdf">Study Guide One: Introduction to Computation and Programming</a> <p>Review the basic and introductory content for Computer Science 111.</p>
 
 </ul>
 
