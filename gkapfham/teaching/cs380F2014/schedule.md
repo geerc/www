@@ -1,13 +1,13 @@
 ---
-id: 0 
+id: 0
 title: Course Schedule
-subtitle: Principles of Database Systems 
-layout: course_item 
+subtitle: Principles of Database Systems
+layout: course_item
 categories: [teaching]
 weight: 0
 mapped: false
-header: false 
-course: false 
+header: false
+course: false
 backup: ../../../
 ---
 
@@ -61,11 +61,11 @@ backup: ../../../
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs380F2014/provide/slides/cs380-chapter22.html">Chapter Twenty-Two: Object-Based Databases</a>
 </ul>
 
-### Module Four: Advanced Topics in Data Management 
+### Module Four: Advanced Topics in Data Management
 
 **Reading Assignments**
 
-- Chapter Twenty 
+- Chapter Twenty
 
 **Discussion and Review Slides**
 
