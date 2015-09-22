@@ -43,5 +43,6 @@ Using the Document Object Model to Parse XML Files</a> <p>You and your partner w
 
 <li><a href="{{site.baseurl}}teaching/cs380F2014/provide/labs/labfp/cs380F2014-fp.pdf">Final Project Assignment:
 Advanced Topics in Data Management</a> <p>You will independently propose, implement, and complete an your own project.</p>
+
 </ul>
 
