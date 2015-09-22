@@ -23,4 +23,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab03/cs280F2015_lab03.pdf">Laboratory Assignment Three: Team-Based Verification and Validation of Software</a> <p>Work in larger teams to collaboratively validate and verify a software system.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab04/cs280F2015_lab04.pdf">Laboratory Assignment Four: Team-Based Creation and Presentation of Software</a> <p>Work in small teams to create a full-featured programming systems product.</p>
+
 </ul>
