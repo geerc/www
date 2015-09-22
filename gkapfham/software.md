@@ -78,12 +78,10 @@ href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presenta
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/curriculum-vitae/">curriculum-vitae</a>: A curriculum vitae using moderncv and
-moderntimeline</li>
+href="https://github.com/gkapfham/cs111F2015">cs111F2015</a>: Course content for Computer Science 111 Fall 2015</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/research-bibliography">research-bibliography</a>: References for all of my research
-deliverables</li>
+href="https://github.com/gkapfham/cs280F2015">cs280F2015</a>: Course content for Computer Science 280 Fall 2015</li>
 
 </ul>
 
