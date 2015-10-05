@@ -23,5 +23,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical03/cs111F2015_practical03.pdf">Practical Assignment Three: Further Practice with Graphics and Expressions</a> <p>Use expressions with variables to create graphical output in Java.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical04/cs111F2015_practical04.pdf">Practical Assignment Four: Creatively Combining User Input and Variables</a> <p>Make your own "MadLibs" program using the Scanner class.</p>
+
 </ul>
 
