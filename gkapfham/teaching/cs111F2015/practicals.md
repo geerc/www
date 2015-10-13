@@ -25,5 +25,9 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical04/cs111F2015_practical04.pdf">Practical Assignment Four: Creatively Combining User Input and Variables</a> <p>Make your own "MadLibs" program using the Scanner class.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical05/cs111F2015-practical05.pdf">Practical
+Assignment Five: Customizing the GVim Text Editor</a> <p>Add many features and plugins to GVim by installing
+spf13-vim.</p>
+
 </ul>
 
