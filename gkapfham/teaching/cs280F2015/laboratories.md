@@ -27,4 +27,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab05/cs280F2015_lab05.pdf">Laboratory Assignment Five: Releasing and Maintaining a Programming Systems Product</a> <p>Work in larger teams to release and maintain a full-featured programming systems product.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab06/cs280F2015_lab06.pdf">Laboratory Assignment Six: Specifying and Implementing a Next Release Planner</a> <p>Collaborate with your team to deliver a complete system that supports software planning.</p>
+
 </ul>
