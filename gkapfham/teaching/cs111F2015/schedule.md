@@ -48,6 +48,7 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_chapter4.html">Chapter 4: Writing Classes</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_chapter5.html">Chapter 5: Conditionals and Loops</a>
 
 </ul>
 
