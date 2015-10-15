@@ -50,6 +50,7 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter4.html">Chapter 4: SETP</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter5.html">Chapter 5: SETP</a>
 
 </ul>
 
