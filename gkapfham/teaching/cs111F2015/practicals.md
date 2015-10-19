@@ -29,5 +29,7 @@ backup: ../../../
 Assignment Five: Customizing the GVim Text Editor</a> <p>Add many features and plugins to GVim by installing
 spf13-vim.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical05/cs111F2015_practical06.pdf">Practical Assignment Six: Enhancing Java Classes and Methods</a> <p>Add new features to an object-oriented system comprised of three classes.</p>
+
 </ul>
 
