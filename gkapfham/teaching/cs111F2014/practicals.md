@@ -27,6 +27,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical05/cs111F2014-practical05.pdf">Practical Assignment Five: Enhancing Java Classes and Methods</a> <p>Add new features to an object-oriented system comprised of three classes.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical06/cs111F2014-practical06.pdf">Practical Assignment Six: Practicing the Use of Conditional Logic</a> <p>Implement a Java program that determines when events occur on a calendar.</p>
+
 </ul>
 
 
