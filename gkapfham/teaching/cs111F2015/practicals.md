@@ -40,5 +40,9 @@ spf13-vim.</p>
 Assignment Six: Enhancing Java Classes and Methods</a> <p>Add new features to an object-oriented system comprised of
 three classes.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/practicals/practical07/cs111F2015_practical07.pdf">Practical
+Assignment Seven: Using Conditional Logic and Iteration Constructs</a> <p>Create your own "Guess My Number" Game as a
+Java program.</p>
+
 </ul>
 
