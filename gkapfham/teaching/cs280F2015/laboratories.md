@@ -31,4 +31,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab07/cs280F2015_lab07.pdf">Laboratory Assignment Seven: Characterizing the Design of Programs and Tests</a> <p>Collaboratively calculate design and implementation quality metrics for Java programs.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs280F2015/provide/labs/lab08/cs280F2015_lab08.pdf">Laboratory Assignment Eight: Understanding and Releasing Real-World Software</a> <p>Collaboratively release a full-featured system for an external customer.</p>
+
 </ul>
