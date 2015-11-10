@@ -55,3 +55,19 @@ backup: ../../../
 
 </ul>
 
+### Module Three: Software Implementation
+
+**Reading Assignments**
+
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapter 7
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 12-13
+
+**Discussion and Review Slides**
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter7.html">Chapter 7: SETP</a>
+
+</ul>
+
+
