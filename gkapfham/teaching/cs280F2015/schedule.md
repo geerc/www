@@ -68,6 +68,8 @@ backup: ../../../
 <ul>
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter7.html">Chapter 7: SETP</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_MMM_chapter12.html">Chapter 12: MMM</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_MMM_chapter13.html">Chapter 13: MMM</a>
 
 </ul>
 
