@@ -29,7 +29,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical06/cs111F2014-practical06.pdf">Practical Assignment Six: Practicing the Use of Conditional Logic</a> <p>Implement a Java program that determines when events occur on a calendar.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical07/cs111F2014-practical07.pdf">Practical Assignment Seven: Using Conditional Logic and Iteration Constructs</a> <p>Create your own "Guess My Number" Game as a Java program.</p>
+<li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical07/cs111F2014_practical07.pdf">Practical Assignment Seven: Using Conditional Logic and Iteration Constructs</a> <p>Create your own "Guess My Number" Game as a Java program.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/practicals/practical08/cs111F2014_practical08.pdf">Practical Assignment Eight: Using Arrays and Iteration to Create Music</a> <p>Use the JFugue library to create music with a Java program.</p>
 
