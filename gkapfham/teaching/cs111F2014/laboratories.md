@@ -40,7 +40,3 @@ backup: ../../../
 <li><a href="{{site.baseurl}}teaching/cs111F2014/provide/labs/labfp/cs111F2014-fp.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development project.</p>
 
 </ul>
-
-
-
-
