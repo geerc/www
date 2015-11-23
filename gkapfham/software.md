@@ -22,6 +22,9 @@ Using doubling experiments to infer worst-case time complexity</li>
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org/">major</a>: Easy and
 scalable mutation testing for the Java programming language</li>
 
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/redecheck/redecheck-tool">redecheck</a>: Automated tool for testing responsively designed web sites</li>
+
 </ul>
 
 ## Research Resources
@@ -49,7 +52,7 @@ href="https://github.com/gkapfham/per2012-paper">per2012-paper</a>: Source code 
 href="https://github.com/gkapfham/seke2015-paper">seke2015-paper</a>: Source code for a research paper at SEKE 2015</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-paper">seke2015-tool-paper</a>: Source code for a tool paper at SEKE
+href="https://github.com/gkapfham/seke2015-tool-paper">seke2015-tool-paper</a>: Source code for a tool paper at SEKE
 2015</li>
 
 </ul>
