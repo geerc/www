@@ -39,6 +39,15 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 </ul>
 </div>
 
+### Novel Software
+
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/redecheck/redecheck-tool">ReDeCheck: An Automated Tool for Testing Responsively Designed Web Sites</a> </li>
+Release November 2015
+</ul>
+
 ### Highlighted Course
 
 <ul class="fa-ul">
