@@ -73,4 +73,9 @@ backup: ../../../
 
 </ul>
 
+### Module Four: Software Testing, Analysis, and Maintenance
 
+**Reading Assignments**
+
+- <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 8 - 10
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapter 16
