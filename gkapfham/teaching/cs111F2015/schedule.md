@@ -68,4 +68,8 @@ backup: ../../../
 
 </ul>
 
+### Module Four: Exception Handling
 
+**Reading Assignments**
+
+- <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 11
