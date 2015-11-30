@@ -90,7 +90,7 @@ backup: ../../../
 **Reading Assignments**
 
 - <em>Software Engineering: Theory and Practice</em>, Pfleeger and Atlee, Chapters 8 - 9
-- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapters 16
+- <em>The Mythical Man-Month</em>,  Frederick P. Brooks, Jr., Chapter 16
 
 **Discussion and Review Slides**
 
