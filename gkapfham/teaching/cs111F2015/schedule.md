@@ -73,3 +73,11 @@ backup: ../../../
 **Reading Assignments**
 
 - <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 11
+
+<ul>
+
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2015/provide/slides/cs111_chapter11.html">Chapter 11: Exceptions</a>
+
+</ul>
+
+
