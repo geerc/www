@@ -29,5 +29,9 @@ the first examination in Computer Science 111.</p>
 Three: Iteration Constructs and Arrays (Quiz)</a> <p>Review the content about iteration and arrays for the second quiz
 in Computer Science 111.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2015/provide/studyguides/exam2/cs111F2015_studyguide_exam02.pdf">Study Guide
+Four: Problem Solving with the Java Programming Language (Examination)</a> <p>Review all of the course's content for
+the final examination in Computer Science 111.</p>
+
 </ul>
 
