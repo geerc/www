@@ -84,6 +84,8 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter8.html">Chapter 8: SETP</a>
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter9.html">Chapter 9: SETP</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_SETP_chapter10.html">Chapter 10: SETP</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs280F2015/provide/slides/cs280_MMM_chapter16.html">Chapter 16: MMM</a>
 
 </ul>
 
