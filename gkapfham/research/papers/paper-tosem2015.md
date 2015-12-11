@@ -21,8 +21,8 @@ backup: ../../../../../../
 
 Despite industry advice to the contrary, there has been little work that has sought to test that a relational database’s
 schema has correctly specified integrity constraints. These critically important constraints ensure the coherence of
-data in a database, defending it from manipulations that could violate requirements such as “usernames must be unique”
-or “the host name cannot be missing or unknown.” This article is the first to propose coverage criteria, derived from
+data in a database, defending it from manipulations that could violate requirements such as "usernames must be unique"
+or "the host name cannot be missing or unknown." This article is the first to propose coverage criteria, derived from
 logic coverage criteria, that establish different levels of testing for the formulation of integrity constraints in a
 database schema.  These range from simple criteria that mandate the testing of successful and unsuccessful INSERT
 statements into tables to more advanced criteria that test the formulation of complex integrity constraints such as
