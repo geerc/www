@@ -8,7 +8,7 @@ mapped: true
 header: false
 research: false
 paper: true
-featured: true
+featured: false
 backup: ../../../../../
 ---
 
