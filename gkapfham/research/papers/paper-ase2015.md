@@ -1,8 +1,8 @@
 ---
-id: -47
+id: -48
 title: Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages
 layout: researchpaper_n
-categories: [research, paper, conference, response, web, testing]
+categories: [research, paper, conference, responsive, web, testing]
 authors: Thomas A. Walsh, Phil McMinn, Gregory M. Kapfhammer
 mapped: true
 header: false

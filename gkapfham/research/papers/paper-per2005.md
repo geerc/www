@@ -1,12 +1,12 @@
 ---
-id: -10 
+id: -10
 title: Towards the Measurement of Tuple Space Performance
 layout: researchpaper_n
 categories: [research, paper, journal, performance, distributed systems]
 authors: Daniel Fiedler, Kristen Walcott, Thomas Richardson, Gregory M. Kapfhammer, Ahmed Amer, and Panos K. Chrysanthis
-mapped: true 
-header: false 
-research: false 
+mapped: true
+header: false
+research: false
 paper: true
 backup: ../../../../../../
 ---
