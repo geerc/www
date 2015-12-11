@@ -1,6 +1,6 @@
 ---
 id: -47
-title: The effectiveness of test coverage criteria for relational database schema integrity constraints
+title: The Effectiveness of Test Coverage Criteria for Relational Database Schema Integrity Constraints
 layout: researchpaper_n
 categories: [research, paper, journal, database, testing]
 authors: Phil McMinn, Chris J. Wright, and Gregory M. Kapfhammer
@@ -11,21 +11,28 @@ paper: true
 backup: ../../../../../../
 ---
 
-## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/per2005-fiedler-walcott-richardson-kapfhammer-amer-chrysanthis.pdf "Download this Paper!")
+## {{ page.title }} [<i class="fa fa-download"></i>]({{site.baseurl}}download/research/papers/tosem2015-mcminn-wright-kapfhammer.pdf "Download this Paper!")
 
-### {{page.authors }}
+### {{ page.authors }}
 
-### <em>Performance Evaluation Review</em>, 33(4), December 2005
+### <em>Transactions on Software Engineering and Methodology</em>, 25(1), November 2015
 
 ### Abstract
 
-Many applications rely upon a tuple space within distributed system middleware to provide loosely coupled communication
-and service coordination. This paper describes an approach for measuring the throughput and response time of a tuple
-space when it handles concurrent local space interactions. Furthermore, it discusses a technique that populates a tuple
-space with tuples before the execution of a benchmark in order to age the tuple space and provide a worst-case
-measurement of space performance. We apply the tuple space benchmarking and aging methods to the measurement of the
-performance of a JavaSpace, a current example of a tuple space that integrates with the Jini network technology. The
-experiment results indicate that: (i) the JavaSpace exhibits limited scalability as the number of concurrent
-interactions from local space clients increases, (ii) the aging technique can operate with acceptable time overhead, and
-(iii) the aging technique does ensure that the results from benchmarking capture the worst-case performance of a tuple
-space.
+Despite industry advice to the contrary, there has been little work that has sought to test that a relational database’s
+schema has correctly specified integrity constraints. These critically important constraints ensure the coherence of
+data in a database, defending it from manipulations that could violate requirements such as “usernames must be unique”
+or “the host name cannot be missing or unknown.” This article is the first to propose coverage criteria, derived from
+logic coverage criteria, that establish different levels of testing for the formulation of integrity constraints in a
+database schema.  These range from simple criteria that mandate the testing of successful and unsuccessful INSERT
+statements into tables to more advanced criteria that test the formulation of complex integrity constraints such as
+multi-column PRIMARY KEYs and arbitrary CHECK constraints. Due to different vendor interpretations of the structured
+query language (SQL) specification with regard to how integrity constraints should actually function in practice, our
+criteria crucially account for the underlying semantics of the database management system (DBMS). After formally
+defining these coverage criteria and relating them in a subsumption hierarchy, we present two approaches for
+automatically generating tests that satisfy the criteria. We then describe the results of an empirical study that uses
+mutation analysis to investigate the fault-finding capability of data generated when our coverage criteria are applied
+to a wide variety of relational schemas hosted by three well-known and representative DBMSs &mdash; HyperSQL, PostgreSQL, and
+SQLite. In addition to revealing the complementary fault-finding capabilities of the presented criteria, the results
+show that mutation scores range from as low as just 12% of mutants being killed with the simplest of criteria to 96%
+with the most advanced.
