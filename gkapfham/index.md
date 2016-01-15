@@ -58,7 +58,7 @@ Released November 2015
 {% endfor %}
 </ul>
 
-### Status Updates from Gregory M. Kapfhammer
+### Status Updates
 
 <div id="tw-gkapfham">
 </div>
