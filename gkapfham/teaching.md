@@ -14,7 +14,7 @@ backup: ../../../
 <a title="Gear and Chain" href="http://flickr.com/photos/93751689@N04/9557470061"><img class="img-responsive-tight" src="http://farm4.static.flickr.com/3710/9557470061_a13ffd82e5_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/">creative commons licensed ( BY )</a> <a title="Gear and Chain" href="http://flickr.com/photos/93751689@N04/9557470061">flickr photo</a> shared by <a href="http://flickr.com/people/93751689@N04">menegue</a></small>
 
 <ul class="fa-ul">
-{% assign max_id = -22 %}
+{% assign max_id = -23 %}
 {% assign stop_id = 0 %}
 {% for cid in (max_id..stop_id) %}
     {% for page in site.pages %}
