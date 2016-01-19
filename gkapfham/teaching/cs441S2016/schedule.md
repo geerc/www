@@ -23,6 +23,12 @@ backup: ../../../
 
 **Discussion and Review Slides**
 
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_fallacies">Fallacies of Distributed Computing</a>
+
+</ul>
+
 
 
 
