@@ -64,3 +64,6 @@
 [submodule "gkapfham/teaching/cs610S2016/provide"]
 	path = gkapfham/teaching/cs610S2016/provide
 	url = git@bitbucket.org:gkapfham/cs60060120152016.git
+[submodule "gkapfham/teaching/cs441S2016/provide"]
+	path = gkapfham/teaching/cs441S2016/provide
+	url = git@bitbucket.org:gkapfham/cs441S2016.git
