@@ -20,12 +20,13 @@ backup: ../../../
 **Reading Assignments**
 
 - <em>Distributed Systems: Principles and Paradigms</em>, Tanenbaum and Van Steen, Chapters 1 - 2
+- <em>A Note on Distributed Computing</em>, Waldo, Wyant, Wollrath, Kendall
 
 **Discussion and Review Slides**
 
 <ul>
 
-<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_fallacies">Fallacies of Distributed Computing</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_fallacies.html">Fallacies of Distributed Computing</a>
 
 </ul>
 
