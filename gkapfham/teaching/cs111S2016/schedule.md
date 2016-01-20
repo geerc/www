@@ -24,3 +24,15 @@ backup: ../../../
 - <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 3
 
 **Discussion and Review Slides**
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_whystudycomputerscience.html">Why Study Computer Science?</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_introduction.html">Introduction to Computer Science I</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_lessons_from_google.html">Lessons from Google &mdash; And Each Other!</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_chapter1.html">Chapter 1: Introduction to Computation and Programming</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_chapter2.html">Chapter 2: Data and Expressions</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_chapter3.html">Chapter 3: Using Classes and Objects</a>
+
+</ul>
+
