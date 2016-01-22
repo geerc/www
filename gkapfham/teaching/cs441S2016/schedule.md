@@ -27,6 +27,7 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_fallacies.html">Fallacies of Distributed Computing</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter1.html">Chapter 1: Introduction</a>
 
 </ul>
 
