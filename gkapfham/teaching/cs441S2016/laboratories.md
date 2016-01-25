@@ -15,4 +15,12 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
+<ul>
+
+<li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab1/cs441S2016_lab1.pdf">Laboratory Assignment One: Using
+Sockets to Explore Client-Server Communication</a> <p>Study how a client interacts with a server through the use of
+sockets in a Java program.</p>
+
+</ul>
+
 
