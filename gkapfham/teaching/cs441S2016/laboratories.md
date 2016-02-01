@@ -21,6 +21,10 @@ backup: ../../../
 Sockets to Explore Client-Server Communication</a> <p>Study how a client interacts with a server through the use of
 sockets in a Java program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab2/cs441S2016_lab2.pdf">Laboratory Assignment Two:
+Performance Evaluation of File Transfer Using Sockets</a> <p>Empirically evaluate the performance of socket-based file
+transfer in Java.</p>
+
 </ul>
 
 
