@@ -25,6 +25,10 @@ sockets in a Java program.</p>
 Performance Evaluation of File Transfer Using Sockets</a> <p>Empirically evaluate the performance of socket-based file
 transfer in Java.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab3/cs441S2016_lab3.pdf">Laboratory Assignment Three:
+Exploring and Evaluating Parallel Computation</a> <p>Investigate and empirically evaluate the performance of parallel
+image manipulation techniques.</p>
+
 </ul>
 
 
