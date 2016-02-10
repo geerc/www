@@ -23,6 +23,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab3/cs111S2016_lab03.pdf">Laboratory Assignment Three: Performing User Input with the Scanner</a> <p>Learn how to store user input in variables and practice performing computations.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab4/cs111S2016_lab04.pdf">Laboratory Assignment Four: Creating Graphical Output in Java</a> <p>Gain more experience with calling methods and learn how to create graphical artwork.</p>
+
 </ul>
 
 
