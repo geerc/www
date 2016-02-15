@@ -29,6 +29,10 @@ transfer in Java.</p>
 Exploring and Evaluating Parallel Computation</a> <p>Investigate and empirically evaluate the performance of parallel
 image manipulation techniques.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab4/cs441S2016_lab4.pdf">Laboratory Assignment Four:
+Client-Server Communication with Compression</a> <p>Experimentally investigate how compression techniques influence
+client-server communication.</p>
+
 </ul>
 
 
