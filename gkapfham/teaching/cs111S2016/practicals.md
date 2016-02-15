@@ -25,7 +25,8 @@ Assignment Two: Exploring Console-Based Output and Escape Characters</a> <p>Lear
 Java program.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/practicals/practical03/cs111S2016_practical03.pdf">Practical
-Assignment Three: Finding and Fixing Defects in Programs</a> <p>Work with a partner to practice explaining and debugging a Java program.</p>
+Assignment Three: Finding and Fixing Defects in Programs</a> <p>Work with a partner to practice explaining and debugging
+a Java program.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/practicals/practical04/cs111S2016_practical04.pdf">Practical
 Assignment Four: Further Practice with Graphics and Expressions</a> <p>Use expressions with variables to create
