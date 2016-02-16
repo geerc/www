@@ -45,6 +45,7 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter3.html">Chapter 3: Processes</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter4.html">Chapter 4: Communication</a>
 
 </ul>
 
