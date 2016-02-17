@@ -25,6 +25,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab4/cs111S2016_lab04.pdf">Laboratory Assignment Four: Creating Graphical Output in Java</a> <p>Gain more experience with calling methods and learn how to create graphical artwork.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab5/cs111S2016_lab05.pdf">Laboratory Assignment Five: Collaboratively Creating a Steganography System</a> <p>Using Slack and Git, work with a partner to create a "message hiding" program.</p>
+
 </ul>
 
 
