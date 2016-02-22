@@ -33,6 +33,10 @@ image manipulation techniques.</p>
 Client-Server Communication with Compression</a> <p>Experimentally investigate how compression techniques influence
 client-server communication.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab5/cs441S2016_lab5.pdf">Laboratory Assignment Five:
+Using XML-RPC for Client-Server Communication</a> <p>Empirically evaluate the performance of client-server communication
+using XML-RPC.</p>
+
 </ul>
 
 
