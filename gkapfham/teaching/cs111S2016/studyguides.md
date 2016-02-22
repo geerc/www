@@ -15,4 +15,10 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
+<ul>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/studyguides/quiz1/cs111S2016_studyguide_quiz01.pdf">Study Guide
+One: Introduction to Computation and Programming (Quiz)</a> <p>Review the basic and introductory content for Computer
+Science 111.</p>
+
+</ul>
