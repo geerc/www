@@ -27,6 +27,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab5/cs111S2016_lab05.pdf">Laboratory Assignment Five: Collaboratively Creating a Steganography System</a> <p>Using Slack and Git, work with a partner to create a "message hiding" program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab6/cs111S2016_lab06.pdf">Laboratory Assignment Six: Team-Based Implementation of a DNA String Manipulator</a> <p>Collaboratively learn how to use the String and Random classes to modify DNA strings.</p>
+
 </ul>
 
 
