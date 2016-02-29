@@ -37,6 +37,10 @@ client-server communication.</p>
 Using XML-RPC for Client-Server Communication</a> <p>Empirically evaluate the performance of client-server communication
 using XML-RPC.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab6/cs441S2016_lab6.pdf">Laboratory Assignment Six:
+Exploring the Trade-Offs of Multicast Communication</a> <p>Investigate the characteristics and real-world applications
+of multicasting on a network.</p>
+
 </ul>
 
 
