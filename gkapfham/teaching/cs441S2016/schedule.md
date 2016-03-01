@@ -49,4 +49,17 @@ backup: ../../../
 
 </ul>
 
+### Module Three: Applications Areas in Distributed Computing
 
+**Reading Assignments**
+
+- <em>Distributed Systems: Principles and Paradigms</em>, Tanenbaum and Van Steen, Chapters 10 - 12
+- <em>Design and Implementation of the Sun Network Filesystem</em>, Sandberg et al.
+
+**Discussion and Review Slides**
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter10.html">Chapter 10: Distributed Object-Based Systems</a>
+
+</ul>
