@@ -29,7 +29,7 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 </ul>
 </div>
 
-### Past Presentation
+### Recent Presentation
 
 <div class="featured">
 <ul class="fa-ul">
