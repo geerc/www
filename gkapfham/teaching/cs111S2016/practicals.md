@@ -32,5 +32,9 @@ a Java program.</p>
 Assignment Four: Further Practice with Graphics and Expressions</a> <p>Use expressions with variables to create
 graphical output in Java.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/practicals/practical05/cs111S2016_practical05.pdf">Practical
+Assignment Five: Creatively Combining User Input and Variables</a> <p>Make your own "MadLibs" program using the Scanner
+class.</p>
+
 </ul>
 
