@@ -21,4 +21,8 @@ backup: ../../../
 One: Introduction to Computation and Programming (Quiz)</a> <p>Review the basic and introductory content for Computer
 Science 111.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/studyguides/exam1/cs111S2016_studyguide_exam01.pdf">Study Guide
+Two: Fundamentals of Procedural and Object-Oriented Programming (Examination)</a> <p>Review the introductory content for
+the first examination in Computer Science 111.</p>
+
 </ul>
