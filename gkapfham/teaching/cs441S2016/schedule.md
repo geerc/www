@@ -61,5 +61,6 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter10.html">Chapter 10: Distributed Object-Based Systems</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter11.html">Chapter 11: Distributed File Systems</a>
 
 </ul>
