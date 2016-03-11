@@ -36,5 +36,9 @@ graphical output in Java.</p>
 Assignment Five: Creatively Combining User Input and Variables</a> <p>Make your own "MadLibs" program using the Scanner
 class.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/practicals/practical06/cs111S2016_practical06.pdf">Practical
+Assignment Six: Customizing the GVim Text Editor</a> <p>Add many features and plugins to GVim by installing
+spf13-vim.</p>
+
 </ul>
 
