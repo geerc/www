@@ -35,6 +35,8 @@ backup: ../../../
 Creating a Board Checker for a Popular Game</a> <p>Create your own Java classes to perform checking for the Sudoku
 puzzle.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab9/cs111S2016_lab09.pdf">Laboratory Assignment Nine: Developing, Testing, and Using a Todo List Manager</a> <p>Work with a partner to create a full-featured system to manage a todo list.</p>
+
 </ul>
 
 
