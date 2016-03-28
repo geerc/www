@@ -45,7 +45,7 @@ of multicasting on a network.</p>
 Understanding Remote Method Invocation in Java</a> <p>Learn how to use and enhance a distributed object-based system.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab8/cs441S2016_lab8.pdf">Laboratory Assignment Eight:
-Benchmarking Distribute and Local File Systems</a> <p>Create your own and learn how to use file system benchmarks.</p>
+Benchmarking Distributed and Local File Systems</a> <p>Create your own and learn how to use file system benchmarks.</p>
 
 </ul>
 
