@@ -47,6 +47,9 @@ Understanding Remote Method Invocation in Java</a> <p>Learn how to use and enhan
 <li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/lab8/cs441S2016_lab8.pdf">Laboratory Assignment Eight:
 Benchmarking Distributed and Local File Systems</a> <p>Create your own and learn how to use file system benchmarks.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs441S2016/provide/labs/labfp/cs441S2016_fp.pdf">Final Project Assignment:
+Advanced Topics in Distributed Systems</a> <p>Work in a team to investigate advanced topics in the field.</p>
+
 </ul>
 
 
