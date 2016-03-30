@@ -37,6 +37,8 @@ puzzle.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab9/cs111S2016_lab09.pdf">Laboratory Assignment Nine: Developing, Testing, and Using a Todo List Manager</a> <p>Work with a partner to create a full-featured system to manage a todo list.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab10/cs111S2016_lab10.pdf">Laboratory Assignment Ten: Using Iteration Constructs to Create Fractal Images</a> <p>Create your own Mandelbrot fractals while learning more about performance evaluation.</p>
+
 </ul>
 
 
