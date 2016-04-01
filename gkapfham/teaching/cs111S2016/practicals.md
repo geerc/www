@@ -40,5 +40,9 @@ class.</p>
 Assignment Six: Customizing the GVim Text Editor</a> <p>Add many features and plugins to GVim by installing
 spf13-vim.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/practicals/practical07/cs111S2016_practical07.pdf">Practical
+Assignment Seven: Using Conditional Logic and Iteration Constructs</a> <p>Create your own "Guess My Number" Game as a
+Java program.</p>
+
 </ul>
 
