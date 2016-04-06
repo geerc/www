@@ -39,6 +39,8 @@ puzzle.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/lab10/cs111S2016_lab10.pdf">Laboratory Assignment Ten: Using Iteration Constructs to Create Fractal Images</a> <p>Create your own Mandelbrot fractals while learning more about performance evaluation.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/labs/labfp/cs111S2016_fp.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development project.</p>
+
 </ul>
 
 
