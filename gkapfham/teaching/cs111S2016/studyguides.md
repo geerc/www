@@ -25,4 +25,8 @@ Science 111.</p>
 Two: Fundamentals of Procedural and Object-Oriented Programming (Examination)</a> <p>Review the introductory content for
 the first examination in Computer Science 111.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/studyguides/quiz2/cs111S2016_studyguide_quiz02.pdf">Study Guide
+Three: Iteration Constructs and Arrays (Quiz)</a> <p>Review the content about iteration and arrays for the second quiz
+in Computer Science 111.</p>
+
 </ul>
