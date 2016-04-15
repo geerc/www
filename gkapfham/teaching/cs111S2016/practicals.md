@@ -48,5 +48,9 @@ Java program.</p>
 Assignment Eight: Practicing the Use of Conditional Logic</a> <p>Implement a Java program that determines when events
 occur on a calendar.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111S2016/provide/practicals/practical09/cs111S2016_practical09.pdf">Practical
+Assignment Nine: Using Arrays and Iteration to Create Music</a> <p>Use the JFugue library to create music with a Java
+program.</p>
+
 </ul>
 
