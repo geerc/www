@@ -65,3 +65,17 @@ backup: ../../../
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter12.html">Chapter 12: Distributed Web-Based Systems</a>
 
 </ul>
+
+### Module Four: Advanced Topics in Distributed Computing
+
+**Reading Assignments**
+
+- <em>Distributed Systems: Principles and Paradigms</em>, Tanenbaum and Van Steen, Chapters 5 - 6
+
+**Discussion and Review Slides**
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_5.html">Chapter 5: Naming</a>
+
+</ul>
