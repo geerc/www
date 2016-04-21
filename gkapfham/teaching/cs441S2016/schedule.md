@@ -76,6 +76,6 @@ backup: ../../../
 
 <ul>
 
-<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_5.html">Chapter 5: Naming</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs441S2016/provide/slides/cs441_chapter5.html">Chapter 5: Naming</a>
 
 </ul>
