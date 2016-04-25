@@ -65,6 +65,7 @@ backup: ../../../
 
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_chapter6.html">Chapter 6: More Conditionals and Loops</a>
   <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_chapter8.html">Chapter 8: Arrays</a>
+  <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111S2016/provide/slides/cs111_advertise112.html">Enroll in CMPSC 112!</a>
 
 </ul>
 
