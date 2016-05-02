@@ -70,7 +70,7 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Distributed Systems: Principles and Paradigms</em>, Tanenbaum and Van Steen, Chapters 5 - 6
+- <em>Distributed Systems: Principles and Paradigms</em>, Tanenbaum and Van Steen, Chapters 5 and 8
 
 **Discussion and Review Slides**
 
