@@ -1,7 +1,6 @@
 ---
 id: 0
 title: Study Guides
-title: Computer Science 441, Spring 2016
 subtitle: Distributed Systems
 layout: course_item
 categories: [teaching]
