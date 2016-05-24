@@ -16,7 +16,10 @@ backup: ../../../
 
 <ul class="fa-ul">
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kinneerc/ExpOse/">expOse</a>:
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/AVMf/avmf">avmf</a>:
+Extensible framework for the search-based alternating variable method</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kinneerc/ExpOse/">expose</a>:
 Using doubling experiments to infer worst-case time complexity</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org/">major</a>: Easy and
