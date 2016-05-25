@@ -99,10 +99,10 @@ href="https://github.com/gkapfham/cs280F2015">cs280F2015</a>: Course content for
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration files for the terminal multiplexor</li>
+href="https://github.com/gkapfham/dotfiles">dotfiles</a>: Configuration files for my development environment</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/dotfiles">dotfiles</a>: Configuration files for my development environment</li>
+href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration files for the terminal multiplexor</li>
 
 </ul>
 
