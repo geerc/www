@@ -128,6 +128,12 @@ href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration fi
 
 <ul class="fa-ul">
 
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/176">lervag/vimtex Issue #176</a>: Latexmk crashes when loading second LaTeX file</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/177">lervag/vimtex Issue #177</a>: Many Zathura windows in a multi-file project</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/178">lervag/vimtex Issue #178</a>: Second MuPDF window in a multi-file project</li>
+
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/181">lervag/vimtex Issue #181</a>: Forward search not working with old Zathura</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/312">lervag/vimtex Issue #312</a>: Additional MuPDF window on forward search</li>
