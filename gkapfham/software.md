@@ -71,18 +71,19 @@ href="https://github.com/gkapfham/seke2015-tool-paper">seke2015-tool-paper</a>: 
 href="https://github.com/gkapfham/allegheny2015-presentation">allegheny2015-presentation</a>: Slides for a talk at Allegheny College</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: Slides for the talk about a QSIC 2014 paper</li>
+href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: Slides for the talk presenting a QSIC 2014 paper</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/sbst2016-presentation">sbst2016-presentation</a>: Slides for the
-SBST 2016 presentation on statistics</li>
+href="https://github.com/gkapfham/sbst2016-presentation">sbst2016-presentation</a>: Slides for the talk presenting a SBST
+2016 position paper </li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: Slides for the
 SEKE 2015 panel on big data</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presentation</a>: Slides for the talk about a SEKE 2015 paper</li>
+href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presentation</a>: Slides for the talk presenting
+a SEKE 2015 paper</li>
 
 </ul>
 
