@@ -122,6 +122,15 @@ href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration fi
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/raise/">raise</a>: Comprehensive test suite execution and management</li>
 
+</ul>
+
+## Defect Reports
+
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/181">lervag/vimtex Issue #181</a>: Forward search not working with old Zathura</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/312">lervag/vimtex Issue #312</a>: Additional MuPDF window on forward search</li>
 
 </ul>
 
