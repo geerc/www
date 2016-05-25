@@ -138,5 +138,7 @@ href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration fi
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/312">lervag/vimtex Issue #312</a>: Additional MuPDF window on forward search</li>
 
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/wellle/tmux-complete.vim/issues/63">welle/tmux-complete.vim Issue #63</a>: Tmux completion no longer works</li>
+
 </ul>
 
