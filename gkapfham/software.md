@@ -68,28 +68,33 @@ href="https://github.com/gkapfham/per2012-paper">per2012-paper</a>: Source code 
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/sbst2016-presentation">sbst2016-presentation</a>: Slides for the talk presenting an SBST
-2016 position paper </li>
+href="https://github.com/gkapfham/sbst2016-presentation">sbst2016-presentation</a>: Slides for the presentation of an
+SBST 2016 position paper</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/allegheny2015-presentation">allegheny2015-presentation</a>: Slides for a talk at Allegheny College</li>
+href="https://github.com/gkapfham/allegheny2015-presentation">allegheny2015-presentation</a>: Slides for a talk at
+Allegheny College</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: Slides for the
-SEKE 2015 panel on big data</li>
+href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-panel-presentation</a>: Slides for the SEKE 2015
+panel on big data</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presentation</a>: Slides for the talk presenting
+href="https://github.com/gkapfham/seke2015-panel-presentation">seke2015-presentation</a>: Slides for the presentation of
 a SEKE 2015 paper</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: Slides for the talk presenting a QSIC 2014 paper</li>
+href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: Slides for the presentation of the
+QSIC 2014 paper</li>
 
 </ul>
 
 ## Teaching Materials
 
 <ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/cs111S2016">cs111S2016</a>: Course content for Computer Science 111 Spring 2016</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/cs111F2015">cs111F2015</a>: Course content for Computer Science 111 Fall 2015</li>
