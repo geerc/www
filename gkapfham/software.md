@@ -20,13 +20,13 @@ backup: ../../../
 Extensible framework for the search-based alternating variable method</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kinneerc/ExpOse/">expose</a>:
-Using doubling experiments to infer worst-case time complexity</li>
+Perform doubling experiments to infer actual-worst-case time complexity</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org/">major</a>: Easy and
 scalable mutation testing for the Java programming language</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/redecheck/redecheck-tool">redecheck</a>: Automated tool for testing responsively designed web sites</li>
+href="https://github.com/redecheck/redecheck-tool">redecheck</a>: Automatically test responsively designed web sites</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/schemaanalyst-team/schemaanalyst">schemaanalyst</a>: Data generation and mutation analysis for database schemas</li>
@@ -74,7 +74,7 @@ href="https://github.com/gkapfham/allegheny2015-presentation">allegheny2015-pres
 href="https://github.com/gkapfham/qsic2014-presentation">qsic2014-presentation</a>: Slides for the talk presenting a QSIC 2014 paper</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/sbst2016-presentation">sbst2016-presentation</a>: Slides for the talk presenting a SBST
+href="https://github.com/gkapfham/sbst2016-presentation">sbst2016-presentation</a>: Slides for the talk presenting an SBST
 2016 position paper </li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
