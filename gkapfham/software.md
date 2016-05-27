@@ -97,6 +97,9 @@ QSIC 2014 paper</li>
 href="https://github.com/gkapfham/cs111S2016">cs111S2016</a>: Course content for Computer Science 111 Spring 2016</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/cs441S2016">cs441S2016</a>: Course content for Computer Science 441 Spring 2016</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/cs111F2015">cs111F2015</a>: Course content for Computer Science 111 Fall 2015</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
