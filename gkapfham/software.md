@@ -52,6 +52,9 @@ deliverables</li>
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/ast2016-paper">ast2016-paper</a>: Source code for a research paper at SBST 2016</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/sbst2016-paper">sbst2016-paper</a>: Source code for a research paper at SBST 2016</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
