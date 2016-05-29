@@ -45,6 +45,10 @@ moderntimeline</li>
 href="https://github.com/gkapfham/research-bibliography">research-bibliography</a>: References for all of my research
 deliverables</li>
 
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/schemaanalyst-bibliography">schemaanalyst-bibliography</a>: References on testing
+database applications</li>
+
 </ul>
 
 ## Research Papers
