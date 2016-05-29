@@ -95,6 +95,16 @@ QSIC 2014 paper</li>
 
 </ul>
 
+## Replication Packages
+
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/virtualmutationanalysis">virtualmutationanalysis</a>: Data and analysis code for the
+AST 2016 paper</li>
+
+</ul>
+
 ## Teaching Materials
 
 <ul class="fa-ul">
