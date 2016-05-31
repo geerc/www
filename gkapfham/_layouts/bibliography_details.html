@@ -57,8 +57,26 @@
         <div class="col-md-10">
 
         <h1>{{ page.entry.title }}</h1>
-        <h2>{{ page.entry.author }}</h2>
+        <h3>{{ page.entry.author }}</h3>
+
+        {% if page.entry.booktitle %}
+        <em><h3>{{ page.entry.booktitle}}, {{ page.entry.year }}</h3></em>
+        {% endif %}
+
+        {% if page.entry.journal %}
+        <em><h3>{{ page.entry.journal}} {{ page.entry.volume }}:{{ page.entry.number }}, {{ page.entry.year }} </h3></em>
+        {% endif %}
+
+        <p>
+
+        {% if page.entry.abstract %}
+        <h3>Abstract</h3>
         <p>{{ page.entry.abstract }}</p>
+        {% endif %}
+
+        <p>
+
+        <pre>{{ page.entry.bibtex }}</pre>
 
         </div>
       </div>
