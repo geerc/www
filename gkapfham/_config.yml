@@ -36,5 +36,5 @@ scholar:
   - latex
   details_dir: research/papers
   details_layout: bibliography_details.html
-  details_link: Details
+  details_link: ""
   query: "@*"
