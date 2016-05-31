@@ -24,8 +24,8 @@ scholar:
   order: descending
   group_by: none
   group_order: ascending
-  source: ./_bibliography
-  bibliography: references.bib
+  source: _bibliography/bibtex
+  bibliography: bibliography_kapfhammer.bib
   bibliography_template: bibliography_entry
   bibliography_list_tag: ul class="fa-ul"
   replace_strings: true
