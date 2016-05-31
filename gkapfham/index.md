@@ -17,17 +17,7 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 
 ### Featured Paper
 
-<div class="featured">
-<ul class="fa-ul">
-{% for page in site.pages %}
-  {% if page.paper == true and page.featured == true %}
-    <li><i class="fa-li fa fa-file-text-o fa-lg"></i><a class="major" href="{{site.baseurl}}{{page.url | remove_first:'/'}}">{{ page.title | capitalize_all }}</a></li>
-    <em>Authors</em>: {{ page.authors }} <br>
-  {% endif %}
-{% endfor %}
-<p>
-</ul>
-</div>
+{% bibliography --query @inproceedings[key=McMinn2016b] %}
 
 ### Recent Presentation
 
