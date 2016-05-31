@@ -22,8 +22,8 @@ scholar:
   locale: en
   sort_by: year
   order: descending
-  group_by: type
-  group_order: ascending
+  group_by: type,year
+  group_order: descending
   source: _bibliography/bibtex
   bibliography: bibliography_kapfhammer_trial.bib
   bibliography_template: bibliography_entry
