@@ -35,6 +35,6 @@ scholar:
   - superscript
   - latex
   details_dir:    bibliography
-  details_layout: bibtex.html
+  details_layout: bibliography_details.html
   details_link:   Details
   query: "@*"
