@@ -17,7 +17,12 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 
 ### Featured Paper
 
-{% bibliography --query @inproceedings[key=McMinn2016b] --group_by none %}
+<div class="featured">
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-file-text-o fa-lg"></i><a class="major" href="{{site.baseurl}}/research/papers/McMinn2016b">Virtual
+mutation analysis of relational database schemas</a></li>Phil McMinn and Gregory M. Kapfhammer and Chris J. Wright<p>
+</ul>
+</div>
 
 ### Recent Presentation
 
