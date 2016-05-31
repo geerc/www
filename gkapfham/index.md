@@ -17,7 +17,7 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 
 ### Featured Paper
 
-{% bibliography --query @inproceedings[key=McMinn2016b] %}
+{% bibliography --query @inproceedings[key=McMinn2016b] --group_by none %}
 
 ### Recent Presentation
 
