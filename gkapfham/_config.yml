@@ -20,27 +20,21 @@ max_id: 45
 scholar:
   style: apa
   locale: en
-
-  sort_by: none
-  order: ascending
-
+  sort_by: year
+  order: descending
   group_by: none
   group_order: ascending
-
   source: ./_bibliography
   bibliography: references.bib
-  bibliography_template: "{{reference}}"
-
+  bibliography_template: bibliography
+  bibliography_list_tag: ul class="fa-ul"
   replace_strings: true
   join_strings:    true
-
   use_raw_bibtex_entry: false
   bibtex_filters:
   - superscript
   - latex
-
   details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
-
   query: "@*"
