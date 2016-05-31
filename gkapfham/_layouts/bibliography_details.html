@@ -52,45 +52,15 @@
 
         <div class="col-md-2 visible-md visible-lg sidebar">
 
-          <!-- <i class="fa fa&#45;book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory&#45;kapfhammer/92/3b3/502">Linkedin</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;ticket"></i>  <a class="navigate" href="{{page.backup}}/site/main/Colophon/">Colophon</a>  -->
-          <!-- <br>&#38;copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a> -->
-
         </div>
-
-        <!-- <div class="col&#45;md&#45;10"> -->
-        <!--     {{ content }} -->
-        <!-- </div> -->
 
         <div class="col-md-10">
-          {{ content }} {% assign max_id = -45 %} {% assign stop_id = 0 %} {% assign nextid = page.id | plus:1 %} {% assign previd = page.id | minus:1 %}
-
-          <div class="row">
-
-            <div class="col-xs-6">
-              {% for thispage in site.pages %} {% if thispage.id == previd %} {% if thispage.paper == true %}
-              <i class="fa fa-long-arrow-left"></i>  <a href="{{site.baseurl}}{{ thispage.url | remove_first:'/'}}">{{ thispage.title | capitalize_all }}</a>
-              {% endif %} {% endif %} {% endfor %}
-            </div>
-
-            <div class="col-xs-6">
-              {% for thispage in site.pages %} {% if thispage.id == nextid %} {% if thispage.paper == true %}
-              <a href="{{site.baseurl}}{{ thispage.url | remove_first:'/'}}">{{ thispage.title | capitalize_all }}</a>  <i class="fa fa-long-arrow-right"></i>
-              {% endif %} {% endif %} {% endfor %}
-            </div>
-
-          </div>
-        </div>
 
         <h1>{{ page.entry.title }}</h1>
         <h2>{{ page.entry.author }}</h2>
         <p>{{ page.entry.abstract }}</p>
 
+        </div>
       </div>
 
       <div class="row">
@@ -106,9 +76,10 @@
       <div class="row">
 
         <div class="col-md-2 visible-md visible-lg">
+          &nbsp;
         </div>
 
-        <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
+        <div class="col-sm-2 center hidden-sm hidden-xs top-reduce-first">
           <h2 class="highlightmine">87</h2>
           <b>courses </b>
         </div>
@@ -185,24 +156,6 @@
       <!-- Placed at the end of the document so the pages load faster -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
       <script src="{{site.baseurl}}js/bootstrap.min.js"></script>
-      <script>
-
-        window.twttr = (function(d, s, id) {
-          var t, js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s);
-          js.id = id;
-          js.async = 1;
-          js.src = "https://platform.twitter.com/widgets.js";
-          fjs.parentNode.insertBefore(js, fjs);
-          return window.twttr || (t = {
-            _e: [],
-            ready: function(f) {
-              t._e.push(f)
-            }
-          });
-        }(document, "script", "twitter-wjs"));
-      </script>
 
   </body>
 
