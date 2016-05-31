@@ -22,10 +22,10 @@ scholar:
   locale: en
   sort_by: year
   order: descending
-  group_by: none
+  group_by: type
   group_order: ascending
   source: _bibliography/bibtex
-  bibliography: bibliography_kapfhammer.bib
+  bibliography: bibliography_kapfhammer_trial.bib
   bibliography_template: bibliography_entry
   bibliography_list_tag: ul class="fa-ul"
   replace_strings: true
