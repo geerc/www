@@ -20,9 +20,9 @@ max_id: 45
 scholar:
   style: apa
   locale: en
-  sort_by: year
-  order: descending
-  group_by: type,year
+  sort_by: year,author
+  order: descending,ascending
+  group_by: year
   group_order: descending
   source: _bibliography/bibtex
   bibliography: bibliography_kapfhammer_trial.bib
