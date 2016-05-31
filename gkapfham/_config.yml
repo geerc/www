@@ -29,12 +29,12 @@ scholar:
   bibliography_template: bibliography
   bibliography_list_tag: ul class="fa-ul"
   replace_strings: true
-  join_strings:    true
+  join_strings: true
   use_raw_bibtex_entry: false
   bibtex_filters:
   - superscript
   - latex
-  details_dir:    bibliography
+  details_dir: research/papers
   details_layout: bibliography_details.html
-  details_link:   Details
+  details_link: Details
   query: "@*"
