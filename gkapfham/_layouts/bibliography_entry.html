@@ -1,13 +1,15 @@
 ---
 ---
 
-<!-- if the entry contains a howpublished field, then it must be a presentation -->
 {% if entry.howpublished %}
 <li><i class="fa-li fa fa-file-image-o fa-lg"></i>
-  <a class="major" href="{{entry.presentation}}">{{entry.title}}</a> </li>
+  {% if entry.presentation %}
+  <a class="major" href="{{entry.presentation}}">{{entry.title}}</a></li>
+  {% else %}
+  <a class="major" href="research/presentations/key/{{entry.key}}.pdf">{{entry.title}}</a></li>
+  {% endif %}
 {{ entry.author }} <br>
 <p>
-<!-- otherwise, the entry is a standard research paper and the default style is chosen -->
 {% else %}
 <li><i class="fa-li fa fa-file-text-o fa-lg"></i>
   <a class="major" href="{{entry.key}}">{{entry.title}}</a> </li>
