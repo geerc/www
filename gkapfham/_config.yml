@@ -25,7 +25,7 @@ scholar:
   group_by: year
   group_order: descending
   source: _bibliography/bibtex
-  bibliography: bibliography_kapfhammer.bib
+  bibliography: bibliography_kapfhammer_trial.bib
   bibliography_template: bibliography_entry
   bibliography_list_tag: ul class="fa-ul"
   replace_strings: true
