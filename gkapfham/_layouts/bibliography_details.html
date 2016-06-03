@@ -81,7 +81,7 @@
           <p>{{ page.entry.abstract }}</p>
           {% endif %}
 
-          <h3>Downloads</h3>
+          <h3>Resources</h3>
           <!-- display the paper download link for the paper (it is always based on the key of the specific entry) -->
           <p><a class="major" href = "{{site.baseurl}}download/research/papers/key/{{page.entry.key}}-paper.pdf"><i class="fa fa-download"></i> Paper</a></p>
 
@@ -97,6 +97,12 @@
             <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{page.entry.key}}-presentation.pdf">
             <i class="fa fa-download"></i> Presentation</a></li>
             {% endif %}
+          {% endif %}
+
+          <!-- display the references to external resources (e.g., a GitHub site for the paper or the tool) -->
+          {% if page.entry.url %}
+            <p><a class="major" href = "{{page.entry.url}}">
+              <i class="fa fa-github"></i> {{ page.entry.url | replace: "https://github.com/", "" }}</a></p>
           {% endif %}
 
           <!-- again display extra spacing between the previous entries and the final bibtex -->
