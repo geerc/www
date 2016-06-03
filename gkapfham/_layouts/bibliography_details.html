@@ -87,10 +87,10 @@
 
           <!-- display the presentation download link for the paper (which will either be specified or be based on the key) -->
           <!-- there is a hard-coded presentation in the bibtex file and thus this should be displayed -->
-          {% if page.entry.presentation %}
+          {% if page.entry.presented && page.entry.presentation %}
           <p><a class="major" href = "{{page.entry.presentation}}"><i class="fa fa-download"></i> Presentation</a></p>
           <!-- there is not a hard-coded presentation in the bibtex file and thus the key-based name should be displayed -->
-          {% else %}
+          {% else if page.entry.presented %}
           <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{page.entry.key}}-presentation.pdf">
             <i class="fa fa-download"></i> Presentation</a></li>
           {% endif %}
