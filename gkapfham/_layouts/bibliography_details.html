@@ -56,33 +56,53 @@
 
         <div class="col-md-10">
 
+          <!-- NOTE: the details layout is only for papers; presentations are simply direct links -->
+
+          <!-- always display the title of the paper or presentation and the author(s) of the presentation -->
           <h1>{{ page.entry.title }}</h1>
           <h3>{{ page.entry.author }}</h3>
 
-          {% if page.entry.booktitle %}
+          <!-- if there is a "booktitle" (i.e., proceedings) and a year, then display this as well -->
+          {% if page.entry.booktitle && page.entry.year %}
           <em><h3>{{ page.entry.booktitle}}, {{ page.entry.year }}</h3></em>
           {% endif %}
 
-          {% if page.entry.journal %}
+          <!-- if there is a "journal" (i.e., it is a journal) and the other parts of a journal and a year, then display them -->
+          {% if page.entry.journal && page.entry.volume && page.entry.number && page.entry.year %}
           <em><h3>{{ page.entry.journal}} {{ page.entry.volume }}:{{ page.entry.number }}, {{ page.entry.year }}</h3></em>
           {% endif %}
 
+          <!-- one of the above two options will have been true and now we need space for the next data points for this entry -->
           <p>
 
+          <!-- display the abstract of the conference or journal paper -->
           {% if page.entry.abstract %}
           <h3>Abstract</h3>
           <p>{{ page.entry.abstract }}</p>
           {% endif %}
 
           <h3>Downloads</h3>
-          <p><a class="major" href = "{{site.baseurl}}download/research/papers/key/{{ page.entry.key }}.pdf"><i class="fa fa-download"></i> Paper</a></p>
+          <!-- display the paper download link for the paper (it is always based on the key of the specific entry) -->
+          <p><a class="major" href = "{{site.baseurl}}download/research/papers/key/{{page.entry.key}}-paper.pdf"><i class="fa fa-download"></i> Paper</a></p>
+
+          <!-- display the presentation download link for the paper (which will either be specified or be based on the key) -->
+          <!-- there is a hard-coded presentation in the bibtex file and thus this should be displayed -->
           {% if page.entry.presentation %}
           <p><a class="major" href = "{{page.entry.presentation}}"><i class="fa fa-download"></i> Presentation</a></p>
+          <!-- there is not a hard-coded presentation in the bibtex file and thus the key-based name should be displayed -->
+          {% else %}
+          <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{page.entry.key}}-presentation.pdf">
+            <i class="fa fa-download"></i> Presentation</a></li>
           {% endif %}
 
+          <!-- again display extra spacing between the previous entries and the final bibtex -->
           <p>
+
+          <!-- display the bibtex entry for the paper if one is available -->
+          {% if page.entry.bibtex %}
           <h3>Reference</h3>
           <pre>{{ page.entry.bibtex }}</pre>
+          {% endif %}
 
         </div>
       </div>
