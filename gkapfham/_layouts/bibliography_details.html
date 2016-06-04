@@ -100,9 +100,17 @@
           {% endif %}
 
           <!-- display the references to external resources (e.g., a GitHub site for the paper or the tool) -->
-          {% if page.entry.url %}
-            <p><a class="major" href = "{{page.entry.url}}">
-              <i class="fa fa-github"></i> {{ page.entry.url | replace: "https://github.com/", "" }}</a></p>
+          {% if page.entry.paper %}
+            <p><a class="major" href = "{{page.entry.paper}}">
+              <i class="fa fa-github"></i> {{ page.entry.paper | replace: "https://github.com/", "" }}</a></p>
+          {% endif %}
+          {% if page.entry.data %}
+            <p><a class="major" href = "{{page.entry.data}}">
+              <i class="fa fa-github"></i> {{ page.entry.data | replace: "https://github.com/", "" }}</a></p>
+          {% endif %}
+          {% if page.entry.tool %}
+            <p><a class="major" href = "{{page.entry.tool}}">
+              <i class="fa fa-github"></i> {{ page.entry.tool | replace: "https://github.com/", "" }}</a></p>
           {% endif %}
 
           <!-- again display extra spacing between the previous entries and the final bibtex -->
