@@ -94,8 +94,8 @@
           <!-- there is not a hard-coded presentation in the bibtex file and thus the key-based name should be displayed -->
           {% if page.entry.presented %}
             {% if page.entry.presentation == null %}
-            <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{page.entry.key}}-presentation.pdf">
-            <i class="fa fa-download"></i> Presentation</a></li>
+            <p><a class="major" href="{{site.baseurl}}download/research/presentations/key/{{page.entry.key}}-presentation.pdf">
+              <i class="fa fa-download"></i> Presentation</a></li></p>
             {% endif %}
           {% endif %}
 
