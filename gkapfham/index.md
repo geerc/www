@@ -20,13 +20,15 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 {% comment %} Display the paper that would display first on the research papers page (must use a different template) {% endcomment %}
 {% bibliography --template bibliography_entry_forward --group_by none --max 1 %}
 
+## Recent Presentation
+
+{% comment %} Display the presentation that would display first on the talks page (must use a different template) {% endcomment %}
+{% bibliography --query @misc[keywords!=supervised] --group_by none --max 1 %}
+
 ## Novel Software
 
-<ul class="fa-ul">
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/redecheck/redecheck-tool">ReDeCheck: An automated tool for testing responsively designed web sites</a> </li>
-Released November 2015
-</ul>
+<ul class="fa-ul"> <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/AVMf/avmf">AVMf:
+Java implementation of the alternating variable method</a> </li> Released July 2016 </ul>
 
 ## Highlighted Course
 
