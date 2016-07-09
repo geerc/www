@@ -15,26 +15,12 @@ students. If you would like to learn more about me, then you can view my curricu
 href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a target="_blank" href =
 "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.html">HTML5</a> document.
 
-### Featured Paper
+## Featured Paper
 
-<div class="featured">
-<ul class="fa-ul">
-<li><i class="fa-li fa fa-file-text-o fa-lg"></i><a class="major" href="{{site.baseurl}}/research/papers/McMinn2016b">Virtual
-mutation analysis of relational database schemas</a></li>Phil McMinn and Gregory M. Kapfhammer and Chris J. Wright<p>
-</ul>
-</div>
+{% comment %} Display the paper that would display first on the research papers page (must use a different template) {% endcomment %}
+{% bibliography --template bibliography_entry_forward --group_by none --max 1 %}
 
-### Recent Presentation
-
-<div class="featured">
-<ul class="fa-ul">
-{% directory path: download/research/featuredpresentation reverse: 'true' %}
-<li><i class="fa-li fa fa-file-image-o fa-lg"></i><a class="major" href="{{site.baseurl}}{{ file.url | remove_first:'/'}}" >{{ file.slug | replace: '-', ' ' | capitalize_all }}</a></li> Presented {{ file.date | date: '%B %Y' }} <p>
-{% enddirectory %}
-</ul>
-</div>
-
-### Novel Software
+## Novel Software
 
 <ul class="fa-ul">
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
@@ -42,7 +28,7 @@ href="https://github.com/redecheck/redecheck-tool">ReDeCheck: An automated tool 
 Released November 2015
 </ul>
 
-### Highlighted Course
+## Highlighted Course
 
 <ul class="fa-ul">
 {% for page in site.pages %}
@@ -53,7 +39,7 @@ Released November 2015
 {% endfor %}
 </ul>
 
-### Status Updates
+## Status Updates
 
 <div id="tw-gkapfham">
 </div>
