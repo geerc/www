@@ -7,16 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{site.description}}">
     <link rel="shortcut icon" href="{{site.baseurl}}infinity-gradient.ico">
-    <link rel="icon" type="image/png" href="{{site.baseurl}}infinity.png" sizes="192x192">
-    <link rel="apple-touch-icon" href="{{site.baseurl}}infinity.png" sizes="192x192">
     <link href="{{site.baseurl}}css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="{{site.baseurl}}css/bootstrap-slatemod.css" rel="stylesheet">
     <link href="{{site.baseurl}}css/pygments.css" rel="stylesheet">
     <link rel="stylesheet" href="{{site.baseurl}}css/fontello.css">
-    <script src="{{site.baseurl}}js/twFetcher.js"></script>
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans' rel='stylesheet' type='text/css'>
-    <meta name="theme-color" content="#2b2e32">
+
   </head>
 
   <body>
@@ -52,20 +49,7 @@
 
         <div class="col-md-2 visible-md visible-lg sidebar">
 
-          <!-- <i class="fa fa&#45;book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory&#45;kapfhammer/92/3b3/502">Linkedin</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;ticket"></i>  <a class="navigate" href="{{page.backup}}/site/main/Colophon/">Colophon</a>  -->
-          <!-- <br>&#38;copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a> -->
-
         </div>
-
-        <!-- <div class="col&#45;md&#45;10"> -->
-        <!--     {{ content }} -->
-        <!-- </div> -->
 
         <div class="col-md-10">
           {{ content }}
@@ -73,14 +57,14 @@
 
             <div class="col-xs-6">
               {% if page.next != nil %}
-              <i class="fa fa-long-arrow-left"></i> <a href="{{site.baseurl}}{{ page.next.url | remove_first:'/'}}">{{ page.next.title | capitalize_all }}</a>  
+              <i class="fa fa-long-arrow-left"></i> <a href="{{site.baseurl}}{{ page.next.url | remove_first:'/'}}">{{ page.next.title | capitalize_all }}</a>
               {% endif %}
             </div>
 
             <div class="col-xs-6">
               {% if page.previous != nil %}
-              <a href="{{site.baseurl}}{{ page.previous.url | remove_first:'/'}}">{{ page.previous.title | capitalize_all }}</a> <i class="fa fa-long-arrow-right"></i> 
-              {% endif %} 
+              <a href="{{site.baseurl}}{{ page.previous.url | remove_first:'/'}}">{{ page.previous.title | capitalize_all }}</a> <i class="fa fa-long-arrow-right"></i>
+              {% endif %}
             </div>
 
           </div>
@@ -106,17 +90,17 @@
         </div>
 
         <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
-          <h2 class="highlightmine">87</h2>
+          <h2 class="highlightmine">85</h2>
           <b>courses </b>
         </div>
 
         <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
-          <h2 class="highlightmine">49</h2>
+          <h2 class="highlightmine">47</h2>
           <b>papers </b>
         </div>
 
         <div class="col-sm-2 center hidden-sm hidden-xs top-reduce">
-          <h2 class="highlightmine">74</h2>
+          <h2 class="highlightmine">70</h2>
           <b>presentations</b>
         </div>
 
@@ -184,21 +168,21 @@
       <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
 
       <script>
-        window.twttr = (function(d, s, id) {
-          var t, js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s);
-          js.id = id;
-          js.async = 1;
-          js.src = "https://platform.twitter.com/widgets.js";
-          fjs.parentNode.insertBefore(js, fjs);
-          return window.twttr || (t = {
-            _e: [],
-            ready: function(f) {
-              t._e.push(f)
-            }
-          });
-        }(document, "script", "twitter-wjs"));
+window.twttr = (function(d, s, id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s);
+  js.id = id;
+  js.async = 1;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+  return window.twttr || (t = {
+    _e: [],
+    ready: function(f) {
+      t._e.push(f)
+    }
+  });
+}(document, "script", "twitter-wjs"));
       </script>
 
   </body>
