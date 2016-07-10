@@ -49,8 +49,6 @@ each other to develop efficient and effective data analytics systems that constr
 accurate predictions. Let's collaborate across the fields of software engineering and big data to ensure that we have a
 positive influence on society &mdash; thus proving to be a "bigger deal" together than we would have been on our own.
 
-
 ### References
 
 {% bibliography --template bibliography_entry_reference --group_by none --cited %}
-
