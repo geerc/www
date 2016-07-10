@@ -7,6 +7,7 @@
 <!-- this is a presentation and we must display the title with a link to the download location (goes directly to a PDF) -->
 {% if entry.howpublished %}
 <li><i class="fa-li fa fa-file-image-o fa-lg"></i>
+  <div class="major">({{entry.author}}, {{entry.year}})</div>
   <!-- this is a presentation with a special download link, display it in a link (will always be HTML) -->
   {% if entry.presentation %}
   <a class="major" href="{{entry.presentation}}">{{entry.title}}</a></li>
@@ -15,12 +16,13 @@
   <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{entry.key}}-presentation.pdf">{{entry.title}}</a></li>
   {% endif %}
   <!-- always display the author(s) of the presentation -->
-  {{ entry.author }} <p>
+  <p>
 <!-- this is a paper and thus we always display the title of the paper and link to the details page -->
 {% else %}
 <li><i class="fa-li fa fa-file-text-o fa-lg"></i>
+  <div class="major">({{entry.author}}, {{entry.year}})</div>
   <a class="major" href="{{site.baseurl}}research/papers/{{entry.key}}">{{entry.title}}</a> </li>
 <!-- always display the author(s) of the paper -->
-{{ entry.author }} <p>
+<p>
 {% endif %}
 
