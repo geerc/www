@@ -28,7 +28,7 @@ href = "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a tar
 ## Novel Software
 
 <ul class="fa-ul"> <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/AVMf/avmf">AVMf:
-Java implementation of the alternating variable method</a> </li> Released July 2016 </ul>
+Extensible implementation of the alternating variable method in Java</a> </li> Released July 2016 </ul>
 
 ## Highlighted Course
 
