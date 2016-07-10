@@ -15,7 +15,11 @@ backup: ../../../../../../../
 
 <a title="vases" href="http://flickr.com/photos/mybloodyself/2428544365"><img class="img-responsive-tight" src="http://farm4.static.flickr.com/3094/2428544365_4fdd69c25d_z.jpg" /></a><br /><small><a title="vases" href="http://flickr.com/photos/mybloodyself/2428544365">flickr photo</a> shared by <a href="http://flickr.com/people/mybloodyself">danmachold</a> under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons ( BY-NC-SA ) license</a> </small>
 
-{% cite Kapfhammer2015a %}
+This statement was written to support my participation in a panel at the *27th International Conference on Software
+Engineering and Knowledge Engineering*.  To view the accompanying slides for this presentation, please refer to {% cite
+Kapfhammer2015a %}. If you want to learn more about new work that my colleagues and students and are are conducting in
+the area of testing data-centric applications, please read {% cite Kinneer2015 %} and {% cite Kinneer2015a %}, two
+papers that were also presented at the same conference.
 
 Big data analytics software allows researchers and practitioners to create descriptive models and make predictions.
 Often characterized by the "three Vs" of volume, velocity, and variety, big data systems must respectively handle large
@@ -45,8 +49,6 @@ each other to develop efficient and effective data analytics systems that constr
 accurate predictions. Let's collaborate across the fields of software engineering and big data to ensure that we have a
 positive influence on society &mdash; thus proving to be a "bigger deal" together than we would have been on our own.
 
-This statement was written to support my participation in a panel at the *27th International Conference on Software
-Engineering and Knowledge Engineering*.
 
 ### References
 
