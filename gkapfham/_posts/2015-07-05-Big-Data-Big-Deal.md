@@ -15,6 +15,8 @@ backup: ../../../../../../../
 
 <a title="vases" href="http://flickr.com/photos/mybloodyself/2428544365"><img class="img-responsive-tight" src="http://farm4.static.flickr.com/3094/2428544365_4fdd69c25d_z.jpg" /></a><br /><small><a title="vases" href="http://flickr.com/photos/mybloodyself/2428544365">flickr photo</a> shared by <a href="http://flickr.com/people/mybloodyself">danmachold</a> under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons ( BY-NC-SA ) license</a> </small>
 
+{% cite Kapfhammer2015a %}
+
 Big data analytics software allows researchers and practitioners to create descriptive models and make predictions.
 Often characterized by the "three Vs" of volume, velocity, and variety, big data systems must respectively handle large
 amounts of data that arrive rapidly and take many different forms. In fields such as evidence-based medicine and the
@@ -45,4 +47,8 @@ positive influence on society &mdash; thus proving to be a "bigger deal" togethe
 
 This statement was written to support my participation in a panel at the *27th International Conference on Software
 Engineering and Knowledge Engineering*.
+
+### References
+
+{% bibliography --template bibliography_entry_reference --group_by none --cited %}
 
