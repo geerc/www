@@ -5,16 +5,23 @@
 
 <!-- this is a presentation and we must display the title with a link to the download location (goes directly to a PDF) -->
 {% if entry.howpublished %}
+{% if entry.nodownload != 'true' %}
 <li><i class="fa-li fa fa-file-image-o fa-lg"></i>
+  {% endif %}
   <!-- this is a presentation with a special download link, display it in a link (will always be HTML) -->
   {% if entry.presentation %}
   <a class="major" href="{{entry.presentation}}">{{entry.title}}</a></li>
   <!-- this presentation does not have a special download link and thus we give a link to a PDF named after the key -->
+  <!-- generate this code as long as there is a PDF file that can be provided for download -->
   {% else %}
+  {% if entry.nodownload != 'true' %}
   <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{entry.key}}-presentation.pdf">{{entry.title}}</a></li>
   {% endif %}
-  <!-- always display the author(s) of the presentation -->
+  {% endif %}
+  <!-- always display the author(s) of the presentation as long as there is an available download of the presentation -->
+  {% if entry.nodownload != 'true' %}
   {{ entry.author }} <p>
+  {% endif %}
 <!-- this is a paper and thus we always display the title of the paper and link to the details page -->
 {% else %}
 <li><i class="fa-li fa fa-file-text-o fa-lg"></i>
