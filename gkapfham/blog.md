@@ -14,7 +14,7 @@ backup: ../../../
 
 <ul class="fa-ul">
 {% for page in site.posts %}
-    <li><i class="fa-li fa fa-edit fa-lg"></i><a class="major" href="{{site.baseurl}}{{ page.url | remove_first:'/'}}">{{ page.title | capitalize_all }}</a></li>
+    <li><i class="fa-li fa fa-edit fa-lg"></i><a class="major" href="{{site.baseurl}}{{ page.url | remove_first:'/'}}">{{ page.title }}</a></li>
     <em>Categories</em>:
     {% for category in page.categories %}
         {% assign lastcategory = page.categories | last %}
