@@ -17,30 +17,26 @@ Science](http://www.cs.allegheny.edu) at [Allegheny College](http://www.alleghen
 from the [Department of Computer Science](http://www.cs.pitt.edu) at the [University of
 Pittsburgh](http://www.pitt.edu); his PhD dissertation research was supervised by [Dr. Mary Lou
 Soffa](http://www.cs.virginia.edu/~soffa/). Kapfhammer also earned a BSc in Computer Science from Allegheny College and
-a MSc in Computer Science from the University of Pittsburgh. Kapfhammer has held positions as a visiting research
-scientist in the [Department of Computer Science](http://www.cs.virginia.edu) at the [University of
-Virginia](http://www.viginia.edu), the [Institute of Applied Information
-Processing](http://iai.mathematik.uni-ulm.de/en/index.html) at [University of Ulm](http://www.uni-ulm.de/en), and the
-[Department of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of
-Sheffield](http://www.sheffield.ac.uk/). In the past, Gregory Kapfhammer was a research associate at
+a MSc in Computer Science from the University of Pittsburgh. Kapfhammer has been a visiting research scientist in the
+[Department of Computer Science](http://www.cs.virginia.edu) at the [University of Virginia](http://www.viginia.edu),
+the [Institute of Applied Information Processing](http://iai.mathematik.uni-ulm.de/en/index.html) at [University of
+Ulm](http://www.uni-ulm.de/en), and the [Department of Computer Science](https://www.sheffield.ac.uk/dcs) at the
+[University of Sheffield](http://www.sheffield.ac.uk/). In the past, Gregory Kapfhammer was a research associate at
 [Cigital](http://www.cigital.com/).
 
-As an educator, Gregory Kapfhammer develops and teaches [courses]({{site.baseurl}}teaching) in the areas of
-software engineering, software testing, data management, mobile app development, operating systems, and distributed
-systems. He is also involved in the teaching of the department's introductory courses, junior seminar, senior seminar,
-and a research adviser for undergraduate theses.  Kapfhammer's expertise in teaching was recently recognized when
-Allegheny College presented him with the [Thoburn Award for Excellence in
+As an educator, Gregory Kapfhammer develops and teaches [courses]({{site.baseurl}}teaching) in the areas of software
+engineering, software testing, data management, mobile app development, operating systems, and distributed systems. He
+is also involved in the teaching of the department's introductory courses, junior seminar, senior seminar, and a
+research adviser for undergraduate theses.  Kapfhammer's expertise in teaching was recently recognized when Allegheny
+College presented him with the [Thoburn Award for Excellence in
 Teaching](http://sites.allegheny.edu/alumni/involved/allegheny-awards/recipients/#thoburn). As an experimental computer
-scientist, Gregory Kapfhammer conducts [research]({{site.baseurl}}research/) in the areas of software
-engineering, software testing and analysis, and computer software systems. In collaboration with a diverse and
-highly-skilled group of students and colleagues, Kapfhammer pursues research that results in award-winning and
-frequently cited research [papers]({{site.baseurl}}research/papers/), oft-complimented
-[presentations]({{site.baseurl}}research/presentations/), and useful free and open-source
-[software]({{site.baseurl}}software/).
+scientist, Gregory Kapfhammer conducts [research]({{site.baseurl}}research/) in the areas of software engineering,
+software testing and analysis, and computer software systems. In collaboration with a diverse and highly-skilled group
+of students and colleagues, Kapfhammer pursues research that results in award-winning and frequently cited research
+[papers]({{site.baseurl}}research/papers/), oft-complimented [presentations]({{site.baseurl}}research/presentations/),
+and useful free and open-source [software]({{site.baseurl}}software/).
 
-The paper "[A Family of Test Adequacy Criteria for Database-Driven
-Applications]({{site.baseurl}}research/papers/paper-fse2003/)", co-authored by Kapfhammer and [Dr. Mary Lou
-Soffa](http://www.cs.virginia.edu/~soffa/), was selected to receive the ACM SIGSOFT Distinguished Paper Award at the
+The paper {% cite Kapfhammer2003 %} was selected to receive the ACM SIGSOFT Distinguished Paper Award at the
 [2003 ACM SIGSOFT Foundations of Software Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/).
 Gregory Kapfhammer's paper "[Empirically Studying the Role of Selection Operators During Search-Based Test Suite
 Prioritization]({{site.baseurl}}research/papers/paper-gecco2010/)", co-authored with Alexander P. Conrad and [Dr. Robert
@@ -68,3 +64,7 @@ positive impact on the community.
 
 **Principle 5 (Contagious Joy)**: Pursue everything with passion and enthusiasm. Take advantage of every opportunity to
 encourage your students and colleagues. Always end a conversation or a meeting with a positive remark.
+
+### References
+
+{% bibliography --template bibliography_entry_reference --group_by none --cited %}
