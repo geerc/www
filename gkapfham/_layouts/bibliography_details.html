@@ -72,6 +72,11 @@
           <em><h3>{{ page.entry.journal}} {{ page.entry.volume }}:{{ page.entry.number }}, {{ page.entry.year }}</h3></em>
           {% endif %}
 
+          <!-- if there is an "instution" (i.e., it is a technical report) and the year, then display them -->
+          {% if page.entry.institution && page.entry.number && page.entry.year %}
+          <em><h3>Technical Report {{ page.entry.number }}, {{ page.entry.year }}</h3></em>
+          {% endif %}
+
           <!-- one of the above two options will have been true and now we need space for the next data points for this entry -->
           <p>
 
