@@ -35,7 +35,7 @@ cite Kapfhammer2015 %}, which you can study from its GitHub repository at
 [gkapfham/seke2015-presentation](https://github.com/gkapfham/seke2015-presentation). There's something else that is
 really nice about programming your papers and presentations in LaTeX&mdash;you can release their source code on GitHub
 to share with others an "instruction manual" that explains, in a step-by-step fashion, exactly how 
-to produce a document just line yours!
+to produce a document just like yours!
 
 ### References
 
