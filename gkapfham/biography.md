@@ -1,5 +1,5 @@
 ---
-title: Biography 
+title: Biography
 layout: defaults
 categories: [main]
 weight: 1
@@ -23,7 +23,7 @@ Virginia](http://www.viginia.edu), the [Institute of Applied Information
 Processing](http://iai.mathematik.uni-ulm.de/en/index.html) at [University of Ulm](http://www.uni-ulm.de/en), and the
 [Department of Computer Science](https://www.sheffield.ac.uk/dcs) at the [University of
 Sheffield](http://www.sheffield.ac.uk/). In the past, Gregory Kapfhammer was a research associate at
-[Cigital](http://www.cigital.com/). 
+[Cigital](http://www.cigital.com/).
 
 As an educator, Gregory Kapfhammer develops and teaches [courses]({{site.baseurl}}teaching) in the areas of
 software engineering, software testing, data management, mobile app development, operating systems, and distributed
