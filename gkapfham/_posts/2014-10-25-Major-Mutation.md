@@ -10,8 +10,9 @@ paper: false
 backup: ../../../../../../../../
 ---
 
-## {{ page.title }}
-### <em>{{ page.date | date_to_long_string }}</em>
+# {{ page.title }}
+
+## <em>{{ page.date | date_to_long_string }}</em>
 
 <a title="Speed..." href="http://flickr.com/photos/rhk313/3707813723"><img class="img-responsive-tight" src="http://farm3.static.flickr.com/2577/3707813723_6750e6bc8b_z.jpg" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">creative commons licensed ( BY-NC-SA )</a> <a title="Speed..." href="http://flickr.com/photos/rhk313/3707813723">flickr photo</a> shared by <a href="http://flickr.com/people/rhk313">Rami ™</a></small>
 
@@ -31,14 +32,23 @@ that can find many of these faults is judged to be a good one.
 While mutation analysis is simple and useful, historically, it has been difficult to apply to large-scale programs
 because it was computationally expensive.  This all changed with the design, implementation, and release of
 [Major](http://www.mutation-testing.org), a compiler-integrated mutation testing tool for the Java programming language.
-Starting to use Major is as easy as changing the Java compiler that you use at build time, as demonstrated by the
-following line from Major's online documentation.
+You can learn more about Major by reading {% cite Just2011a %} and {% cite Just2011b %}; more details about how Major makes
+mutation testing scalable through use of non-redundant mutation operators and test suite prioritization is available in
+{% cite Just2012b %}.
+
+Starting to use the tool is as easy as changing the Java
+compiler that you use at build time, as demonstrated by the following line from Major's online documentation.
 
 {% highlight shell %}
 $ javac -XMutator:ALL MyFile.java
 # Generated Mutants: 190 (96 ms)
 {% endhighlight %}
 
-The creators of Major have taken great pains to ensuring that it is fast, allowing mutation testing to be applied to
-large real-world programs. Major v1.1.2, for the Java 7 programming language, is now available for download&mdash;check
-Major's site so that you can download the tool and get started with mutation analysis for your JUnit test suites!
+[Rene Just](https://people.cs.umass.edu/~rjust/), the creator of Major, has taken great care to ensure that it is fast,
+allowing mutation testing to be applied to large real-world programs. Major v1.1.8, for the Java 7 programming language,
+is now available for download&mdash;check Major's site so that you can download the tool and get started with mutation
+analysis for your JUnit test suites!
+
+### References
+
+{% bibliography --template bibliography_entry_reference --group_by none --cited %}
