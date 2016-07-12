@@ -36,15 +36,15 @@ of students and colleagues, Kapfhammer pursues research that results in award-wi
 [papers]({{site.baseurl}}research/papers/), oft-complimented [presentations]({{site.baseurl}}research/presentations/),
 and useful free and open-source [software]({{site.baseurl}}software/).
 
-The paper {% cite Kapfhammer2003 %} was selected to receive the ACM SIGSOFT Distinguished Paper Award at the
-[2003 ACM SIGSOFT Foundations of Software Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/).
-Gregory Kapfhammer's paper "[Empirically Studying the Role of Selection Operators During Search-Based Test Suite
-Prioritization]({{site.baseurl}}research/papers/paper-gecco2010/)", co-authored with Alexander P. Conrad and [Dr. Robert
-S. Roos](http://www.cs.allegheny.edu/~rroos/), was also recognized as the best paper in the [Search-Based Software
+The paper {% cite Kapfhammer2003 %} was selected to receive the ACM SIGSOFT Distinguished Paper Award at the [2003 ACM
+SIGSOFT Foundations of Software Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/).  Gregory
+Kapfhammer's paper {% cite Conrad2010a %} was also recognized as the best paper in the [Search-Based Software
 Engineering Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM SIGEVO Genetic and
-Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Moreover, he frequently serves the
-research community as a reviewer for conferences and journals, technical program committee member, conference program
-co-chair, workshop co-chair, workshop program co-chair, and review panelist at the U.S. National Science Foundation.
+Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Additionally, Kapfhammer's
+presentation for {% cite Kapfhammer2016 %} won the best presentation award at the [2016 International Workshop on
+Search-Based Software Testeing](https://cse.sc.edu/~ggay/sbst2016/).  Finally, he frequently serves the research
+community as a reviewer for conferences and journals, technical program committee member, conference program co-chair,
+workshop co-chair, workshop program co-chair, and review panelist at the U.S. National Science Foundation.
 
 As an outworking of his Christian faith, Gregory Kapfhammer's endeavors are guided by the following professional principles:
 
