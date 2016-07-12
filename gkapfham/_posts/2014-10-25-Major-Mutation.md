@@ -1,7 +1,7 @@
 ---
-title: Using Major to perform mutation analysis of java programs
+title: Using Major to perform mutation analysis of Java programs
 layout: blog_n
-categories: [blog, research, testing, mutation, Java]
+categories: [research, testing, mutation, Java]
 authors: Gregory M. Kapfhammer
 mapped: true
 header: false
@@ -47,7 +47,8 @@ $ javac -XMutator:ALL MyFile.java
 [Rene Just](https://people.cs.umass.edu/~rjust/), the creator of Major, has taken great care to ensure that it is fast,
 allowing mutation testing to be applied to large real-world programs. Major v1.1.8, for the Java 7 programming language,
 is now available for download&mdash;check Major's site so that you can download the tool and get started with mutation
-analysis for your JUnit test suites!
+analysis for your JUnit test suites! If you are interested in Major, then you may also want to investigate the use of
+[PIT](http://pitest.org/), another mutation testing tool for programs written in the Java language.
 
 ### References
 
