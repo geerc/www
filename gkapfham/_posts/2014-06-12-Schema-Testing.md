@@ -10,8 +10,8 @@ paper: false
 backup: ../../../../../../../
 ---
 
-## {{ page.title }}
-### <em>{{ page.date | date_to_long_string }}</em>
+# {{ page.title }}
+## <em>{{ page.date | date_to_long_string }}</em>
 
 <a title="Iron Gate, missing Fleur de Lis" href="http://flickr.com/photos/mezzoblue/42717172"><img class="img-responsive-tight" src="https://farm1.staticflickr.com/22/42717172_1d50d09993_z.jpg?zz=1" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">creative commons licensed ( BY-NC-ND )</a> <a title="Iron Gate, missing Fleur de Lis" href="http://flickr.com/photos/mezzoblue/42717172">flickr photo</a> shared by <a href="http://flickr.com/people/mezzoblue">mezzoblue</a></small>
 
