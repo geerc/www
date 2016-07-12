@@ -1,7 +1,7 @@
 ---
-title: How Do You Test a Relational Database's Schema?
+title: How do you test a relational database's schema?
 layout: blog_n
-categories: [blog, research, testing, database]
+categories: [research, testing, database]
 authors: Gregory M. Kapfhammer
 mapped: true
 header: false
@@ -27,8 +27,8 @@ incurred.
 
 In this important area of testing for relational database schemas, there are many challenges that researchers and
 developers need to address. Some recent advances in this field have focused on automatically generating test data to
-exercise the constraints with the database schema and assessing the effectiveness of the generated data through the use
-of mutation analysis.
+exercise the constraints in the database schema and assessing the effectiveness of the generated data through the use of
+mutation analysis.
 
 The paper {% cite Kapfhammer2013 %} introduces a search-based technique for generating database table data with the
 intention of exercising the integrity constraints placed on table columns. The testing tool described in this paper,
@@ -37,17 +37,18 @@ constraints in the database schema.
 
 Of course, the process of automatically generating test data raises the question "well, how good is this data?" The
 paper {% cite Wright2013 %} introduces efficient techniques for answering this question.  The presented mutation
-analysis methods insert simple faults into the schema and check to see whether or not the test cases can find them.
-Intuitively, the tests are not very good if they can not find these faults!
+analysis methods insert simple faults into the database's schema and check to see whether or not the test cases can find
+them. Intuitively, the tests are not very good if they can not find these faults!
 
 In recent empirical studies designed to evaluate the effectiveness of SchemaAnalyst we compared it to a popular tool for
 generating table data, [DBMonster](http://dbmonster.sourceforge.net/). With competitive or faster data generation times,
 our method outperforms DBMonster in terms of both the schema constraint coverage and mutation adequacy scores.
 
 Interested in learning more about this topic? Since this blog post was first written, my colleagues and students and I
-have published several additional papers about the testing of relational database schemas, with the most noteworthy
-one being {% cite McMinn2015 %}. If you are interested in using SchemaAnalyst to test your own database schema, then please
-download and use the tool, which is now available from [SchemaAnalyst](http://schemaanalyst.org/)'s GitHub site.
+have published several additional papers about the testing of relational database schemas, with the most noteworthy one
+being {% cite McMinn2015 %}. If you are interested in using SchemaAnalyst to test your own database schema, then please
+download and use the tool, which is now available from the GitHub site
+[schemaanalyst-team/schemaanalyst](https://github.com/schemaanalyst-team/schemaanalyst).
 
 ### References
 
