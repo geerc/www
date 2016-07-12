@@ -1,7 +1,7 @@
 ---
-title: Is Big Data a Big Deal? Not Without Correct Software!
+title: Is big data a big deal? Not without correct software!
 layout: blog_n
-categories: [blog, research, testing, database]
+categories: [research, testing, database]
 authors: Gregory M. Kapfhammer
 mapped: true
 header: false
@@ -10,8 +10,8 @@ paper: false
 backup: ../../../../../../../
 ---
 
-## {{ page.title }}
-### <em>{{ page.date | date_to_long_string }}</em>
+# {{ page.title }}
+## <em>{{ page.date | date_to_long_string }}</em>
 
 <a title="vases" href="http://flickr.com/photos/mybloodyself/2428544365"><img class="img-responsive-tight" src="http://farm4.static.flickr.com/3094/2428544365_4fdd69c25d_z.jpg" /></a><br /><small><a title="vases" href="http://flickr.com/photos/mybloodyself/2428544365">flickr photo</a> shared by <a href="http://flickr.com/people/mybloodyself">danmachold</a> under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons ( BY-NC-SA ) license</a> </small>
 
