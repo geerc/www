@@ -56,7 +56,7 @@ professional development.
 in all aspects of personal and professional development.
 
 **Principle 3 (Relentless Effort)**: Unless the opportunity cost of further effort is prohibitively high, work hard
-towards the accomplishment of the goals you set—and help others to do the same.
+towards the accomplishment of the goals you set &mdash; and help others to do the same.
 
 **Principle 4 (Realistic Expectations)**: Recognize that all people, including yourself, have fundamental strengths and
 weaknesses.  Identify the strengths in your own life and the lives of others and plan activities so as to maximize the
