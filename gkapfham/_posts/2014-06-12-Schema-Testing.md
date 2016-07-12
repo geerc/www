@@ -17,7 +17,7 @@ backup: ../../../../../../../
 
 Database applications are very common and there has been much attention to testing them and the individual database
 management systems with which they interact. Yet, there has been very little work devoted to testing arguably the most
-important artifact involving an application supported by a relational database&mdash;the underlying schema!
+important artifact involving an application supported by a relational database &mdash; the underlying schema!
 
 The development of a database schema is a process open to flaws like any stage of application development. Examples of
 potential flaws in database schemas include incomplete primary keys, incorrect foreign keys, and omissions of NOT NULL
