@@ -81,9 +81,11 @@
           <p>{{ page.entry.abstract }}</p>
           {% endif %}
 
+          {% if page.entry.nodownload != 'true' %}
           <h3>Resources</h3>
           <!-- display the paper download link for the paper (it is always based on the key of the specific entry) -->
           <p><a class="major" href = "{{site.baseurl}}download/research/papers/key/{{page.entry.key}}-paper.pdf"><i class="fa fa-download"></i> Paper</a></p>
+          {% endif %}
 
           <!-- display the presentation download link for the paper (which will either be specified or be based on the key) -->
           <!-- there is a hard-coded presentation in the bibtex file and thus this should be displayed -->
