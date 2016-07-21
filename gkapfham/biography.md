@@ -42,7 +42,7 @@ Kapfhammer's paper {% cite Conrad2010a %} was also recognized as the best paper 
 Engineering Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM SIGEVO Genetic and
 Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Additionally, Kapfhammer's
 presentation for {% cite Kapfhammer2016 %} won the best presentation award at the [2016 International Workshop on
-Search-Based Software Testeing](https://cse.sc.edu/~ggay/sbst2016/).  Finally, he frequently serves the research
+Search-Based Software Testing](https://cse.sc.edu/~ggay/sbst2016/).  Finally, he frequently serves the research
 community as a reviewer for conferences and journals, technical program committee member, conference program co-chair,
 workshop co-chair, workshop program co-chair, and review panelist at the U.S. National Science Foundation.
 
