@@ -14,14 +14,43 @@
   {% else %}
   <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{entry.key}}-presentation.pdf">{{entry.title}}</a></li>
   {% endif %}
+
+  {% assign counter = 0 %}
+  {% assign authors_words = entry.author | split: ' ' %}
+  {% assign authors_words_final = entry.author | split: ' ' %}
+  {% for author_word in author_words %}
+  {% if author_word == 'and' %}
+  {{ author{authors_words_final[counter] = '&'}}}
+  {% endif %}
+  {% assign counter = counter + 1 %}
+  {% endfor %}
+  {% assign counter = 0 %}
+
   <div class="major">{{entry.author | replace: 'and', '&'}}, {{entry.year}}</div>
+  <div class="major">{{authors_words_final | join: ""}}, {{entry.year}}</div>
+  hi!
   <!-- always display the author(s) of the presentation -->
   <p>
 <!-- this is a paper and thus we always display the title of the paper and link to the details page -->
 {% else %}
 <li><i class="fa-li fa fa-file-text-o fa-lg"></i>
   <a class="major" href="{{site.baseurl}}research/papers/{{entry.key}}">{{entry.title}}</a> </li>
+
+  {% assign counter = 0 %}
+  {% assign authors_words = entry.author | split: ' ' %}
+  {% assign authors_words_final = "" | split:"|" %}
+  {% for author_word in authors_words %}
+  {% if author_word == "and" %}
+  {% assign authors_words_final = authors_words_final | push: "&" %}
+  {% else %}
+  {% assign authors_words_final = authors_words_final | push: author_word %}
+  {% endif %}
+  {% assign counter = counter | plus: 1 %}
+  {% endfor %}
+  {% assign counter = 0 %}
+
   <div class="major">{{entry.author | replace: 'and', '&'}}, {{entry.year}}</div>
+  <div class="major">{{authors_words_final | join: " "}}, {{entry.year}}</div>
 <!-- always display the author(s) of the paper -->
 <p>
 {% endif %}
