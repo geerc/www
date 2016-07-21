@@ -17,16 +17,17 @@
 
   {% assign counter = 0 %}
   {% assign authors_words = entry.author | split: ' ' %}
-  {% assign authors_words_final = entry.author | split: ' ' %}
-  {% for author_word in author_words %}
-  {% if author_word == 'and' %}
-  {{ author{authors_words_final[counter] = '&'}}}
+  {% assign authors_words_final = "" | split:"|" %}
+  {% for author_word in authors_words %}
+  {% if author_word == "and" %}
+  {% assign authors_words_final = authors_words_final | push: "&" %}
+  {% else %}
+  {% assign authors_words_final = authors_words_final | push: author_word %}
   {% endif %}
-  {% assign counter = counter + 1 %}
+  {% assign counter = counter | plus: 1 %}
   {% endfor %}
   {% assign counter = 0 %}
 
-  <div class="major">{{entry.author | replace: 'and', '&'}}, {{entry.year}}</div>
   <div class="major">{{authors_words_final | join: ""}}, {{entry.year}}</div>
   hi!
   <!-- always display the author(s) of the presentation -->
@@ -49,7 +50,6 @@
   {% endfor %}
   {% assign counter = 0 %}
 
-  <div class="major">{{entry.author | replace: 'and', '&'}}, {{entry.year}}</div>
   <div class="major">{{authors_words_final | join: " "}}, {{entry.year}}</div>
 <!-- always display the author(s) of the paper -->
 <p>
