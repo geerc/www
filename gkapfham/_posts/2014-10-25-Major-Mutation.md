@@ -1,7 +1,7 @@
 ---
 title: Using Major to perform mutation analysis of Java programs
 layout: blog_n
-categories: [research, testing, mutation, Java]
+categories: [testing, mutation, Java]
 authors: Gregory M. Kapfhammer
 mapped: true
 header: false

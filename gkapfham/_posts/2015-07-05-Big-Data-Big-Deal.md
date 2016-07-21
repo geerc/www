@@ -1,7 +1,7 @@
 ---
 title: Is big data a big deal? Not without correct software!
 layout: blog_n
-categories: [research, testing, database]
+categories: [testing, database, ideas]
 authors: Gregory M. Kapfhammer
 mapped: true
 header: false

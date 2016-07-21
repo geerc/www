@@ -1,7 +1,7 @@
 ---
 title: Technical writing with LaTeX, Vim, and Git
 layout: blog_n
-categories: [research, writing, vim, latex]
+categories: [writing, vim, latex]
 authors: Gregory M. Kapfhammer
 mapped: true
 header: false

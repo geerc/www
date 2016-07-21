@@ -1,7 +1,7 @@
 ---
 title: How do you test a relational database's schema?
 layout: blog_n
-categories: [research, testing, database]
+categories: [testing, database, tool]
 authors: Gregory M. Kapfhammer
 mapped: true
 header: false
