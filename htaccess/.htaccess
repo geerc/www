@@ -1,0 +1,3 @@
+RewriteEngine on
+Redirect 301 /~gkapfham/index.html http://www.cs.allegheny.edu/sites/gkapfham/
+Redirect 301 research/publish/software_testing_chapter.pdf http://www.cs.allegheny.edu/sites/gkapfham/download/research/papers/key/Kapfhammer2004-paper.pdf
