@@ -1,3 +1,16 @@
+# turn on the RewriteEngine
 RewriteEngine on
+
+# main direct so that the old site is no longer accessed
 Redirect 301 /~gkapfham/index.html http://www.cs.allegheny.edu/sites/gkapfham/
-Redirect 301 research/publish/software_testing_chapter.pdf http://www.cs.allegheny.edu/sites/gkapfham/download/research/papers/key/Kapfhammer2004-paper.pdf
+
+# redirects for the papers
+
+Redirect 301 /~gkapfham/research/publish/burdette_per_paper.pdf http://www.cs.allegheny.edu/sites/gkapfham/download/research/papers/key/Burdette2012-paper.pdf
+Redirect 301 /~gkapfham/research/publish/kapfhammer_regression_testing_chapter.pdf http://www.cs.allegheny.edu/sites/gkapfham/download/research/papers/key/Kapfhammer2010-paper.pdf
+Redirect 301 /~gkapfham/research/publish/rams2_final.pdf http://www.cs.allegheny.edu/sites/gkapfham/download/research/papers/key/Haddox2002-paper.pdf
+Redirect 301 /~gkapfham/research/publish/software_testing_chapter.pdf http://www.cs.allegheny.edu/sites/gkapfham/download/research/papers/key/Kapfhammer2004-paper.pdf
+
+# redirects for the presentations
+
+Redirect 301 /sites/gkapfham/download/research/presentations/2008-02-01-the-theory-and-practice-of-software-testing:-can-we-test-it,-yes-we-can.pdf http://www.cs.allegheny.edu/sites/gkapfham/download/research/presentations/key/Kapfhammer2008pa-presentation.pdf
