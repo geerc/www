@@ -28,8 +28,7 @@
   {% endfor %}
   {% assign counter = 0 %}
 
-  <div class="major">{{authors_words_final | join: ""}}, {{entry.year}}</div>
-  hi!
+  <div class="major">{{authors_words_final | join: " "}}, {{entry.year}}</div>
   <!-- always display the author(s) of the presentation -->
   <p>
 <!-- this is a paper and thus we always display the title of the paper and link to the details page -->
