@@ -443,6 +443,12 @@ h6,
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
 }
 h1 {
     color: #707880;
