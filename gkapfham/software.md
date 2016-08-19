@@ -20,10 +20,13 @@ backup: ../../../
 Extensible framework for the search-based alternating variable method</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kinneerc/ExpOse/">expose</a>:
-Perform doubling experiments to infer actual-worst-case time complexity</li>
+Doubling experiments to infer actual-worst-case time complexity</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="http://www.mutation-testing.org/">major</a>: Easy and
 scalable mutation testing for the Java programming language</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/mccurdyc/mrstudyr">mrstudyr</a>:
+Retrospectively study mutation testing techniques</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/redecheck/redecheck-tool">redecheck</a>: Automatically test responsively designed web sites</li>
