@@ -45,6 +45,9 @@ href="https://github.com/gkapfham/curriculum-vitae/">curriculum-vitae</a>: A cur
 moderntimeline</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/AVMf/avm-bibliography">avm-bibliography</a>: References on search-based methods</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/research-bibliography">research-bibliography</a>: References for all of my research
 deliverables</li>
 
