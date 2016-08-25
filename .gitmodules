@@ -73,3 +73,6 @@
 [submodule "gkapfham/_bibliography"]
 	path = gkapfham/_bibliography
 	url = git@bitbucket.org:gkapfham/research-bibliography.git
+[submodule "gkapfham/teaching/cs111F2016/provide"]
+	path = gkapfham/teaching/cs111F2016/provide
+	url = git@bitbucket.org:gkapfham/cs111F2016.git
