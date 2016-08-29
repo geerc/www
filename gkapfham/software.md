@@ -120,6 +120,12 @@ AST 2016 paper</li>
 <ul class="fa-ul">
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/cs111F2016">cs111F2016</a>: Course content for Computer Science 111 Fall 2016</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/cs112F2016">cs112F2016</a>: Course content for Computer Science 112 Fall 2016</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/cs111S2016">cs111S2016</a>: Course content for Computer Science 111 Spring 2016</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
