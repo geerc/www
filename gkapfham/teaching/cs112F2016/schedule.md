@@ -27,6 +27,7 @@ backup: ../../../
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_whystudycomputerscience.html">Why Study Computer Science?</a>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_lessons_from_google.html">Lessons from Google &mdash; And Each Other!</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter1.html">Chapter 1: Review of Computational Constructs</a>
 
 </ul>
 
