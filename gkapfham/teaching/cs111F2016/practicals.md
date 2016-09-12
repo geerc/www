@@ -24,5 +24,9 @@ Assignment One: Introduction to the Use of Version Control</a> <p>Learn more abo
 Assignment Two: Exploring Console-Based Output and Escape Characters</a> <p>Learn how to create formatted output with a
 Java program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2016/provide/practicals/practical03/cs111F2016_practical03.pdf">Practical
+Assignment Three: Finding and Fixing Defects in Programs</a> <p>Work with a partner to practice explaining and debugging
+a Java program.</p>
+
 </ul>
 
