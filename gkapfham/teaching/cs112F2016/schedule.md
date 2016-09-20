@@ -39,3 +39,10 @@ backup: ../../../
 - <em>Data Structures and Algorithms in Java</em>, Goodrich, and Tamassia, and Goldwasser
     - Sections 1.9.3 - 1.9.5
     - Sections 3.1 and 3.6
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter1_sd.html">Chapter 1: Software Development Practices</a>
+
+</ul>
+
