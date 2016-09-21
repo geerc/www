@@ -28,7 +28,7 @@ Java program.</p>
 Assignment Three: Finding and Fixing Defects in Programs</a> <p>Work with a partner to practice explaining and debugging
 a Java program.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs111f2016/provide/practicals/practical04/cs111F2016_practical04.pdf">Practical
+<li><a href="{{site.baseurl}}teaching/cs111F2016/provide/practicals/practical04/cs111F2016_practical04.pdf">Practical
 Assignment Four: Further Practice with Graphics and Expressions</a> <p>Use expressions with variables to create
 graphical output in Java.</p>
 
