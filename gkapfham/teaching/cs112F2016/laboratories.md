@@ -23,6 +23,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab3/cs112F2016_lab03.pdf">Laboratory Assignment Three: Evaluating the Performance of Array Reversal</a> <p>Conduct a full-featured empirical evaluation of an algorithm's performance.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab4/cs112F2016_lab04.pdf">Laboratory Assignment Four: Studying the Efficiency of Sorting Algorithms</a> <p>Experimentally investigate the performing of sorting arrays in Java.</p>
+
 </ul>
 
 
