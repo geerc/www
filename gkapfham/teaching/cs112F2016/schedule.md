@@ -36,10 +36,10 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Data Structures and Algorithms in Java</em>, Goodrich, and Tamassia, and Goldwasser
+- <em>Data Structures and Algorithms in Java</em>, Goodrich, Tamassia, and Goldwasser
     - Sections 1.9.3 - 1.9.5
     - Section 3.1
-    - Sections 3.5 - 3.6.1
+    - Sections 3.5 - 3.6.1 (array-based content)
 
 <ul>
 
@@ -48,3 +48,11 @@ backup: ../../../
 
 </ul>
 
+### Module Three: Analysis of Program Performance
+
+**Reading Assignments**
+
+- <em>Data Structures and Algorithms in Java</em>, Goodrich, Tamassia, and Goldwasser
+    - Section 1.9.2
+    - Sections 4.1 - 4.3
+    - Sections 5.1 - 5.5
