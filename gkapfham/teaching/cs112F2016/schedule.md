@@ -56,3 +56,10 @@ backup: ../../../
     - Section 1.9.2
     - Sections 4.1 - 4.3
     - Sections 5.1 - 5.5
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter4.html">Chapter 4: Algorithm Analysis</a>
+
+</ul>
+
