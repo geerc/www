@@ -25,6 +25,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab4/cs112F2016_lab04.pdf">Laboratory Assignment Four: Studying the Efficiency of Sorting Algorithms</a> <p>Experimentally investigate the performing of sorting arrays in Java.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab5/cs112F2016_lab05.pdf">Laboratory Assignment Five: Studying the Efficiency of Incremental String Building</a> <p>Study the different ways in which you can evaluate algorithm performance.</p>
+
 </ul>
 
 
