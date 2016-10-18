@@ -60,6 +60,7 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter4.html">Chapter 4: Algorithm Analysis</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter5.html">Chapter 5: Recursion</a>
 
 </ul>
 
