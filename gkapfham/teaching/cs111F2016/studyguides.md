@@ -21,11 +21,12 @@ backup: ../../../
 One: Introduction to Computation and Programming (Quiz)</a> <p>Review the basic and introductory content for Computer
 Science 111.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2016/provide/studyguides/exam1/cs111F2016_studyguide_exam01.pdf">Study Guide
+Two: Fundamentals of Procedural and Object-Oriented Programming (Examination)</a> <p>Review the introductory content for
+the first examination in Computer Science 111.</p>
+
 </ul>
 
-{% comment %} <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/studyguides/exam1/cs111S2016_studyguide_exam01.pdf">Study Guide {% endcomment %}
-{% comment %} Two: Fundamentals of Procedural and Object-Oriented Programming (Examination)</a> <p>Review the introductory content for {% endcomment %}
-{% comment %} the first examination in Computer Science 111.</p> {% endcomment %}
 
 {% comment %} <li><a href="{{site.baseurl}}teaching/cs111S2016/provide/studyguides/quiz2/cs111S2016_studyguide_quiz02.pdf">Study Guide {% endcomment %}
 {% comment %} Three: Iteration Constructs and Arrays (Quiz)</a> <p>Review the content about iteration and arrays for the second quiz {% endcomment %}
