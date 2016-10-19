@@ -36,5 +36,9 @@ graphical output in Java.</p>
 Assignment Five: Creatively Combining User Input and Variables</a> <p>Make your own "MadLibs" program using the Scanner
 class.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2016/provide/practicals/practical06/cs111F2016_practical06.pdf">Practical
+Assignment Six: Using Conditional Logic and Iteration Constructs</a> <p>Create your own "Guess My Number" game as a
+Java program.</p>
+
 </ul>
 
