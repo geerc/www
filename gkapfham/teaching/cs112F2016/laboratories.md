@@ -27,7 +27,9 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab5/cs112F2016_lab05.pdf">Laboratory Assignment Five: Studying the Efficiency of Incremental String Building</a> <p>Study the different ways in which you can evaluate algorithm performance.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab6/cs112F2016_lab06.pdf">Laboratory Assignment Six: Doubling Experiments for Inferring Time Complexities</a> <p>Using an open-source software tool to infer an algorithm's actual-worst-case time complexity.</p>
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab6/cs112F2016_lab06.pdf">Laboratory Assignment Six: Doubling Experiments for Inferring Time Complexities</a> <p>Use an open-source software tool to infer an algorithm's actual-worst-case time complexity.</p>
+
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab7/cs112F2016_lab07.pdf">Laboratory Assignment Seven: Studying the Performance of Iteration and Recursion</a> <p>Conduct and report on your own performance evaluation experiments of recursive algorithms.</p>
 
 </ul>
 
