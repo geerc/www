@@ -31,5 +31,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2016/provide/labs/lab7/cs111F2016_lab07.pdf">Laboratory Assignment Seven: Fixing and Extending Computations in Java Classes</a> <p>Participate in a "bug hunt" to collaboratively find and fix defects in a Java program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2016/provide/labs/lab8/cs111F2016_lab08.pdf">Laboratory Assignment Eight: Creating a Board Checker for a Popular Game</a> <p>Create your own Java classes to perform checking for the Sudoku puzzle.</p>
+
 </ul>
 
