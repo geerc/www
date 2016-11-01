@@ -68,7 +68,7 @@ backup: ../../../
 **Reading Assignments**
 
 - <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia
-    - Section 3.1- 3.4
+    - Section 3.1 - 3.4
     - Sections 6.1 - 6.3
 
 **Discussion and Review Slides**
