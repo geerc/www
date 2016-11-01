@@ -31,6 +31,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab7/cs112F2016_lab07.pdf">Laboratory Assignment Seven: Studying the Performance of Iteration and Recursion</a> <p>Conduct and report on your own performance evaluation experiments of recursive algorithms.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab8/cs112F2016_lab08.pdf">Laboratory Assignment Eight: Performance Evaluation of a Security Program</a> <p>Leverage your knowledge of prior content to implement and evaluate a password checking program.</p>
+
 </ul>
 
 
