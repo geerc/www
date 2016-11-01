@@ -44,7 +44,7 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter1_sd.html">Chapter 1: Software Development Practices</a>
-<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter3.html">Chapter 3: Fundamental Data Structures</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter3.html">Chapter 3: Arrays</a>
 
 </ul>
 
@@ -64,3 +64,18 @@ backup: ../../../
 
 </ul>
 
+### Module Four: Linked Lists, Stacks, and Queues
+
+**Reading Assignments**
+
+- <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia
+    - Section 3.2 - 3.4
+    - Sections 6.1 - 6.3
+
+**Discussion and Review Slides**
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter3_ll.html">Chapter 3: Linked Lists</a>
+
+</ul>
