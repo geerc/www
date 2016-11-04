@@ -40,5 +40,9 @@ class.</p>
 Assignment Six: Using Conditional Logic and Iteration Constructs</a> <p>Create your own "Guess My Number" game as a
 Java program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2016/provide/practicals/practical07/cs111F2016_practical07.pdf">Practical
+Assignment Seven: Further Practice in Using Conditional Logic</a> <p>Implement a Java program that determines when events
+occur on a calendar.</p>
+
 </ul>
 
