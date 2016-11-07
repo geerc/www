@@ -33,6 +33,8 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab8/cs112F2016_lab08.pdf">Laboratory Assignment Eight: Performance Evaluation of a Security Program</a> <p>Leverage your knowledge of prior content to implement and evaluate a password checking program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab9/cs112F2016_lab09.pdf">Laboratory Assignment Nine: Performing Arithmetic Interpretation with a Stack</a> <p>Create a program that uses the stack abstract data type.</p>
+
 </ul>
 
 
