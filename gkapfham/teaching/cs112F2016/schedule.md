@@ -77,5 +77,6 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter3_ll.html">Chapter 3: Linked Lists</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter6.html">Chapter 6: Stacks and Queues</a>
 
 </ul>
