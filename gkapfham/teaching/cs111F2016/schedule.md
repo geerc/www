@@ -67,11 +67,12 @@ backup: ../../../
 
 </ul>
 
-### Module Four: Advanced Topics
+### Module Four: Advanced Topics in Programming
 
 **Reading Assignments**
 
 - <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 11
+- <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 12
 
 <ul>
 
