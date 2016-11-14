@@ -35,6 +35,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab9/cs112F2016_lab09.pdf">Laboratory Assignment Nine: Performing Arithmetic Interpretation with a Stack</a> <p>Create a program that uses the stack abstract data type.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab10/cs112F2016_lab10.pdf">Laboratory Assignment Ten: A Queue-Based Solution to the Josephus Problem</a> <p>Implement and evaluate a program that uses the queue abstract data type.</p>
+
 </ul>
-
-
