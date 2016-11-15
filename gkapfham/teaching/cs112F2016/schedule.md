@@ -68,7 +68,7 @@ backup: ../../../
 
 **Reading Assignments**
 
-- <em>Data Structures and Algorithms in Java</em>, Goodrich and Tamassia
+- <em>Data Structures and Algorithms in Java</em>, Goodrich, Tamassia, and Goldwasser
     - Section 3.2 - 3.4
     - Sections 6.1 - 6.3
 
@@ -78,5 +78,20 @@ backup: ../../../
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter3_ll.html">Chapter 3: Linked Lists</a>
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter6.html">Chapter 6: Stacks and Queues</a>
+
+</ul>
+
+### Module Four: Array Lists, Iterators, and Trees
+
+**Reading Assignments**
+
+- <em>Data Structures and Algorithms in Java</em>, Goodrich, Tamassia, and Goldwasser
+    - Section 7.1 - 7.5
+
+**Discussion and Review Slides**
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter7.html">Chapter 7: Lists and Iterators</a>
 
 </ul>
