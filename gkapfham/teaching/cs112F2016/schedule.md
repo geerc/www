@@ -87,6 +87,7 @@ backup: ../../../
 
 - <em>Data Structures and Algorithms in Java</em>, Goodrich, Tamassia, and Goldwasser
     - Section 7.1 - 7.5
+    - Section 8.1 - 8.4
 
 **Discussion and Review Slides**
 
