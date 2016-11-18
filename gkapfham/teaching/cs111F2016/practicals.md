@@ -48,5 +48,9 @@ occur on a calendar.</p>
 Assignment Eight: Using Arrays and Iteration to Create Music</a> <p>Use the JFugue library to create music with a Java
 program.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs111F2016/provide/practicals/practical09/cs111F2016_practical09.pdf">Practical
+Assignment Nine: Using and Extending a Program that Throws Exceptions</a> <p>Learn more about how the Java programming language supports
+exception handling.</p>
+
 </ul>
 
