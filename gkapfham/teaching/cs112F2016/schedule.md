@@ -81,7 +81,7 @@ backup: ../../../
 
 </ul>
 
-### Module Four: Array Lists, Iterators, and Trees
+### Module Five: Array Lists, Iterators, and Trees
 
 **Reading Assignments**
 
