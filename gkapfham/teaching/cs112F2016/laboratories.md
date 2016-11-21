@@ -37,6 +37,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab10/cs112F2016_lab10.pdf">Laboratory Assignment Ten: A Queue-Based Solution to the Josephus Problem</a> <p>Implement and evaluate a program that uses the queue abstract data type.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab10/cs112F2016_lab11.pdf">Laboratory Assignment Eleven: Performance Evaluation of Java Collections</a> <p>Implement and use your own benchmarking framework for Java Collections.</p>
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab11/cs112F2016_lab11.pdf">Laboratory Assignment Eleven: Performance Evaluation of Java Collections</a> <p>Implement and use your own benchmarking framework for Java Collections.</p>
 
 </ul>
