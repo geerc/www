@@ -22,7 +22,7 @@ One: Introduction to Data Structures and Algorithm Analysis</a> <p>Review the ba
 Computer Science 112.</p>
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/studyguides/exam2/cs112F2016_studyguide_exam02.pdf">Study Guide
-Two: Lists, Stacks, and Queues</a> <p>Review the content about data structures for Computer Science 112.</p>
+Two: Implementation and Analysis of Lists, Stacks, and Queues</a> <p>Review the content about data structures for Computer Science 112.</p>
 
 </ul>
 
