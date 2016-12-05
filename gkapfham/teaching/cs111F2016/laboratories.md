@@ -39,7 +39,5 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111F2016/provide/labs/labfp/cs111F2016_fp.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development project.</p>
 
-<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/labfp/cs112F2016_fp.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development and experimentation.</p>
-
 </ul>
 
