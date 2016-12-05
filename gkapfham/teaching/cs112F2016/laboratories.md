@@ -39,4 +39,6 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/lab11/cs112F2016_lab11.pdf">Laboratory Assignment Eleven: Performance Evaluation of Java Collections</a> <p>Implement and use your own benchmarking framework for Java Collections.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/labs/labfp/cs112F2016_fp.pdf">Final Project Assignment: Real-World Applications of Computer Science</a> <p>Propose, conduct, and report on your own software development and experimentation.</p>
+
 </ul>
