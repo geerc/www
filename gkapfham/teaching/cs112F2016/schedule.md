@@ -94,5 +94,6 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter7.html">Chapter 7: Lists and Iterators</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs112F2016/provide/slides/cs112_chapter8.html">Chapter 8: Trees</a>
 
 </ul>
