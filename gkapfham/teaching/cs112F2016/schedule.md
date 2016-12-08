@@ -81,13 +81,14 @@ backup: ../../../
 
 </ul>
 
-### Module Five: Array Lists, Iterators, and Trees
+### Module Five: Array Lists, Iterators, Trees, and HashTables
 
 **Reading Assignments**
 
 - <em>Data Structures and Algorithms in Java</em>, Goodrich, Tamassia, and Goldwasser
     - Section 7.1 - 7.5
     - Section 8.1 - 8.4
+    - Section 10.1 - 12.2
 
 **Discussion and Review Slides**
 
