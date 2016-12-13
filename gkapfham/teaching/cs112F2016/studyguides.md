@@ -24,10 +24,7 @@ Computer Science 112.</p>
 <li><a href="{{site.baseurl}}teaching/cs112F2016/provide/studyguides/exam2/cs112F2016_studyguide_exam02.pdf">Study Guide
 Two: Implementation and Analysis of Lists, Stacks, and Queues</a> <p>Review the content about data structures for Computer Science 112.</p>
 
+<li><a href="{{site.baseurl}}teaching/cs112F2016/provide/studyguides/exam3/cs112F2016_studyguide_exam03.pdf">Study Guide
+Three: Final Examination for Computer Science 112</a> <p>Review all of the content covered in Computer Science 112</p>
+
 </ul>
-
-
-{% comment %} <li><a href="{{site.baseurl}}teaching/cs441S2016/provide/studyguides/exam3/cs441S2016_studyguide_exam03.pdf">Study Guide {% endcomment %}
-{% comment %} Three: Final Examination for Distributed Systems</a> <p>Review all of the content covered in Computer Science 441.</p> {% endcomment %}
-
-
