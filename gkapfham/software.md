@@ -169,6 +169,10 @@ href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration fi
 
 <ul class="fa-ul">
 
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/artur-shaik/vim-javacomplete2/issues/277">artur-shaik/vim-javacomplete2 Issue #277</a>: Errors when starting Vim or Neovim with Java file</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/junegunn/fzf/issues/712">junegunn/fzf Issue #712</a>: Setting foreground without background</li>
+
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/176">lervag/vimtex Issue #176</a>: Latexmk crashes when loading second LaTeX file</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/lervag/vimtex/issues/177">lervag/vimtex Issue #177</a>: Many Zathura windows in a multi-file project</li>
