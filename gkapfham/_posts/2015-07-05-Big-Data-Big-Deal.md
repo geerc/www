@@ -17,9 +17,10 @@ backup: ../../../../../../../
 
 This statement was written to support my participation in a panel at the *27th International Conference on Software
 Engineering and Knowledge Engineering*.  To view the accompanying slides for this presentation, please refer to {% cite
-Kapfhammer2015a %}. If you want to learn more about new work that my colleagues and students and I are conducting in
-the area of efficiently testing data-centric applications, please read {% cite Kinneer2015 %} and {% cite Kinneer2015a
-%}, two papers that were also presented at the same conference.
+Kapfhammer2015a %}. <a name="Kapfhammer2015a-return"></a> If you want to learn more about new work that my colleagues
+and students and I are conducting in the area of efficiently testing data-centric applications, please read {% cite
+Kinneer2015 %} and {% cite Kinneer2015a %}, <a name="Kinneer2015-return"></a> <a name="Kinneer2015a-return"></a> two
+papers that were also presented at the same conference.
 
 Big data analytics software allows researchers and practitioners to create descriptive models and make predictions.
 Often characterized by the "three Vs" of volume, velocity, and variety, big data systems must respectively handle large
