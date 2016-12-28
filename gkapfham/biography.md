@@ -36,24 +36,26 @@ of students and colleagues, Kapfhammer pursues research that results in award-wi
 [papers]({{site.baseurl}}research/papers/), oft-complimented [presentations]({{site.baseurl}}research/presentations/),
 and useful free and open-source [software]({{site.baseurl}}software/).
 
-The paper {% cite Kapfhammer2003 %} was selected to receive the ACM SIGSOFT Distinguished Paper Award at the [2003 ACM
-SIGSOFT Foundations of Software Engineering Conference (ESEC/FSE 2003)](http://esecfse.cs.helsinki.fi/).  Gregory
-Kapfhammer's paper {% cite Conrad2010a %} was also recognized as the best paper in the [Search-Based Software
-Engineering Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM SIGEVO Genetic and
-Evolutionary Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Additionally, Kapfhammer's
-presentation for {% cite Kapfhammer2016 %} won the best presentation award at the [2016 International Workshop on
-Search-Based Software Testing](https://cse.sc.edu/~ggay/sbst2016/).  Finally, he frequently serves the research
-community as a reviewer for conferences and journals, technical program committee member, conference program co-chair,
-workshop co-chair, workshop program co-chair, and review panelist at the U.S. National Science Foundation.
+The paper {% cite Kapfhammer2003 %} <a name="Kapfhammer2003-return"></a> was selected to receive the ACM SIGSOFT
+Distinguished Paper Award at the [2003 ACM SIGSOFT Foundations of Software Engineering Conference (ESEC/FSE
+2003)](http://esecfse.cs.helsinki.fi/). Gregory Kapfhammer's paper {% cite Conrad2010a %} <a
+name="Conrad2010a-return"></a> was also recognized as the best paper in the [Search-Based Software Engineering
+Track](http://www.sigevo.org/gecco-2010/organizers-tracks.html#sbse) of the [2010 ACM SIGEVO Genetic and Evolutionary
+Computation Conference (GECCO 2010)](http://www.sigevo.org/gecco-2010/). Additionally, Kapfhammer's presentation for {%
+cite Kapfhammer2016 %} <a name="Kapfhammer2016-return"></a> won the best presentation award at the [2016 International
+Workshop on Search-Based Software Testing](https://cse.sc.edu/~ggay/sbst2016/). Finally, he frequently serves the
+research community as a reviewer for conferences and journals, technical program committee member, conference program
+co-chair, workshop co-chair, workshop program co-chair, and review panelist at the U.S. National Science Foundation.
 
-As an outworking of his Christian faith, Gregory Kapfhammer's endeavors are guided by the following professional principles:
+As an outworking of his Christian faith, Gregory Kapfhammer's endeavors are guided by the following professional
+principles:
 
-<b>Principle 1 (Selfless Service)</b>: Focus on the needs of your students and colleagues before considering your own. Commit to
-respectfully serving others even when your actions are unlikely to be noticed, rewarded, or beneficial to your own
-professional development.
+<b>Principle 1 (Selfless Service)</b>: Focus on the needs of your students and colleagues before considering your own.
+Commit to respectfully serving others even when your actions are unlikely to be noticed, rewarded, or beneficial to your
+own professional development.
 
-<b>Principle 2 (Absolute Excellence)</b>: Devote yourself and encourage others to commit themselves to uncompromising excellence
-in all aspects of personal and professional development.
+<b>Principle 2 (Absolute Excellence)</b>: Devote yourself and encourage others to commit themselves to uncompromising
+excellence in all aspects of personal and professional development.
 
 **Principle 3 (Relentless Effort)**: Unless the opportunity cost of further effort is prohibitively high, work hard
 towards the accomplishment of the goals you set &mdash; and help others to do the same.
