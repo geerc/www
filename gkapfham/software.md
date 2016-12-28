@@ -85,7 +85,15 @@ href="https://github.com/gkapfham/per2012-paper">per2012-paper</a>: Source code 
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/mccurdyc/icsme2016-presentation">icsme2016-presentation</a>: Slides for the presentation of an
-ICSME 2016 paper</li>
+ICSME 2016 tool paper</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/schemaanalyst/icsme2016-tool-presentation">icsme2016-tool-presentation</a>: Slides for the
+presentation of an ICSME 2016 tool paper</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/AVMf/ssbse2016-presentation">ssbse2016-presentation</a>: Slides for the
+presentation of an SSBSE 2016 paper</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="">sbst2016-presentation</a>: Slides for the
 presentation of an SBST 2016 paper</li>
