@@ -95,8 +95,9 @@ presentation of an ICSME 2016 tool paper</li>
 href="https://github.com/AVMf/ssbse2016-presentation">ssbse2016-presentation</a>: Slides for the
 presentation of an SSBSE 2016 paper</li>
 
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="">sbst2016-presentation</a>: Slides for the
-presentation of an SBST 2016 paper</li>
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/gkapfham/sbst2016-presentation">sbst2016-presentation</a>: Slides for the presentation of an
+SBST 2016 paper</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/gkapfham/allegheny2015-presentation">allegheny2015-presentation</a>: Slides for a talk at
