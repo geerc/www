@@ -17,7 +17,7 @@ backup: ../../../../../../../../
 
 If you are like me, then you may enjoy writing in a notebook with a fountain pen &mdash; if you have not tried writing
 this way, then borrow someone's fountain pen and try it! As much as I may like writing with a fountain pen, I still
-spend a substantial amount of time preparing technical papers and presnetations in
+spend a substantial amount of time preparing technical papers and presentations in
 [LaTeX](http://www.latex-project.org/) with the [Vim](http://www.vim.org/) text editor &mdash; a task I also find to be
 challenging and rewarding.
 
@@ -29,13 +29,13 @@ configured these plugins? Please study the source code of my `.vimrc` that is av
 [gkapfham/dotfiles](https://github.com/gkapfham/dotfiles).
 
 Yet, it is possible to use these tools to create nicely formatted and correct papers. As an example of a paper, please
-consider reading {% cite McMinn2016a %}, the source code of which is also available in a GitHub repository at
-[gkapfham/ast2016-paper](https://github.com/gkapfham/ast2016-paper). An example of a presentation that I prepated in
-LaTeX is {% cite Kapfhammer2015 %}, which you can study from its GitHub repository at
-[gkapfham/seke2015-presentation](https://github.com/gkapfham/seke2015-presentation). There's something else that is
-really nice about programming your papers and presentations in LaTeX &mdash; you can release their source code on GitHub
-to share with others an "instruction manual" that explains, in a step-by-step fashion, exactly how to produce a document
-just like yours!
+consider reading {% cite McMinn2016a %}, <a name="McMinn2016a-return"></a> the source code of which is also available in
+a GitHub repository at [gkapfham/ast2016-paper](https://github.com/gkapfham/ast2016-paper). An example of a presentation
+that I prepared in LaTeX is {% cite Kapfhammer2015 %}, <a name="Kapfhammer2015-return"></a> which you can study from its
+GitHub repository at [gkapfham/seke2015-presentation](https://github.com/gkapfham/seke2015-presentation). There's
+something else that is really nice about programming your papers and presentations in LaTeX &mdash; you can release
+their source code on GitHub to share with others an "instruction manual" that explains, in a step-by-step fashion,
+exactly how to produce a document just like yours!
 
 ### References
 
