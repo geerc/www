@@ -32,12 +32,13 @@ that can find many of these faults is judged to be a good one.
 While mutation analysis is simple and useful, historically, it has been difficult to apply to large-scale programs
 because it was computationally expensive.  This all changed with the design, implementation, and release of
 [Major](http://www.mutation-testing.org), a compiler-integrated mutation testing tool for the Java programming language.
-You can learn more about Major by reading {% cite Just2011a %} and {% cite Just2011b %}; more details about how Major makes
-mutation testing scalable through use of non-redundant mutation operators and test suite prioritization is available in
-{% cite Just2012b %}.
+You can learn more about Major by reading {% cite Just2011a %} <a name="Just2011a-return"></a> and {% cite Just2011b %};
+<a name="Just2011b-return"></a> more details about how Major makes mutation testing scalable through use of
+non-redundant mutation operators and test suite prioritization is available in {% cite Just2012b %}. <a
+name="Just2012b-return"></a>
 
-Starting to use the tool is as easy as changing the Java
-compiler that you use at build time, as demonstrated by the following line from Major's online documentation.
+Starting to use the tool is as easy as changing the Java compiler that you use at build time, as demonstrated by the
+following line from Major's online documentation.
 
 {% highlight shell %}
 $ javac -XMutator:ALL MyFile.java
