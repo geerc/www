@@ -52,7 +52,7 @@ href="https://github.com/gkapfham/research-bibliography">research-bibliography</
 deliverables</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
-href="https://github.com/gkapfham/schemaanalyst-bibliography">schemaanalyst-bibliography</a>: References on testing
+href="https://github.com/schemaanalyst/schemaanalyst-bibliography">schemaanalyst-bibliography</a>: References on testing
 database applications</li>
 
 </ul>
@@ -163,20 +163,6 @@ href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration fi
 
 </ul>
 
-## Legacy Software
-
-<ul class="fa-ul">
-
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/gelations/">gelations</a>: Test suite prioritization with order-based genetic algorithms</li>
-
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/modificare/">modificare</a>: Reproducible experimentation with regression testing techniques</li>
-
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/proteja/">proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
-
-<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/raise/">raise</a>: Comprehensive test suite execution and management</li>
-
-</ul>
-
 ## Defect Reports
 
 <ul class="fa-ul">
@@ -199,3 +185,16 @@ href="https://github.com/gkapfham/tmuxinators">tmuxinators</a>: Configuration fi
 
 </ul>
 
+## Legacy Software
+
+<ul class="fa-ul">
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/gelations/">gelations</a>: Test suite prioritization with order-based genetic algorithms</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/modificare/">modificare</a>: Reproducible experimentation with regression testing techniques</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/kauffmj/proteja/">proteja</a>: Easy-to-use techniques for test suite reduction and prioritization</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major" href="https://github.com/gkapfham/raise/">raise</a>: Comprehensive test suite execution and management</li>
+
+</ul>
