@@ -50,22 +50,8 @@
 
       <div class="row">
 
-        <div class="col-md-2 visible-md visible-lg sidebar">
-
-          <!-- <i class="fa fa&#45;book"></i>  <a class="navigate" href="http://scholar.google.com/citations?user=g0eDPjYAAAAJ">Scholar</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;twitter"></i>  <a class="navigate" href="https://twitter.com/GregKapfhammer">Twitter</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;linkedin"></i>  <a class="navigate" href="http://www.linkedin.com/pub/gregory&#45;kapfhammer/92/3b3/502">Linkedin</a>  -->
-          <!-- <br> -->
-          <!-- <i class="fa fa&#45;ticket"></i>  <a class="navigate" href="{{page.backup}}/site/main/Colophon/">Colophon</a>  -->
-          <!-- <br>&#38;copy; <a class="navigate" href="http://www.cs.allegheny.edu/~gkapfham/">Gregory M. Kapfhammer</a> -->
-
+        <div class="col-md-1 visible-md visible-lg sidebar">
         </div>
-
-        <!-- <div class="col&#45;md&#45;10"> -->
-        <!--     {{ content }} -->
-        <!-- </div> -->
 
         <div class="col-md-10">
           {{ content }} {% assign max_id = -45 %} {% assign stop_id = 0 %} {% assign nextid = page.id | plus:1 %} {% assign previd = page.id | minus:1 %}
@@ -87,6 +73,8 @@
           </div>
         </div>
 
+        <div class="col-md-1 visible-md visible-lg sidebar">
+        </div>
 
       </div>
 
