@@ -6401,6 +6401,9 @@ content: "";
 content: "";
 }
 a.major:target {
+  outline: 0;
   border-bottom: 2px solid currentColor;
-  -webkit-transition: all 2s ease;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
