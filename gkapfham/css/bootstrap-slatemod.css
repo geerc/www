@@ -6400,3 +6400,7 @@ content: "";
 #tw-gkapfham .interact .twitter_fav_icon:before {
 content: "";
 }
+a.major:target {
+  border-bottom: 2px solid currentColor;
+  -webkit-transition: all 2s ease;
+}

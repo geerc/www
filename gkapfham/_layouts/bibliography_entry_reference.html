@@ -12,7 +12,7 @@
   <a name="{{entry.key}}" class="major" href="{{entry.presentation}}">{{entry.title}}</a></li>
   <!-- this presentation does not have a special download link and thus we give a link to a PDF named after the key -->
   {% else %}
-  <a class="major" href="{{site.baseurl}}download/research/presentations/key/{{entry.key}}-presentation.pdf">{{entry.title}}</a></li>
+  <a name="{{entry.key}}" class="major" href="{{site.baseurl}}download/research/presentations/key/{{entry.key}}-presentation.pdf">{{entry.title}}</a></li>
   {% endif %}
 
   {% assign counter = 0 %}
