@@ -65,6 +65,10 @@ database applications</li>
 href="https://github.com/gkapfham/ast2016-paper">ast2016-paper</a>: Source code for a research paper at AST 2016</li>
 
 <li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
+href="https://github.com/schemaanalyst/icsme2016-mrstudyrtool-paper">icsme2016-mrstudyrtool-paper</a>: Source code for a tool paper
+at ICSME 2016</li>
+
+<li><i class="fa-li fa fa-code fa-lg"></i><a class="major"
 href="https://github.com/schemaanalyst/icsme2016-satool-paper">icsme2016-satool-paper</a>: Source code for a tool paper
 at ICSME 2016</li>
 
