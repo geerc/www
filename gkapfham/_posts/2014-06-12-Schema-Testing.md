@@ -30,13 +30,13 @@ developers need to address. Some recent advances in this field have focused on a
 exercise the constraints in the database schema and assessing the effectiveness of the generated data through the use of
 mutation analysis.
 
-The paper {% cite Kapfhammer2013 %} <a name="Kapfhammer2013-return"></a> introduces a search-based technique for
+The paper <a name="Kapfhammer2013-return"></a> {% cite Kapfhammer2013 %} introduces a search-based technique for
 generating database table data with the intention of exercising the integrity constraints placed on table columns. The
 testing tool described in this paper, [SchemaAnalyst](http://schemaanalyst.org/), can automatically generate data that
 will both satisfy and negate the constraints in the database schema.
 
 Of course, the process of automatically generating test data raises the question "well, how good is this data?" The
-paper {% cite Wright2013 %} <a name="Wright2013-return"></a> introduces efficient techniques for answering this
+paper <a name="Wright2013-return"></a> {% cite Wright2013 %} introduces efficient techniques for answering this
 question. The presented mutation analysis methods insert simple faults into the database's schema and check to see
 whether or not the test cases can find them. Intuitively, the tests are not very good if they can not find these faults!
 
@@ -46,7 +46,7 @@ our method outperforms DBMonster in terms of both the schema constraint coverage
 
 Interested in learning more about this topic? Since this blog post was first written, my colleagues and students and I
 have published several additional papers about the testing of relational database schemas, with the most noteworthy one
-being {% cite McMinn2015 %}. <a name="McMinn2015-return"></a> If you are interested in using SchemaAnalyst to test
+being <a name="McMinn2015-return"></a> {% cite McMinn2015 %}. If you are interested in using SchemaAnalyst to test
 your own database schema, then please download and use the tool, which is now available from the GitHub site
 [schemaanalyst-team/schemaanalyst](https://github.com/schemaanalyst-team/schemaanalyst).
 
