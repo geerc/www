@@ -8,11 +8,11 @@ categories: [main]
 
 Welcome! My name is Gregory M. Kapfhammer and I am an Associate Professor in and Chair of the [Department of Computer
 Science](http://www.cs.allegheny.edu) at [Allegheny College](http://www.allegheny.edu). I
-[teach]({{site.baseurl}}/teaching/) courses and conduct [research]({{site.baseurl}}/research/) in the areas of
-algorithms, data structures, software engineering, software testing, data management, mobile applications, and computer
-systems. In addition to organizing and teaching seminars on research methods in computer science and effective writing
-and speaking, I serve as an academic and research adviser for undergraduate and graduate students. If you would like to
-learn more about me, then you can view my curriculum vitae as either a <a target="_blank" href =
+[teach]({{site.baseurl}}/teaching/) courses, conduct [research]({{site.baseurl}}/research/), create
+[software]({{site.baseurl}}/software/), and [serve]({{site.baseurl}}/service/) organizations in technical areas such as
+software engineering, software testing, and data science. In addition to delivering seminars about research methods and
+effective communication, I serve as an academic and research adviser for undergraduate and graduate students. If you
+would like to learn more about me, then you can view my curriculum vitae as either a <a target="_blank" href =
 "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.pdf">PDF</a> or an <a target="_blank" href =
 "{{site.baseurl}}cv/curriculum_vitae_kapfhammer.html">HTML5</a> document.
 
