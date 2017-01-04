@@ -48,7 +48,7 @@
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2008 →  2016 International Workshop on Search-Based Software Testing </div>
 <br> Program  Committee Member (Nine times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2007 →  2015 Testing: Academic and Industrial Conference -- Practice and Research Techniques </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2007 →  2015 Testing: Academic and Industrial Conference &mdash; Practice and Research Techniques </div>
 <br>  Program Co-Chair (Three times)
 <br>  Program Committee Member (Four times)
 <p>
@@ -121,7 +121,7 @@
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2004 →  2015 Transactions on Software Engineering and Methodology </div>
 <br> Reviewer (Six times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2002 IEE Proceedings --- Software </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2002 IEE Proceedings &mdash; Software </div>
 <br> Reviewer (One time)
 <p>
 </ul>
