@@ -5,14 +5,14 @@
 <br>  Session Chair (One time)
 <br>  Panel Member (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 →  2016 International Conference on Software Testing, Verification and Validation </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2016 International Conference on Software Testing, Verification and Validation </div>
 <br>  Program Committee Member (Two times)
 <br>  PhD Symposium Panel Member (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 →  2015 International Workshop on Program Debugging </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 International Workshop on Program Debugging </div>
 <br> Program Committee Member (Two times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 →  2014 International Workshop on Regression Testing </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2014 International Workshop on Regression Testing </div>
 <br>  General Chair (One time)
 <br>  Program Chair (One time)
 <br>  Program Committee Member (Two times)
@@ -23,45 +23,45 @@
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 International Workshop on Testing and Debugging </div>
 <br> Program Committee Member (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 →  2016 International Workshop on Mutation Analysis </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2016 International Workshop on Mutation Analysis </div>
 <br> Program  Committee Member (Three times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 →  2015 International Conference on Tests and Proofs </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 International Conference on Tests and Proofs </div>
 <br> Program  Committee Member (Six times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 →  2015 International Workshop on the Automation of Software Test </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 International Workshop on the Automation of Software Test </div>
 <br>  Session Chair (One time)
 <br>  Workshop Co-Chair (One time)
 <br>  Program Committee Member (Four times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 →  2011 Midstates Conference for Undergraduate Research in Computer Science and Mathematics </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2011 Midstates Conference for Undergraduate Research in Computer Science and Mathematics </div>
 <br> Program Committee Member (Two times)
 <p>
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 Late Breaking Abstracts Workshop at the Genetic and Evolutionary Computation Conference </div>
 <br> Session Chair (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 →  2014 International Symposium on Search Based Software Engineering </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2014 International Symposium on Search Based Software Engineering </div>
 <br>  Publicity Chair (One time)
 <br>  Doctoral Symposium Chair (One time)
 <br>  Program Committee Member (Five times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2008 →  2016 International Workshop on Search-Based Software Testing </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2008 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2016 International Workshop on Search-Based Software Testing </div>
 <br> Program  Committee Member (Nine times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2007 →  2015 Testing: Academic and Industrial Conference &mdash; Practice and Research Techniques </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2007 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 Testing: Academic and Industrial Conference &mdash; Practice and Research Techniques </div>
 <br>  Program Co-Chair (Three times)
 <br>  Program Committee Member (Four times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2006 →  2007 International Conference on the Principles and Practice of Programming in Java </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2006 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2007 International Conference on the Principles and Practice of Programming in Java </div>
 <br> Program  Committee Member (Two times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2005 →  2006 International Conference on Software Engineering </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2005 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2006 International Conference on Software Engineering </div>
 <br> Reviewer (Two times)
 <p>
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2005 International Conference on the Foundations of Software Engineering </div>
 <br> Reviewer (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2004 →  2009 International Symposium on Applied Computing </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2004 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2009 International Symposium on Applied Computing </div>
 <br>  Session Chair (One time)
 <br>  Reviewer (One time)
 <p>
@@ -82,7 +82,7 @@
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2012 Empirical Software Engineering Journal </div>
 <br> Reviewer (Two times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 →  2016 Journal of Software: Evolution and Process </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2011 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2016 Journal of Software: Evolution and Process </div>
 <br> Reviewer (Three times)
 <p>
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 Advances in Software Engineering Journal </div>
@@ -91,34 +91,34 @@
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2010 Journal of Software Engineering and Knowledge Engineering </div>
 <br> Reviewer (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 →  2015 Journal of Software Testing, Verification and Reliability </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 Journal of Software Testing, Verification and Reliability </div>
 <br> Reviewer (Nine times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 →  2015 Journal of Systems and Software </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 Journal of Systems and Software </div>
 <br> Reviewer (Ten times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 →  2015 Software Quality Journal </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 Software Quality Journal </div>
 <br> Reviewer (Twelve times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 →  2015 Information and Software Technology Journal </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2009 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 Information and Software Technology Journal </div>
 <br> Reviewer (Eight times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2008 →  2010 Automated Software Engineering Journal </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2008 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2010 Automated Software Engineering Journal </div>
 <br> Reviewer (Two times)
 <p>
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2008 Communications of the ACM </div>
 <br> Reviewer (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2007 →  2010 Science of Computer Programming Journal </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2007 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2010 Science of Computer Programming Journal </div>
 <br> Reviewer (Two times)
 <p>
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2007 Transactions on Computers </div>
 <br> Reviewer (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2006 →  2015 Transactions on Software Engineering </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2006 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 Transactions on Software Engineering </div>
 <br> Reviewer (Twenty-six times)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2004 →  2015 Transactions on Software Engineering and Methodology </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2004 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2015 Transactions on Software Engineering and Methodology </div>
 <br> Reviewer (Six times)
 <p>
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2002 IEE Proceedings &mdash; Software </div>
@@ -144,7 +144,7 @@
 <li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2006 Handbook of Computer Networks </div>
 <br> Reviewer (One time)
 <p>
-<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2005 →  2006 Prentice Hall Books </div>
+<li><i class="fa-li fa fa-superpowers fa-lg"></i><div class="major"> 2005 <i class="fa fa-long-arrow-right" aria-hidden="true"></i> 2006 Prentice Hall Books </div>
 <br> Reviewer (Two times)
 <p>
 </ul>
