@@ -2,7 +2,7 @@
 title: Contact
 layout: defaults
 categories: [main]
-weight: 9
+weight: 10
 mapped: false
 header: true
 backup: ../../../
