@@ -26,5 +26,3 @@ students, software engineers, and computer scientists in both academia and indus
 professional [service]({{site.baseurl}}service/), my research also results in award-winning and frequently cited research
 [papers]({{site.baseurl}}research/papers/), oft-complimented [presentations]({{site.baseurl}}research/presentations/),
 and useful free and open-source [software]({{site.baseurl}}software/).
-
-
