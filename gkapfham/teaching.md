@@ -32,5 +32,5 @@ backup: ../../../
 ## Additional Courses
 
 The course materials for the classes that I taught between the Fall 2000 and Spring 2013 semesters are available if you
-[Contact Me]({{site.baseurl}}contact/) with your request. However, please note that the most representative and current
+[contact me]({{site.baseurl}}contact/) with your request. However, please note that the most representative and current
 material is accessible through the above sites.
