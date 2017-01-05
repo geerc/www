@@ -75,7 +75,7 @@
 	url = git@bitbucket.org:gkapfham/research-bibliography.git
 [submodule "gkapfham/teaching/cs111F2016/provide"]
 	path = gkapfham/teaching/cs111F2016/provide
-	url = git@bitbucket.org:gkapfham/cs111F2016.git
+	url = https://github.com/gkapfham/cs111F2016.git
 [submodule "gkapfham/teaching/cs112F2016/provide"]
 	path = gkapfham/teaching/cs112F2016/provide
 	url = git@bitbucket.org:gkapfham/cs112F2016.git
