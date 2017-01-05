@@ -75,7 +75,7 @@
 	url = git@github.com:gkapfham/cs112F2016.git
 [submodule "gkapfham/teaching/cs600F2016/provide"]
 	path = gkapfham/teaching/cs600F2016/provide
-  url = git@github.com:gkapfham/cs60061020162017.git
+  url = git@github.com:gkapfham/cs600F2016.git
 [submodule "gkapfham/cv"]
 	path = gkapfham/cv
 	url = git@github.com:gkapfham/curriculum-vitae.git
