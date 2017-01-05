@@ -313,7 +313,7 @@ a:focus {
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px;
 }
-.major {
+.serviceitem {
     text-decoration: none;
     font-weight: 600;
     font-size: 18px;
