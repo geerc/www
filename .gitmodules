@@ -49,9 +49,6 @@
 [submodule "gkapfham/teaching/cs610S2015/provide"]
 	path = gkapfham/teaching/cs610S2015/provide
 	url = git@github.com:gkapfham/cs60060120142015.git
-[submodule "gkapfham/cv"]
-	path = gkapfham/cv
-	url = git@github.com:gkapfham/curriculum-vitae.git
 [submodule "gkapfham/teaching/cs111F2015/provide"]
 	path = gkapfham/teaching/cs111F2015/provide
 	url = git@github.com:gkapfham/cs111f2015.git
@@ -82,3 +79,6 @@
 [submodule "gkapfham/teaching/cs600F2016/provide"]
 	path = gkapfham/teaching/cs600F2016/provide
 	url = git@github.com:gkapfham/cs60061020162017.git
+[submodule "gkapfham/cv"]
+	path = gkapfham/cv
+	url = git@github.com:gkapfham/curriculum-vitae.git
