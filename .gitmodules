@@ -1,6 +1,6 @@
 [submodule "gkapfham/teaching/cs380F2014/provide"]
 	path = gkapfham/teaching/cs380F2014/provide
-	url = git@github.com:gkapfham/cs380f2014.git
+	url = git@github.com:gkapfham/cs380F2014.git
 [submodule "gkapfham/teaching/cs591F2013/provide"]
 	path = gkapfham/teaching/cs591F2013/provide
 	url = git@github.com:gkapfham/cs591F2013.git
