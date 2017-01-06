@@ -18,7 +18,7 @@
 	url = git@github.com:gkapfham/cs500501s2014.git
 [submodule "gkapfham/teaching/cs440S2014/provide"]
 	path = gkapfham/teaching/cs440S2014/provide
-	url = git@github.com:gkapfham/cs440s2014.git
+	url = git@github.com:gkapfham/cs440S2014.git
 [submodule "gkapfham/teaching/cs112S2014/provide"]
 	path = gkapfham/teaching/cs112S2014/provide
 	url = git@github.com:gkapfham/cs112S2014.git
