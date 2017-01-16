@@ -1,13 +1,13 @@
 ---
-id: 0 
+id: 0
 title: Course Schedule
-subtitle: Software Everywhere 
-layout: course_item 
+subtitle: Software Everywhere
+layout: course_item
 categories: [teaching]
 weight: 0
 mapped: false
-header: false 
-course: false 
+header: false
+course: false
 backup: ../../../
 ---
 
@@ -15,14 +15,14 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
-### Module One: Questions About College 
+### Module One: Questions About College
 
 **Reading Assignments**
 
 - Louis Menand, <em>Live and Learn: Why We Have College</em>, The New Yorker.
 - Kate Zernike, <em>Making College 'Relevant'</em>, New York Times.
 - Philip Babcock (and other authors), <em>Room for Debate: Too Much Free Time on Campus?</em>, New York Times.
-- Lyn Dupre, <em>Read Me: Ear</em>, Bugs in Writing. 
+- Lyn Dupre, <em>Read Me: Ear</em>, Bugs in Writing.
 
 **Homework Assignments**
 
@@ -60,7 +60,7 @@ backup: ../../../
 - Small group work
 - Persuasive writing
 
-### Module Three: Software and Music Piracy 
+### Module Three: Software and Music Piracy
 
 **Reading Assignments**
 
@@ -68,7 +68,7 @@ backup: ../../../
 - Malin and Fowers, <em>Adolescent Self-Control and Music and Movie Piracy</em>
 - Altschuller and Benbunan-Fich, <em>Is Music Downloading the New Prohibition? What Students Reveal through an Ethical Dilemma</em>
 - Derek Webb, *Giving it Away: How Free Music Makes More Than Sense*
-- Information is Beautiful, *How Much do Music Artists Earn Online?* 
+- Information is Beautiful, *How Much do Music Artists Earn Online?*
 - Gerald Graff and Cathy Birkenstein, <em>They Say, I Say</em>, Prefaces, Introduction, Chapter 1
 -  Lyn Dupre, <em>Bugs in Writing</em>, Chapters 1, 23, 49, 77
 
@@ -116,14 +116,14 @@ backup: ../../../
 - In-class writing assignment
 - In-class presentations
 
-### Module Five: Google in Modern Society 
+### Module Five: Google in Modern Society
 
 **Reading Assignments**
 
-- John Markoff, <em>Google Cars Drive Themselves</em> 
+- John Markoff, <em>Google Cars Drive Themselves</em>
 - Claire Cain Miller, <em>Google Grows, and Works to Retain Nimble Minds</em>
 - Thomas Claburn, <em>Google Autonomous Cars Get Green Light In California</em>
-- Diana Hacker, <em>A Writer's Reference</em>, Pages 331-368 (Section R - Researching)  
+- Diana Hacker, <em>A Writer's Reference</em>, Pages 331-368 (Section R - Researching)
 
 **Homework Assignments**
 
