@@ -15,8 +15,9 @@ at [Allegheny College](http://www.allegheny.edu). I
 organizations in technical areas such as software engineering, software
 testing, and data science. In addition to delivering seminars about research
 methods and effective communication, I serve as an academic and research
-adviser for undergraduate and graduate students. If you would like to learn
-more about me, then you can read my [biography]({{site.baseurl}}/biography/).
+adviser for undergraduate and graduate students. Please read my professional
+[biography]({{site.baseurl}}/biography/) if you would like to learn more about
+me.
 
 {% comment %} or {% endcomment %}
 {% comment %} view my curriculum vitae as either a <a target="_blank" href = {% endcomment %}
