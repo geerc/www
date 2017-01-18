@@ -15,26 +15,34 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
-### Module One: Google in Modern Society
+### Module One: Web Writing
 
 **Reading Assignments**
 
-- John Markoff, <em>Google Cars Drive Themselves</em>
-- Claire Cain Miller, <em>Google Grows, and Works to Retain Nimble Minds</em>
-- Thomas Claburn, <em>Google Autonomous Cars Get Green Light In California</em>
+- Web site of Una Kravets
+- GitHub documentation
+- Slack documentation
 
-**Homework Assignments**
+{% comment %} **Homework Assignments** {% endcomment %}
 
 **In-class Activities**
 
-- Lecture and Discussion
-- Small group work
+- In-class discussions
+- Small group critique of web writing
 - Descriptive and persuasive writing
-- In-class writing assignment
-- In-class presentations
+- In-class writing and presentations
+- Learning to use Git and GitHub
 
+### Module Two: Google, Google, Google
 
+**Reading Assignments**
 
+- Reply All Podcast, <em>Episode #78: Very Quickly to the Drill</em>
+- David Segal, <em>Fake Online Locksmiths May be Out to Pick Your Pocket, Too</em>
+- John Markoff, <em>Google Cars Drive Themselves</em>
+- Thomas Claburn, <em>Google Autonomous Cars Get Green Light In California</em>
 
+{% comment %} **Homework Assignments** {% endcomment %}
 
+{% comment %} **In-class Activities** {% endcomment %}
 
