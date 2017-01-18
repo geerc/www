@@ -18,3 +18,37 @@ terminal:
 git clone https://github.com/gkapfham/www.git
 ```
 
+You can render the Markdown files in this repository to HTML by using the
+`jekyll` command. Currently, I am using the following version of `jekyll`:
+
+```shell
+jekyll --version
+jekyll 3.1.6
+```
+
+To render the Markdown files you can type:
+
+```shell
+jekyll serve --watch --incremental
+Configuration file: /home/gkapfham/working/www/gkapfham/_config.yml
+            Source: /home/gkapfham/working/www/gkapfham
+       Destination: /home/gkapfham/working/www/gkapfham/_site
+ Incremental build: enabled
+      Generating...
+                    done in 19.825 seconds.
+ Auto-regeneration: enabled for '/home/gkapfham/working/www/gkapfham'
+Configuration file: /home/gkapfham/working/www/gkapfham/_config.yml
+    Server address: http://127.0.0.1:4000/sites/gkapfham//
+  Server running... press ctrl-c to stop.
+```
+
+At this point, you can view the content by visiting
+`http://127.0.0.1:4000/sites/gkapfham/` in your web browser. You can use a
+program like `rsync` to transfer the generated HTML and CSS files in the `_site`
+directory to the correct location on your web server. Finally, please note that
+this site is not compatible with GitHub pages because of the fact that it uses
+third-party gems like `jekyll-scholar`.
+
+If you find a mistake in my web site, then please raise an issue and I will
+quickly resolve it. If you have a question about the technologies underlying
+this site, you can also raise and issue or contact me by other means.
