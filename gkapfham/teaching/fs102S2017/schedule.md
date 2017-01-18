@@ -15,7 +15,7 @@ backup: ../../../
 
 ## {{page.subtitle}}
 
-### Module One: Web Writing
+### Module One: Whoa, Web Writing
 
 **Reading Assignments**
 
