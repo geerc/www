@@ -23,6 +23,14 @@ backup: ../../../
 - GitHub documentation
 - Slack documentation
 
+**Discussion and Review Slides**
+
+<ul>
+
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/fs102S2017/provide/slides/fs102_introduction.html">Introduction</a>
+
+</ul>
+
 {% comment %} **Homework Assignments** {% endcomment %}
 
 **In-class Activities**
