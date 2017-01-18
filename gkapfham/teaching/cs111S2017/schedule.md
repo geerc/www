@@ -23,18 +23,19 @@ backup: ../../../
 - <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 2
 - <em>Java Software Solutions</em>, Lewis and Loftus, Chapter 3
 
-{% comment %} **Discussion and Review Slides** {% endcomment %}
+**Discussion and Review Slides**
 
-{% comment %} <ul> {% endcomment %}
+<ul>
 
-{% comment %} <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_whystudycomputerscience.html">Why Study Computer Science?</a> {% endcomment %}
-{% comment %} <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_introduction.html">Introduction to Computer Science I</a> {% endcomment %}
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_whystudycomputerscience.html">Why Study Computer Science?</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_introduction.html">Introduction to Computer Science I</a>
+
 {% comment %} <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_lessons_from_google.html">Lessons from Google &mdash; And Each Other!</a> {% endcomment %}
 {% comment %} <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_chapter1.html">Chapter 1: Introduction to Computation and Programming</a> {% endcomment %}
 {% comment %} <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_chapter2.html">Chapter 2: Data and Expressions</a> {% endcomment %}
 {% comment %} <li> <a target="_blank" href ="{{site.baseurl}}teaching/cs111F2016/provide/slides/cs111_chapter3.html">Chapter 3: Using Classes and Objects</a> {% endcomment %}
 
-{% comment %} </ul> {% endcomment %}
+</ul>
 
 {% comment %} ### Module Two: Exploring Classes and Objects {% endcomment %}
 
