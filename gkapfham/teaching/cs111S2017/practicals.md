@@ -20,9 +20,9 @@ backup: ../../../
 <li><a href="{{site.baseurl}}teaching/cs111S2017/provide/practicals/practical01/cs111S2017_practical01.pdf">Practical
 Assignment One: Introduction to the Use of Version Control</a> <p>Learn more about the use of Git and Bitbucket.</p>
 
-{% comment %} <li><a href="{{site.baseurl}}teaching/cs111S2017/provide/practicals/practical02/cs111S2017_practical02.pdf">Practical {% endcomment %}
-{% comment %} Assignment Two: Exploring Console-Based Output and Escape Characters</a> <p>Learn how to create formatted output with a {% endcomment %}
-{% comment %} Java program.</p> {% endcomment %}
+<li><a href="{{site.baseurl}}teaching/cs111S2017/provide/practicals/practical02/cs111S2017_practical02.pdf">Practical
+Assignment Two: Exploring Console-Based Output and Escape Characters</a> <p>Learn how to create formatted output with a
+Java program.</p>
 
 {% comment %} <li><a href="{{site.baseurl}}teaching/cs111S2017/provide/practicals/practical03/cs111S2017_practical03.pdf">Practical {% endcomment %}
 {% comment %} Assignment Three: Finding and Fixing Defects in Programs</a> <p>Work with a partner to practice explaining and debugging {% endcomment %}
