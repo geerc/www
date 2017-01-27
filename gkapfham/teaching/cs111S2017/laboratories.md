@@ -19,7 +19,7 @@ backup: ../../../
 
 <li><a href="{{site.baseurl}}teaching/cs111S2017/provide/labs/lab1/cs111S2017_lab01.pdf">Laboratory Assignment One: Exploring Ubuntu and GVim</a> <p>Learn more about Ubuntu Linux and the GVim text editor.</p>
 
-{% comment %} <li><a href="{{site.baseurl}}teaching/cs111S2017/provide/labs/lab2/cs111S2017_lab02.pdf">Laboratory Assignment Two: Using Variables to Perform Computations</a> <p>After creating a "program template", learn how to use variables and operators.</p> {% endcomment %}
+<li><a href="{{site.baseurl}}teaching/cs111S2017/provide/labs/lab2/cs111S2017_lab02.pdf">Laboratory Assignment Two: Using Variables to Perform Computations</a> <p>After creating a "program template", learn how to use variables and operators.</p>
 
 {% comment %} <li><a href="{{site.baseurl}}teaching/cs111S2017/provide/labs/lab3/cs111S2017_lab03.pdf">Laboratory Assignment Three: Performing User Input with the Scanner</a> <p>Learn how to store user input in variables and practice performing computations.</p> {% endcomment %}
 
