@@ -28,6 +28,7 @@ backup: ../../../
 <ul>
 
 <li> <a target="_blank" href ="{{site.baseurl}}teaching/fs102S2017/provide/slides/fs102_introduction.html">Introduction</a>
+<li> <a target="_blank" href ="{{site.baseurl}}teaching/fs102S2017/provide/slides/fs102_tradeoffs.html">Web Trade-offs</a>
 
 </ul>
 
